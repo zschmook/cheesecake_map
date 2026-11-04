@@ -2,7 +2,7 @@ const svg=d3.select('#map'),tip=document.getElementById('tooltip');
 let office='senate',data=null,geometry,restaurants,countyFeatures,stateFeatures,districtFeatures,projection,prProjection,path,zoomTransform=d3.zoomIdentity;
 const stateCodes={'01':'AL','02':'AK','04':'AZ','05':'AR','06':'CA','08':'CO','09':'CT','10':'DE','11':'DC','12':'FL','13':'GA','15':'HI','16':'ID','17':'IL','18':'IN','19':'IA','20':'KS','21':'KY','22':'LA','23':'ME','24':'MD','25':'MA','26':'MI','27':'MN','28':'MS','29':'MO','30':'MT','31':'NE','32':'NV','33':'NH','34':'NJ','35':'NM','36':'NY','37':'NC','38':'ND','39':'OH','40':'OK','41':'OR','42':'PA','44':'RI','45':'SC','46':'SD','47':'TN','48':'TX','49':'UT','50':'VT','51':'VA','53':'WA','54':'WV','55':'WI','56':'WY','72':'PR'};
 const selectedBrands=new Set(['cheesecake','cracker']);
-const brands={cheesecake:{name:'The Cheesecake Factory',color:'#ffe083',symbol:d3.symbolCircle},cracker:{name:'Cracker Barrel',color:'#60d8e9',symbol:d3.symbolDiamond}};
+const brands={cheesecake:{name:'The Cheesecake Factory',color:'#ffe083',symbol:d3.symbolCircle},cracker:{name:'Cracker Barrel',color:'#60d8e9',symbol:d3.symbolCircle}};
 const marker=r=>d3.symbol().type(brands[r.brand].symbol).size(43/(zoomTransform.k*zoomTransform.k))();
 const colors={Democratic:'#427fc0','Democratic-Farmer-Labor':'#427fc0',Republican:'#c65b64',other:'#7eab7b',none:'#29323d',noRace:'#858a92'};
 function votes(r){return (r?.candidates||[]).reduce((a,c)=>a+(+c.votes||0),0);}
