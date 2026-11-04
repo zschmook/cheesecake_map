@@ -1,6 +1,6 @@
 const http=require('node:http'),fs=require('node:fs'),path=require('node:path');
 const root=path.join(__dirname,'public'),cacheFile=path.join(__dirname,'data','cache.json');
-const interval=300000;let busy=false,cache={senate:null,house:null,counties:{},refreshedAt:null,attemptedAt:null,errors:[]};
+const interval=900000;let busy=false,cache={senate:null,house:null,counties:{},refreshedAt:null,attemptedAt:null,errors:[]};
 try{cache={...cache,...JSON.parse(fs.readFileSync(cacheFile))};}catch{}
 async function getRace(id){const r=await fetch(`https://civicapi.org/api/v2/race/${id}`,{signal:AbortSignal.timeout(25000)});if(!r.ok)throw Error(`race ${id}: HTTP ${r.status}`);const data=await r.json();if(data.test_data||!data.region_results)throw Error(`race ${id}: invalid or test data`);return data;}
 async function refresh(){if(busy)return;busy=true;cache.attemptedAt=new Date().toISOString();const errors=[];let updated=false;
