@@ -1,0 +1,1762 @@
+[
+  {
+    "city": "Birmingham",
+    "state": "AL",
+    "address": "236 Summit Boulevard ",
+    "lat": 33.44806,
+    "lon": -86.73119,
+    "url": "https://locations.thecheesecakefactory.com/al/birmingham-77.html"
+  },
+  {
+    "city": "Huntsville",
+    "state": "AL",
+    "address": "300 The Bridge Northwest Suite 110",
+    "lat": 34.71526,
+    "lon": -86.67282,
+    "url": "https://locations.thecheesecakefactory.com/al/huntsville-217.html"
+  },
+  {
+    "city": "Chandler",
+    "state": "AZ",
+    "address": "3111 W Chandler Boulevard Suite 2100",
+    "lat": 33.30147,
+    "lon": -111.89841,
+    "url": "https://locations.thecheesecakefactory.com/az/chandler-49.html"
+  },
+  {
+    "city": "Mesa",
+    "state": "AZ",
+    "address": "6613 E Southern Avenue ",
+    "lat": 33.39137,
+    "lon": -111.68904,
+    "url": "https://locations.thecheesecakefactory.com/az/mesa-138.html"
+  },
+  {
+    "city": "Peoria",
+    "state": "AZ",
+    "address": "16134 North 83rd Avenue ",
+    "lat": 33.63325,
+    "lon": -112.23612,
+    "url": "https://locations.thecheesecakefactory.com/az/peoria-76.html"
+  },
+  {
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "2402 East Camelback Space #101",
+    "lat": 33.51032,
+    "lon": -112.02961,
+    "url": "https://locations.thecheesecakefactory.com/az/phoenix-42.html"
+  },
+  {
+    "city": "Scottsdale",
+    "state": "AZ",
+    "address": "15230 North Scottsdale Road ",
+    "lat": 33.62495,
+    "lon": -111.9264,
+    "url": "https://locations.thecheesecakefactory.com/az/scottsdale-36.html"
+  },
+  {
+    "city": "Tucson",
+    "state": "AZ",
+    "address": "60 West Wetmore Road ",
+    "lat": 32.28776,
+    "lon": -110.97278,
+    "url": "https://locations.thecheesecakefactory.com/az/tucson-150.html"
+  },
+  {
+    "city": "Anaheim",
+    "state": "CA",
+    "address": "321 W Katella Avenue #100",
+    "lat": 33.80368,
+    "lon": -117.91195,
+    "url": "https://locations.thecheesecakefactory.com/ca/anaheim-127.html"
+  },
+  {
+    "city": "Arcadia",
+    "state": "CA",
+    "address": "903-L 400 S. Baldwin Avenue ",
+    "lat": 34.1347,
+    "lon": -118.05159,
+    "url": "https://locations.thecheesecakefactory.com/ca/arcadia-124.html"
+  },
+  {
+    "city": "Beverly Hills",
+    "state": "CA",
+    "address": "364 North Beverly Drive ",
+    "lat": 34.06987,
+    "lon": -118.40147,
+    "url": "https://locations.thecheesecakefactory.com/ca/beverly-hills-1.html"
+  },
+  {
+    "city": "Brea",
+    "state": "CA",
+    "address": "120 Brea Mall Way ",
+    "lat": 33.9124,
+    "lon": -117.88814,
+    "url": "https://locations.thecheesecakefactory.com/ca/brea-88.html"
+  },
+  {
+    "city": "Canoga Park",
+    "state": "CA",
+    "address": "6600 Topanga Canyon Boulevard Suite 51",
+    "lat": 34.1893,
+    "lon": -118.60437,
+    "url": "https://locations.thecheesecakefactory.com/ca/canoga-park-170.html"
+  },
+  {
+    "city": "Carlsbad",
+    "state": "CA",
+    "address": "2525 El Camino Real Suite 105",
+    "lat": 33.17819,
+    "lon": -117.33245,
+    "url": "https://locations.thecheesecakefactory.com/ca/carlsbad-201.html"
+  },
+  {
+    "city": "Cerritos",
+    "state": "CA",
+    "address": "201 Los Cerritos Center ",
+    "lat": 33.86178,
+    "lon": -118.09541,
+    "url": "https://locations.thecheesecakefactory.com/ca/cerritos-189.html"
+  },
+  {
+    "city": "Chula Vista",
+    "state": "CA",
+    "address": "2015 Birch Road ",
+    "lat": 32.62381,
+    "lon": -116.96694,
+    "url": "https://locations.thecheesecakefactory.com/ca/chula-vista-115.html"
+  },
+  {
+    "city": "Corte Madera",
+    "state": "CA",
+    "address": "1736 Redwood Highway ",
+    "lat": 37.93024,
+    "lon": -122.51407,
+    "url": "https://locations.thecheesecakefactory.com/ca/corte-madera-84.html"
+  },
+  {
+    "city": "Escondido",
+    "state": "CA",
+    "address": "200 E. Via Rancho Parkway Suite 370",
+    "lat": 33.07074,
+    "lon": -117.06621,
+    "url": "https://locations.thecheesecakefactory.com/ca/escondido-168.html"
+  },
+  {
+    "city": "Fresno",
+    "state": "CA",
+    "address": "639 East Shaw Avenue Suite 139",
+    "lat": 36.80801,
+    "lon": -119.77558,
+    "url": "https://locations.thecheesecakefactory.com/ca/fresno-105.html"
+  },
+  {
+    "city": "Glendale",
+    "state": "CA",
+    "address": "511 Americana Way ",
+    "lat": 34.14409,
+    "lon": -118.25754,
+    "url": "https://locations.thecheesecakefactory.com/ca/glendale-141.html"
+  },
+  {
+    "city": "Huntington Beach",
+    "state": "CA",
+    "address": "7871 Edinger Avenue ",
+    "lat": 33.73255,
+    "lon": -117.99162,
+    "url": "https://locations.thecheesecakefactory.com/ca/huntington-beach-108.html"
+  },
+  {
+    "city": "Irvine",
+    "state": "CA",
+    "address": "600 Spectrum Center Drive ",
+    "lat": 33.65097,
+    "lon": -117.74627,
+    "url": "https://locations.thecheesecakefactory.com/ca/irvine-25.html"
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "address": "189 The Grove Drive K-90",
+    "lat": 34.07139,
+    "lon": -118.35734,
+    "url": "https://locations.thecheesecakefactory.com/ca/los-angeles-92.html"
+  },
+  {
+    "city": "Marina Del Rey",
+    "state": "CA",
+    "address": "4142 Via Marina ",
+    "lat": 33.98017,
+    "lon": -118.4587,
+    "url": "https://locations.thecheesecakefactory.com/ca/marina-del-rey-2.html"
+  },
+  {
+    "city": "Mission Viejo",
+    "state": "CA",
+    "address": "42 The Shops at Mission Viejo ",
+    "lat": 33.55729,
+    "lon": -117.67046,
+    "url": "https://locations.thecheesecakefactory.com/ca/mission-viejo-33.html"
+  },
+  {
+    "city": "Oxnard",
+    "state": "CA",
+    "address": "600 Town Center Drive ",
+    "lat": 34.23971,
+    "lon": -119.17845,
+    "url": "https://locations.thecheesecakefactory.com/ca/oxnard-210.html"
+  },
+  {
+    "city": "Pasadena",
+    "state": "CA",
+    "address": "2 West Colorado Boulevard ",
+    "lat": 34.14563,
+    "lon": -118.1506,
+    "url": "https://locations.thecheesecakefactory.com/ca/pasadena-18.html"
+  },
+  {
+    "city": "Pleasanton",
+    "state": "CA",
+    "address": "1350 Stoneridge Mall Road ",
+    "lat": 37.69409,
+    "lon": -121.92904,
+    "url": "https://locations.thecheesecakefactory.com/ca/pleasanton-109.html"
+  },
+  {
+    "city": "Rancho Cucamonga",
+    "state": "CA",
+    "address": "12379 North Mainstreet ",
+    "lat": 34.1118,
+    "lon": -117.53537,
+    "url": "https://locations.thecheesecakefactory.com/ca/rancho-cucamonga-91.html"
+  },
+  {
+    "city": "Rancho Mirage",
+    "state": "CA",
+    "address": "71800 Highway 111 ",
+    "lat": 33.73961,
+    "lon": -116.41036,
+    "url": "https://locations.thecheesecakefactory.com/ca/rancho-mirage-81.html"
+  },
+  {
+    "city": "Redondo Beach",
+    "state": "CA",
+    "address": "605 North Harbor Drive ",
+    "lat": 33.84685,
+    "lon": -118.39509,
+    "url": "https://locations.thecheesecakefactory.com/ca/redondo-beach-3.html"
+  },
+  {
+    "city": "Riverside",
+    "state": "CA",
+    "address": "3525 Tyler Street ",
+    "lat": 33.90844,
+    "lon": -117.45655,
+    "url": "https://locations.thecheesecakefactory.com/ca/riverside-123.html"
+  },
+  {
+    "city": "Roseville",
+    "state": "CA",
+    "address": "1127 Galleria Boulevard ",
+    "lat": 38.77286,
+    "lon": -121.26849,
+    "url": "https://locations.thecheesecakefactory.com/ca/roseville-140.html"
+  },
+  {
+    "city": "Sacramento",
+    "state": "CA",
+    "address": "1771 Arden Way ",
+    "lat": 38.59812,
+    "lon": -121.42267,
+    "url": "https://locations.thecheesecakefactory.com/ca/sacramento-78.html"
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "address": "789 W Harbor Drive Suite C-1",
+    "lat": 32.71091,
+    "lon": -117.16958,
+    "url": "https://locations.thecheesecakefactory.com/ca/san-diego-169.html"
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "address": "7067 Friars Road ",
+    "lat": 32.76916,
+    "lon": -117.16558,
+    "url": "https://locations.thecheesecakefactory.com/ca/san-diego-28.html"
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "address": "251 Geary Street 8th Floor",
+    "lat": 37.78724,
+    "lon": -122.40746,
+    "url": "https://locations.thecheesecakefactory.com/ca/san-francisco-34.html"
+  },
+  {
+    "city": "San Jose",
+    "state": "CA",
+    "address": "925 Blossom Hill Road ",
+    "lat": 37.25179,
+    "lon": -121.86578,
+    "url": "https://locations.thecheesecakefactory.com/ca/san-jose-73.html"
+  },
+  {
+    "city": "San Mateo",
+    "state": "CA",
+    "address": "398 Hillsdale Shopping Center ",
+    "lat": 37.53788,
+    "lon": -122.30091,
+    "url": "https://locations.thecheesecakefactory.com/ca/san-mateo-156.html"
+  },
+  {
+    "city": "Santa Clara",
+    "state": "CA",
+    "address": "3041 Stevens Creek Boulevard ",
+    "lat": 37.32426,
+    "lon": -121.9475,
+    "url": "https://locations.thecheesecakefactory.com/ca/santa-clara-58.html"
+  },
+  {
+    "city": "Santa Monica",
+    "state": "CA",
+    "address": "395 Santa Monica Place Suite 305",
+    "lat": 34.01417,
+    "lon": -118.49351,
+    "url": "https://locations.thecheesecakefactory.com/ca/santa-monica-186.html"
+  },
+  {
+    "city": "Sherman Oaks",
+    "state": "CA",
+    "address": "15301 Ventura Boulevard P-1",
+    "lat": 34.15493,
+    "lon": -118.46655,
+    "url": "https://locations.thecheesecakefactory.com/ca/sherman-oaks-44.html"
+  },
+  {
+    "city": "Temecula",
+    "state": "CA",
+    "address": "40820 Winchester Road Suite #2980",
+    "lat": 33.52457,
+    "lon": -117.1546,
+    "url": "https://locations.thecheesecakefactory.com/ca/temecula-207.html"
+  },
+  {
+    "city": "Thousand Oaks",
+    "state": "CA",
+    "address": "442 West Hillcrest Drive ",
+    "lat": 34.18425,
+    "lon": -118.88757,
+    "url": "https://locations.thecheesecakefactory.com/ca/thousand-oaks-29.html"
+  },
+  {
+    "city": "Valencia",
+    "state": "CA",
+    "address": "24250 Town Center Drive #110",
+    "lat": 34.41661,
+    "lon": -118.55914,
+    "url": "https://locations.thecheesecakefactory.com/ca/valencia-198.html"
+  },
+  {
+    "city": "Walnut Creek",
+    "state": "CA",
+    "address": "1181 Locust Street Suite E",
+    "lat": 37.89584,
+    "lon": -122.06199,
+    "url": "https://locations.thecheesecakefactory.com/ca/walnut-creek-146.html"
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "address": "1201 16th Street ",
+    "lat": 39.74857,
+    "lon": -104.9963,
+    "url": "https://locations.thecheesecakefactory.com/co/denver-19.html"
+  },
+  {
+    "city": "Lakewood",
+    "state": "CO",
+    "address": "14500 W. Colfax Avenue #140",
+    "lat": 39.73198,
+    "lon": -105.15535,
+    "url": "https://locations.thecheesecakefactory.com/co/lakewood-231.html"
+  },
+  {
+    "city": "Littleton",
+    "state": "CO",
+    "address": "8501 W Bowles Avenue Suite 2095",
+    "lat": 39.61193,
+    "lon": -105.09556,
+    "url": "https://locations.thecheesecakefactory.com/co/littleton-192.html"
+  },
+  {
+    "city": "Lone Tree",
+    "state": "CO",
+    "address": "8405 Park Meadows Center Drive Suite 1001",
+    "lat": 39.56302,
+    "lon": -104.87654,
+    "url": "https://locations.thecheesecakefactory.com/co/lone-tree-61.html"
+  },
+  {
+    "city": "Danbury",
+    "state": "CT",
+    "address": "7 Backus Avenue Space M206",
+    "lat": 41.38032,
+    "lon": -73.48096,
+    "url": "https://locations.thecheesecakefactory.com/ct/danbury-155.html"
+  },
+  {
+    "city": "Trumbull",
+    "state": "CT",
+    "address": "5065 Main Street Space #314",
+    "lat": 41.22927,
+    "lon": -73.22529,
+    "url": "https://locations.thecheesecakefactory.com/ct/trumbull-180.html"
+  },
+  {
+    "city": "West Hartford",
+    "state": "CT",
+    "address": "71 Isham Road Suite B 20",
+    "lat": 41.7594,
+    "lon": -72.74018,
+    "url": "https://locations.thecheesecakefactory.com/ct/west-hartford-126.html"
+  },
+  {
+    "city": "Washington",
+    "state": "DC",
+    "address": "1426 H Street NW ",
+    "lat": 38.89999,
+    "lon": -77.03333,
+    "url": "https://locations.thecheesecakefactory.com/dc/washington-215.html"
+  },
+  {
+    "city": "Newark",
+    "state": "DE",
+    "address": "350 Christiana Mall ",
+    "lat": 39.67877,
+    "lon": -75.65111,
+    "url": "https://locations.thecheesecakefactory.com/de/newark-151.html"
+  },
+  {
+    "city": "Aventura",
+    "state": "FL",
+    "address": "19501 Biscayne Boulevard ",
+    "lat": 25.9573,
+    "lon": -80.14507,
+    "url": "https://locations.thecheesecakefactory.com/fl/aventura-24.html"
+  },
+  {
+    "city": "Boca Raton",
+    "state": "FL",
+    "address": "5530 Glades Road ",
+    "lat": 26.36734,
+    "lon": -80.12986,
+    "url": "https://locations.thecheesecakefactory.com/fl/boca-raton-11.html"
+  },
+  {
+    "city": "Brandon",
+    "state": "FL",
+    "address": "781 Brandon Town Center Mall ",
+    "lat": 27.9315,
+    "lon": -82.32666,
+    "url": "https://locations.thecheesecakefactory.com/fl/brandon-125.html"
+  },
+  {
+    "city": "Clearwater",
+    "state": "FL",
+    "address": "27001 US Hwy 19 N Unit 2040",
+    "lat": 28.01706,
+    "lon": -82.73557,
+    "url": "https://locations.thecheesecakefactory.com/fl/clearwater-216.html"
+  },
+  {
+    "city": "Coconut Creek",
+    "state": "FL",
+    "address": "4413 Lyons Rd Suite 107",
+    "lat": 26.28329,
+    "lon": -80.187,
+    "url": "https://locations.thecheesecakefactory.com/fl/coconut-creek-222.html"
+  },
+  {
+    "city": "Coral Gables",
+    "state": "FL",
+    "address": "2418 Ponce De Leon Boulevard ",
+    "lat": 25.74883,
+    "lon": -80.25892,
+    "url": "https://locations.thecheesecakefactory.com/fl/coral-gables-214.html"
+  },
+  {
+    "city": "Estero",
+    "state": "FL",
+    "address": "23106 Fashion Dr Ste 135",
+    "lat": 26.4039,
+    "lon": -81.80827,
+    "url": "https://locations.thecheesecakefactory.com/fl/estero-224.html"
+  },
+  {
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "address": "600 E Las Olas Boulevard ",
+    "lat": 26.1187,
+    "lon": -80.13684,
+    "url": "https://locations.thecheesecakefactory.com/fl/fort-lauderdale-54.html"
+  },
+  {
+    "city": "Gainesville",
+    "state": "FL",
+    "address": "2851 SW 35th Drive Suite 70",
+    "lat": 29.60744,
+    "lon": -82.37409,
+    "url": "https://locations.thecheesecakefactory.com/fl/gainesville-211.html"
+  },
+  {
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "10260 Midtown Parkway ",
+    "lat": 30.25767,
+    "lon": -81.52686,
+    "url": "https://locations.thecheesecakefactory.com/fl/jacksonville-90.html"
+  },
+  {
+    "city": "Lutz",
+    "state": "FL",
+    "address": "2362 Grand Cypress Drive ",
+    "lat": 28.1912,
+    "lon": -82.39202,
+    "url": "https://locations.thecheesecakefactory.com/fl/lutz-232.html"
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "address": "11401 NW 12th Street, Space E512 ",
+    "lat": 25.7865,
+    "lon": -80.38152,
+    "url": "https://locations.thecheesecakefactory.com/fl/miami-164.html"
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "address": "7497 Dadeland Mall ",
+    "lat": 25.69054,
+    "lon": -80.3125,
+    "url": "https://locations.thecheesecakefactory.com/fl/miami-22.html"
+  },
+  {
+    "city": "Miami Beach",
+    "state": "FL",
+    "address": "600 Lincoln Road ",
+    "lat": 25.79046,
+    "lon": -80.13442,
+    "url": "https://locations.thecheesecakefactory.com/fl/miami-beach-218.html"
+  },
+  {
+    "city": "Naples",
+    "state": "FL",
+    "address": "2090 North Tamiami Trail ",
+    "lat": 26.1381,
+    "lon": -81.78293,
+    "url": "https://locations.thecheesecakefactory.com/fl/naples-89.html"
+  },
+  {
+    "city": "Orlando",
+    "state": "FL",
+    "address": "11602 Regency Village Drive ",
+    "lat": 28.39311,
+    "lon": -81.48826,
+    "url": "https://locations.thecheesecakefactory.com/fl/orlando-213.html"
+  },
+  {
+    "city": "Orlando",
+    "state": "FL",
+    "address": "4200 Conroy Road Space A-148",
+    "lat": 28.48554,
+    "lon": -81.4315,
+    "url": "https://locations.thecheesecakefactory.com/fl/orlando-56.html"
+  },
+  {
+    "city": "Palm Beach Gardens",
+    "state": "FL",
+    "address": "11800 Lake Victoria Gardens Avenue ",
+    "lat": 26.84969,
+    "lon": -80.09291,
+    "url": "https://locations.thecheesecakefactory.com/fl/palm-beach-gardens-96.html"
+  },
+  {
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "address": "14559 SW 5th Street Suite 4060",
+    "lat": 26.00434,
+    "lon": -80.33659,
+    "url": "https://locations.thecheesecakefactory.com/fl/pembroke-pines-143.html"
+  },
+  {
+    "city": "Sarasota",
+    "state": "FL",
+    "address": "130 University Town Center Drive ",
+    "lat": 27.38454,
+    "lon": -82.45311,
+    "url": "https://locations.thecheesecakefactory.com/fl/sarasota-175.html"
+  },
+  {
+    "city": "Sunrise",
+    "state": "FL",
+    "address": "2612 Sawgrass Mills Circle ",
+    "lat": 26.15302,
+    "lon": -80.32157,
+    "url": "https://locations.thecheesecakefactory.com/fl/sunrise-27.html"
+  },
+  {
+    "city": "Tampa",
+    "state": "FL",
+    "address": "2223 North West Shore Boulevard Suite B201",
+    "lat": 27.97449,
+    "lon": -82.52398,
+    "url": "https://locations.thecheesecakefactory.com/fl/tampa-50.html"
+  },
+  {
+    "city": "West Palm Beach",
+    "state": "FL",
+    "address": "651 Okeechobee Blvd. ",
+    "lat": 26.7074,
+    "lon": -80.05742,
+    "url": "https://locations.thecheesecakefactory.com/fl/west-palm-beach-230.html"
+  },
+  {
+    "city": "Winter Park",
+    "state": "FL",
+    "address": "520 N. Orlando Ave Suite 100",
+    "lat": 28.60221,
+    "lon": -81.36272,
+    "url": "https://locations.thecheesecakefactory.com/fl/winter-park-45.html"
+  },
+  {
+    "city": "Alpharetta",
+    "state": "GA",
+    "address": "2075 North Point Circle ",
+    "lat": 34.0468,
+    "lon": -84.29367,
+    "url": "https://locations.thecheesecakefactory.com/ga/alpharetta-83.html"
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "1609 Cumberland Mall ",
+    "lat": 33.88082,
+    "lon": -84.46792,
+    "url": "https://locations.thecheesecakefactory.com/ga/atlanta-121.html"
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "3393 Peachtree Road NE Suite 3076A",
+    "lat": 33.84673,
+    "lon": -84.36242,
+    "url": "https://locations.thecheesecakefactory.com/ga/atlanta-176.html"
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "4400 Ashford-Dunwoody Road Suite 3005",
+    "lat": 33.92456,
+    "lon": -84.34098,
+    "url": "https://locations.thecheesecakefactory.com/ga/atlanta-35.html"
+  },
+  {
+    "city": "Buford",
+    "state": "GA",
+    "address": "3333 Buford Drive Space VD01H",
+    "lat": 34.06483,
+    "lon": -83.9842,
+    "url": "https://locations.thecheesecakefactory.com/ga/buford-172.html"
+  },
+  {
+    "city": "Cumming",
+    "state": "GA",
+    "address": "410 Peachtree Pkwy Suite 242",
+    "lat": 34.15253,
+    "lon": -84.17783,
+    "url": "https://locations.thecheesecakefactory.com/ga/cumming-235.html"
+  },
+  {
+    "city": "Honolulu",
+    "state": "HI",
+    "address": "2301 Kalakaua Avenue ",
+    "lat": 21.27817,
+    "lon": -157.82834,
+    "url": "https://locations.thecheesecakefactory.com/hi/honolulu-68.html"
+  },
+  {
+    "city": "Kapolei",
+    "state": "HI",
+    "address": "91-5431 Kapolei Parkway Suite 1300",
+    "lat": 21.33511,
+    "lon": -158.05467,
+    "url": "https://locations.thecheesecakefactory.com/hi/kapolei-202.html"
+  },
+  {
+    "city": "Des Moines",
+    "state": "IA",
+    "address": "101 Jordan Creek Parkway ",
+    "lat": 41.56993,
+    "lon": -93.80417,
+    "url": "https://locations.thecheesecakefactory.com/ia/des-moines-86.html"
+  },
+  {
+    "city": "Boise",
+    "state": "ID",
+    "address": "330 North Milwaukee ",
+    "lat": 43.60714,
+    "lon": -116.27856,
+    "url": "https://locations.thecheesecakefactory.com/id/boise-120.html"
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "address": "875 North Michigan Avenue ",
+    "lat": 41.89881,
+    "lon": -87.62308,
+    "url": "https://locations.thecheesecakefactory.com/il/chicago-12.html"
+  },
+  {
+    "city": "Lincolnshire",
+    "state": "IL",
+    "address": "930 Milwaukee Avenue ",
+    "lat": 42.18284,
+    "lon": -87.9285,
+    "url": "https://locations.thecheesecakefactory.com/il/lincolnshire-99.html"
+  },
+  {
+    "city": "Naperville",
+    "state": "IL",
+    "address": "428 S State Route 59 ",
+    "lat": 41.76456,
+    "lon": -88.20379,
+    "url": "https://locations.thecheesecakefactory.com/il/naperville-228.html"
+  },
+  {
+    "city": "Oak Brook",
+    "state": "IL",
+    "address": "2020 Spring Road ",
+    "lat": 41.84983,
+    "lon": -87.94964,
+    "url": "https://locations.thecheesecakefactory.com/il/oak-brook-79.html"
+  },
+  {
+    "city": "Orland Park",
+    "state": "IL",
+    "address": "304 Orland Square Drive ",
+    "lat": 41.62015,
+    "lon": -87.84949,
+    "url": "https://locations.thecheesecakefactory.com/il/orland-park-163.html"
+  },
+  {
+    "city": "Schaumburg",
+    "state": "IL",
+    "address": "53 Woodfield Road F-301",
+    "lat": 42.04316,
+    "lon": -88.04485,
+    "url": "https://locations.thecheesecakefactory.com/il/schaumburg-40.html"
+  },
+  {
+    "city": "Skokie",
+    "state": "IL",
+    "address": "4999 Old Orchard Center Space H20",
+    "lat": 42.06151,
+    "lon": -87.74904,
+    "url": "https://locations.thecheesecakefactory.com/il/skokie-15.html"
+  },
+  {
+    "city": "Greenwood",
+    "state": "IN",
+    "address": "1251 US Highway 31 N ",
+    "lat": 39.63304,
+    "lon": -86.12357,
+    "url": "https://locations.thecheesecakefactory.com/in/greenwood-139.html"
+  },
+  {
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "8701 Keystone Crossing Suite 4A",
+    "lat": 39.91389,
+    "lon": -86.10872,
+    "url": "https://locations.thecheesecakefactory.com/in/indianapolis-37.html"
+  },
+  {
+    "city": "Overland Park",
+    "state": "KS",
+    "address": "6675 West 119th Street ",
+    "lat": 38.91237,
+    "lon": -94.66217,
+    "url": "https://locations.thecheesecakefactory.com/ks/overland-park-63.html"
+  },
+  {
+    "city": "Wichita",
+    "state": "KS",
+    "address": "2020 N. Rock Road ",
+    "lat": 37.71982,
+    "lon": -97.24392,
+    "url": "https://locations.thecheesecakefactory.com/ks/wichita-236.html"
+  },
+  {
+    "city": "Lexington",
+    "state": "KY",
+    "address": "3545 Nicholasville Road ",
+    "lat": 37.98827,
+    "lon": -84.52734,
+    "url": "https://locations.thecheesecakefactory.com/ky/lexington-179.html"
+  },
+  {
+    "city": "Louisville",
+    "state": "KY",
+    "address": "5000 Shelbyville Road Suite 1585",
+    "lat": 38.24672,
+    "lon": -85.62325,
+    "url": "https://locations.thecheesecakefactory.com/ky/louisville-97.html"
+  },
+  {
+    "city": "Metairie",
+    "state": "LA",
+    "address": "3301 Veterans Memorial Blvd Suite 15",
+    "lat": 30.00637,
+    "lon": -90.15667,
+    "url": "https://locations.thecheesecakefactory.com/la/metairie-177.html"
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "address": "115 Huntington Avenue Suite 181",
+    "lat": 42.34592,
+    "lon": -71.08188,
+    "url": "https://locations.thecheesecakefactory.com/ma/boston-52.html"
+  },
+  {
+    "city": "Braintree",
+    "state": "MA",
+    "address": "250 Granite Street ",
+    "lat": 42.22174,
+    "lon": -71.02287,
+    "url": "https://locations.thecheesecakefactory.com/ma/braintree-95.html"
+  },
+  {
+    "city": "Burlington",
+    "state": "MA",
+    "address": "75 Middlesex Turnpike #1067 A",
+    "lat": 42.48239,
+    "lon": -71.21368,
+    "url": "https://locations.thecheesecakefactory.com/ma/burlington-94.html"
+  },
+  {
+    "city": "Cambridge",
+    "state": "MA",
+    "address": "100 CambridgeSide Place ",
+    "lat": 42.36708,
+    "lon": -71.07728,
+    "url": "https://locations.thecheesecakefactory.com/ma/cambridge-23.html"
+  },
+  {
+    "city": "Chestnut Hill",
+    "state": "MA",
+    "address": "199 Boylston Street ",
+    "lat": 42.32151,
+    "lon": -71.17567,
+    "url": "https://locations.thecheesecakefactory.com/ma/chestnut-hill-171.html"
+  },
+  {
+    "city": "Natick",
+    "state": "MA",
+    "address": "1245 Worcester Street ",
+    "lat": 42.30067,
+    "lon": -71.38333,
+    "url": "https://locations.thecheesecakefactory.com/ma/natick-134.html"
+  },
+  {
+    "city": "Peabody",
+    "state": "MA",
+    "address": "210 Andover Street ",
+    "lat": 42.54142,
+    "lon": -70.94459,
+    "url": "https://locations.thecheesecakefactory.com/ma/peabody-137.html"
+  },
+  {
+    "city": "Annapolis",
+    "state": "MD",
+    "address": "1872 Annapolis Mall Road ",
+    "lat": 38.99017,
+    "lon": -76.54309,
+    "url": "https://locations.thecheesecakefactory.com/md/annapolis-149.html"
+  },
+  {
+    "city": "Bethesda",
+    "state": "MD",
+    "address": "7101 Democracy Boulevard ",
+    "lat": 39.02414,
+    "lon": -77.146,
+    "url": "https://locations.thecheesecakefactory.com/md/bethesda-173.html"
+  },
+  {
+    "city": "Columbia",
+    "state": "MD",
+    "address": "10300 Little Patuxent Parkway ",
+    "lat": 39.2157,
+    "lon": -76.86148,
+    "url": "https://locations.thecheesecakefactory.com/md/columbia-103.html"
+  },
+  {
+    "city": "Hanover",
+    "state": "MD",
+    "address": "7002 Arundel Mills Circle Suite 7777CCF",
+    "lat": 39.15685,
+    "lon": -76.72781,
+    "url": "https://locations.thecheesecakefactory.com/md/hanover-160.html"
+  },
+  {
+    "city": "Towson",
+    "state": "MD",
+    "address": "825 Dulaney Valley Road Suite 1159",
+    "lat": 39.40427,
+    "lon": -76.59903,
+    "url": "https://locations.thecheesecakefactory.com/md/towson-145.html"
+  },
+  {
+    "city": "Kentwood",
+    "state": "MI",
+    "address": "3195 28th Street SE Suite B-121",
+    "lat": 42.91598,
+    "lon": -85.58829,
+    "url": "https://locations.thecheesecakefactory.com/mi/kentwood-212.html"
+  },
+  {
+    "city": "Novi",
+    "state": "MI",
+    "address": "27500 Novi Road ",
+    "lat": 42.49233,
+    "lon": -83.47072,
+    "url": "https://locations.thecheesecakefactory.com/mi/novi-167.html"
+  },
+  {
+    "city": "Edina",
+    "state": "MN",
+    "address": "2715 Southdale Center ",
+    "lat": 44.87982,
+    "lon": -93.32508,
+    "url": "https://locations.thecheesecakefactory.com/mn/edina-53.html"
+  },
+  {
+    "city": "Minnetonka",
+    "state": "MN",
+    "address": "12735 Wayzata Boulevard ",
+    "lat": 44.96764,
+    "lon": -93.43648,
+    "url": "https://locations.thecheesecakefactory.com/mn/minnetonka-203.html"
+  },
+  {
+    "city": "Des Peres",
+    "state": "MO",
+    "address": "17 West County Center Ste A101",
+    "lat": 38.60169,
+    "lon": -90.44792,
+    "url": "https://locations.thecheesecakefactory.com/mo/des-peres-237.html"
+  },
+  {
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "4701 Wyandotte Street ",
+    "lat": 39.04202,
+    "lon": -94.58863,
+    "url": "https://locations.thecheesecakefactory.com/mo/kansas-city-17.html"
+  },
+  {
+    "city": "St. Louis",
+    "state": "MO",
+    "address": "1062 St. Louis Galleria Parkway ",
+    "lat": 38.63615,
+    "lon": -90.34779,
+    "url": "https://locations.thecheesecakefactory.com/mo/st-louis-57.html"
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "address": "4400 Sharon Road Space A",
+    "lat": 35.15065,
+    "lon": -80.83173,
+    "url": "https://locations.thecheesecakefactory.com/nc/charlotte-60.html"
+  },
+  {
+    "city": "Concord",
+    "state": "NC",
+    "address": "8111 Concord Mills Blvd. Space 357",
+    "lat": 35.37021,
+    "lon": -80.72333,
+    "url": "https://locations.thecheesecakefactory.com/nc/concord-239.html"
+  },
+  {
+    "city": "Durham",
+    "state": "NC",
+    "address": "8030 Renaissance Parkway Suite 950",
+    "lat": 35.90468,
+    "lon": -78.94427,
+    "url": "https://locations.thecheesecakefactory.com/nc/durham-102.html"
+  },
+  {
+    "city": "Greensboro",
+    "state": "NC",
+    "address": "3124 W Friendly Avenue ",
+    "lat": 36.08449,
+    "lon": -79.83278,
+    "url": "https://locations.thecheesecakefactory.com/nc/greensboro-197.html"
+  },
+  {
+    "city": "Huntersville",
+    "state": "NC",
+    "address": "8701 Townley Road ",
+    "lat": 35.44434,
+    "lon": -80.87994,
+    "url": "https://locations.thecheesecakefactory.com/nc/huntersville-223.html"
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "address": "4325 Glenwood Avenue ",
+    "lat": 35.83809,
+    "lon": -78.67648,
+    "url": "https://locations.thecheesecakefactory.com/nc/raleigh-67.html"
+  },
+  {
+    "city": "Omaha",
+    "state": "NE",
+    "address": "10120 California Street ",
+    "lat": 41.2645,
+    "lon": -96.06948,
+    "url": "https://locations.thecheesecakefactory.com/ne/omaha-106.html"
+  },
+  {
+    "city": "Bridgewater",
+    "state": "NJ",
+    "address": "400 Commons Way Suite 270",
+    "lat": 40.58639,
+    "lon": -74.61991,
+    "url": "https://locations.thecheesecakefactory.com/nj/bridgewater-148.html"
+  },
+  {
+    "city": "Cherry Hill",
+    "state": "NJ",
+    "address": "931 Haddonfield Road ",
+    "lat": 39.92534,
+    "lon": -75.03396,
+    "url": "https://locations.thecheesecakefactory.com/nj/cherry-hill-110.html"
+  },
+  {
+    "city": "Edison",
+    "state": "NJ",
+    "address": "455 Menlo Park Drive ",
+    "lat": 40.54919,
+    "lon": -74.33551,
+    "url": "https://locations.thecheesecakefactory.com/nj/edison-59.html"
+  },
+  {
+    "city": "Freehold",
+    "state": "NJ",
+    "address": "3710 US Highway 9 ",
+    "lat": 40.25423,
+    "lon": -74.30137,
+    "url": "https://locations.thecheesecakefactory.com/nj/freehold-132.html"
+  },
+  {
+    "city": "Hackensack",
+    "state": "NJ",
+    "address": "390 Hackensack Avenue Suite 155",
+    "lat": 40.90777,
+    "lon": -74.03094,
+    "url": "https://locations.thecheesecakefactory.com/nj/hackensack-200.html"
+  },
+  {
+    "city": "Jersey City",
+    "state": "NJ",
+    "address": "30 Mall Drive West Unit #A22",
+    "lat": 40.72684,
+    "lon": -74.03799,
+    "url": "https://locations.thecheesecakefactory.com/nj/jersey-city-194.html"
+  },
+  {
+    "city": "Lawrenceville",
+    "state": "NJ",
+    "address": "3320 US Highway 1 Unit 161",
+    "lat": 40.29111,
+    "lon": -74.6831,
+    "url": "https://locations.thecheesecakefactory.com/nj/lawrenceville-159.html"
+  },
+  {
+    "city": "Rockaway",
+    "state": "NJ",
+    "address": "301 Mount Hope Avenue Suite 1013B",
+    "lat": 40.90708,
+    "lon": -74.55342,
+    "url": "https://locations.thecheesecakefactory.com/nj/rockaway-205.html"
+  },
+  {
+    "city": "Short Hills",
+    "state": "NJ",
+    "address": "1200 Morris Turnpike Suite D-103",
+    "lat": 40.74087,
+    "lon": -74.36425,
+    "url": "https://locations.thecheesecakefactory.com/nj/short-hills-154.html"
+  },
+  {
+    "city": "Wayne",
+    "state": "NJ",
+    "address": "1700 Willowbrook Boulevard ",
+    "lat": 40.88887,
+    "lon": -74.2586,
+    "url": "https://locations.thecheesecakefactory.com/nj/wayne-80.html"
+  },
+  {
+    "city": "Albuquerque",
+    "state": "NM",
+    "address": "6600 Menaul Boulevard NE Space 600",
+    "lat": 35.10551,
+    "lon": -106.56937,
+    "url": "https://locations.thecheesecakefactory.com/nm/albuquerque-193.html"
+  },
+  {
+    "city": "Henderson",
+    "state": "NV",
+    "address": "160 S Green Valley Parkway ",
+    "lat": 36.02188,
+    "lon": -115.08316,
+    "url": "https://locations.thecheesecakefactory.com/nv/henderson-100.html"
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "address": "505 S Grand Central Parkway Suite 3201",
+    "lat": 36.16613,
+    "lon": -115.1564,
+    "url": "https://locations.thecheesecakefactory.com/nv/las-vegas-187.html"
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "address": "3500 South Las Vegas Boulevard ",
+    "lat": 36.11903,
+    "lon": -115.17601,
+    "url": "https://locations.thecheesecakefactory.com/nv/las-vegas-21.html"
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "address": "750 S Rampart Boulevard Bldg 17",
+    "lat": 36.16434,
+    "lon": -115.28978,
+    "url": "https://locations.thecheesecakefactory.com/nv/las-vegas-55.html"
+  },
+  {
+    "city": "Reno",
+    "state": "NV",
+    "address": "5162 Meadowood Mall Circle ",
+    "lat": 39.47369,
+    "lon": -119.78399,
+    "url": "https://locations.thecheesecakefactory.com/nv/reno-178.html"
+  },
+  {
+    "city": "Albany",
+    "state": "NY",
+    "address": "131 Wolf Road #140",
+    "lat": 42.71113,
+    "lon": -73.81675,
+    "url": "https://locations.thecheesecakefactory.com/ny/albany-113.html"
+  },
+  {
+    "city": "Bay Shore",
+    "state": "NY",
+    "address": "1701 Sunrise Highway Space A25",
+    "lat": 40.73963,
+    "lon": -73.24668,
+    "url": "https://locations.thecheesecakefactory.com/ny/bay-shore-183.html"
+  },
+  {
+    "city": "Cheektowaga",
+    "state": "NY",
+    "address": "1 Walden Galleria Drive Space TH-170",
+    "lat": 42.91403,
+    "lon": -78.76279,
+    "url": "https://locations.thecheesecakefactory.com/ny/cheektowaga-116.html"
+  },
+  {
+    "city": "Elmhurst",
+    "state": "NY",
+    "address": "90-15 Queens Boulevard Space #1073",
+    "lat": 40.73444,
+    "lon": -73.86996,
+    "url": "https://locations.thecheesecakefactory.com/ny/elmhurst-196.html"
+  },
+  {
+    "city": "Huntington",
+    "state": "NY",
+    "address": "160 Walt Whitman Road Suite 1109B",
+    "lat": 40.82024,
+    "lon": -73.40937,
+    "url": "https://locations.thecheesecakefactory.com/ny/huntington-136.html"
+  },
+  {
+    "city": "Lake Grove",
+    "state": "NY",
+    "address": "610 Smith Haven Mall Space P-10",
+    "lat": 40.86421,
+    "lon": -73.13266,
+    "url": "https://locations.thecheesecakefactory.com/ny/lake-grove-111.html"
+  },
+  {
+    "city": "Pittsford",
+    "state": "NY",
+    "address": "3349 Monroe Avenue ",
+    "lat": 43.10129,
+    "lon": -77.53836,
+    "url": "https://locations.thecheesecakefactory.com/ny/pittsford-129.html"
+  },
+  {
+    "city": "Syracuse",
+    "state": "NY",
+    "address": "306 Hiawatha Boulevard West Space J-112 ",
+    "lat": 43.0687,
+    "lon": -76.17099,
+    "url": "https://locations.thecheesecakefactory.com/ny/syracuse-174.html"
+  },
+  {
+    "city": "Valley Stream",
+    "state": "NY",
+    "address": "2034 Green Acres Road ",
+    "lat": 40.66255,
+    "lon": -73.72057,
+    "url": "https://locations.thecheesecakefactory.com/ny/valley-stream-234.html"
+  },
+  {
+    "city": "West Nyack",
+    "state": "NY",
+    "address": "1612 Palisades Center Drive ",
+    "lat": 41.09654,
+    "lon": -73.95559,
+    "url": "https://locations.thecheesecakefactory.com/ny/west-nyack-62.html"
+  },
+  {
+    "city": "Westbury",
+    "state": "NY",
+    "address": "1504 Old Country Road ",
+    "lat": 40.74408,
+    "lon": -73.59511,
+    "url": "https://locations.thecheesecakefactory.com/ny/westbury-20.html"
+  },
+  {
+    "city": "White Plains",
+    "state": "NY",
+    "address": "1 Maple Avenue ",
+    "lat": 41.02917,
+    "lon": -73.75936,
+    "url": "https://locations.thecheesecakefactory.com/ny/white-plains-69.html"
+  },
+  {
+    "city": "Yonkers",
+    "state": "NY",
+    "address": "140 Market Street ",
+    "lat": 40.96388,
+    "lon": -73.85601,
+    "url": "https://locations.thecheesecakefactory.com/ny/yonkers-152.html"
+  },
+  {
+    "city": "Beavercreek",
+    "state": "OH",
+    "address": "56 Greene Boulevard ",
+    "lat": 39.69465,
+    "lon": -84.10219,
+    "url": "https://locations.thecheesecakefactory.com/oh/beavercreek-112.html"
+  },
+  {
+    "city": "Cincinnati",
+    "state": "OH",
+    "address": "7875 Montgomery Road ",
+    "lat": 39.20087,
+    "lon": -84.37848,
+    "url": "https://locations.thecheesecakefactory.com/oh/cincinnati-74.html"
+  },
+  {
+    "city": "Columbus",
+    "state": "OH",
+    "address": "1566 Polaris Parkway #124",
+    "lat": 40.14532,
+    "lon": -82.97796,
+    "url": "https://locations.thecheesecakefactory.com/oh/columbus-144.html"
+  },
+  {
+    "city": "Columbus",
+    "state": "OH",
+    "address": "3975 Townsfair Way ",
+    "lat": 40.04868,
+    "lon": -82.91566,
+    "url": "https://locations.thecheesecakefactory.com/oh/columbus-30.html"
+  },
+  {
+    "city": "Liberty Township",
+    "state": "OH",
+    "address": "7612 Blake Street ",
+    "lat": 39.37092,
+    "lon": -84.37158,
+    "url": "https://locations.thecheesecakefactory.com/oh/liberty-township-185.html"
+  },
+  {
+    "city": "Lyndhurst",
+    "state": "OH",
+    "address": "24265 Cedar Road ",
+    "lat": 41.50238,
+    "lon": -81.50224,
+    "url": "https://locations.thecheesecakefactory.com/oh/lyndhurst-70.html"
+  },
+  {
+    "city": "Westlake",
+    "state": "OH",
+    "address": "148 Crocker Park Boulevard ",
+    "lat": 41.46013,
+    "lon": -81.95088,
+    "url": "https://locations.thecheesecakefactory.com/oh/westlake-93.html"
+  },
+  {
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "5600 N Penn Avenue ",
+    "lat": 35.52602,
+    "lon": -97.54715,
+    "url": "https://locations.thecheesecakefactory.com/ok/oklahoma-city-117.html"
+  },
+  {
+    "city": "Tulsa",
+    "state": "OK",
+    "address": "8711 E 71st Street S ",
+    "lat": 36.06143,
+    "lon": -95.87956,
+    "url": "https://locations.thecheesecakefactory.com/ok/tulsa-130.html"
+  },
+  {
+    "city": "Happy Valley",
+    "state": "OR",
+    "address": "12000 SE 82nd Avenue Suite 2044",
+    "lat": 45.43417,
+    "lon": -122.57222,
+    "url": "https://locations.thecheesecakefactory.com/or/happy-valley-204.html"
+  },
+  {
+    "city": "Tigard",
+    "state": "OR",
+    "address": "9309 Washington Square Rd ",
+    "lat": 45.45099,
+    "lon": -122.78236,
+    "url": "https://locations.thecheesecakefactory.com/or/tigard-101.html"
+  },
+  {
+    "city": "King of Prussia",
+    "state": "PA",
+    "address": "640 W. Dekalb Pike Suite 1200",
+    "lat": 40.09026,
+    "lon": -75.38431,
+    "url": "https://locations.thecheesecakefactory.com/pa/king-of-prussia-46.html"
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": "1430 Walnut Street ",
+    "lat": 39.9491,
+    "lon": -75.16588,
+    "url": "https://locations.thecheesecakefactory.com/pa/philadelphia-181.html"
+  },
+  {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "address": "415 South 27th Street ",
+    "lat": 40.42825,
+    "lon": -79.9653,
+    "url": "https://locations.thecheesecakefactory.com/pa/pittsburgh-75.html"
+  },
+  {
+    "city": "Ross Township",
+    "state": "PA",
+    "address": "1000 Ross Park Mall Drive ",
+    "lat": 40.54419,
+    "lon": -80.00719,
+    "url": "https://locations.thecheesecakefactory.com/pa/ross-township-122.html"
+  },
+  {
+    "city": "Whitehall",
+    "state": "PA",
+    "address": "802 Lehigh Lifestyle Center ",
+    "lat": 40.63097,
+    "lon": -75.48032,
+    "url": "https://locations.thecheesecakefactory.com/pa/whitehall-226.html"
+  },
+  {
+    "city": "Willow Grove",
+    "state": "PA",
+    "address": "2500 West Moreland Road #3225",
+    "lat": 40.14012,
+    "lon": -75.12345,
+    "url": "https://locations.thecheesecakefactory.com/pa/willow-grove-128.html"
+  },
+  {
+    "city": "Providence",
+    "state": "RI",
+    "address": "94 Providence Place ",
+    "lat": 41.82899,
+    "lon": -71.4157,
+    "url": "https://locations.thecheesecakefactory.com/ri/providence-32.html"
+  },
+  {
+    "city": "Greenville",
+    "state": "SC",
+    "address": "700 Haywood Mall ",
+    "lat": 34.84992,
+    "lon": -82.33359,
+    "url": "https://locations.thecheesecakefactory.com/sc/greenville-195.html"
+  },
+  {
+    "city": "Chattanooga",
+    "state": "TN",
+    "address": "2084 Hamilton Place Boulevard ",
+    "lat": 35.03281,
+    "lon": -85.16114,
+    "url": "https://locations.thecheesecakefactory.com/tn/chattanooga-208.html"
+  },
+  {
+    "city": "Franklin",
+    "state": "TN",
+    "address": "1800 Galleria Boulevard Suite 1166",
+    "lat": 35.95712,
+    "lon": -86.81356,
+    "url": "https://locations.thecheesecakefactory.com/tn/franklin-182.html"
+  },
+  {
+    "city": "Knoxville",
+    "state": "TN",
+    "address": "201 Morrell Road ",
+    "lat": 35.92565,
+    "lon": -84.03653,
+    "url": "https://locations.thecheesecakefactory.com/tn/knoxville-166.html"
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "address": "253 Opry Mills Dr. ",
+    "lat": 36.20348,
+    "lon": -86.6948,
+    "url": "https://locations.thecheesecakefactory.com/tn/nashville-220.html"
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "address": "2133 Green Hills Village Drive ",
+    "lat": 36.10782,
+    "lon": -86.81493,
+    "url": "https://locations.thecheesecakefactory.com/tn/nashville-98.html"
+  },
+  {
+    "city": "Allen",
+    "state": "TX",
+    "address": "820 Central Expressway ",
+    "lat": 33.08914,
+    "lon": -96.68282,
+    "url": "https://locations.thecheesecakefactory.com/tx/allen-142.html"
+  },
+  {
+    "city": "Arlington",
+    "state": "TX",
+    "address": "3811 S Cooper Street ",
+    "lat": 32.68086,
+    "lon": -97.12986,
+    "url": "https://locations.thecheesecakefactory.com/tx/arlington-133.html"
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "address": "2901 S Capital of Texas Highway Space #G02B",
+    "lat": 30.25736,
+    "lon": -97.80722,
+    "url": "https://locations.thecheesecakefactory.com/tx/austin-188.html"
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "address": "10000 Research Boulevard Suite 4602",
+    "lat": 30.39226,
+    "lon": -97.74821,
+    "url": "https://locations.thecheesecakefactory.com/tx/austin-48.html"
+  },
+  {
+    "city": "Corpus Christi",
+    "state": "TX",
+    "address": "5488 S. Padre Island Dr Ste. 5016",
+    "lat": 27.71122,
+    "lon": -97.37276,
+    "url": "https://locations.thecheesecakefactory.com/tx/corpus-christi-219.html"
+  },
+  {
+    "city": "Cypress",
+    "state": "TX",
+    "address": "29216 Hempstead Rd ",
+    "lat": 29.99564,
+    "lon": -95.75714,
+    "url": "https://locations.thecheesecakefactory.com/tx/cypress-233.html"
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "address": "7700 West Northwest Highway ",
+    "lat": 32.86425,
+    "lon": -96.77452,
+    "url": "https://locations.thecheesecakefactory.com/tx/dallas-26.html"
+  },
+  {
+    "city": "Fort Worth",
+    "state": "TX",
+    "address": "455 Commerce Street ",
+    "lat": 32.75506,
+    "lon": -97.33028,
+    "url": "https://locations.thecheesecakefactory.com/tx/fort-worth-184.html"
+  },
+  {
+    "city": "Friendswood",
+    "state": "TX",
+    "address": "1450 West Bay Area Boulevard ",
+    "lat": 29.53909,
+    "lon": -95.14664,
+    "url": "https://locations.thecheesecakefactory.com/tx/friendswood-162.html"
+  },
+  {
+    "city": "Frisco",
+    "state": "TX",
+    "address": "2601 Preston Road Suite 2219",
+    "lat": 33.0992,
+    "lon": -96.81132,
+    "url": "https://locations.thecheesecakefactory.com/tx/frisco-39.html"
+  },
+  {
+    "city": "Highland Village",
+    "state": "TX",
+    "address": "4100 Deer Creek Suite 110",
+    "lat": 33.07419,
+    "lon": -97.08573,
+    "url": "https://locations.thecheesecakefactory.com/tx/highland-village-225.html"
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "address": "5015 Westheimer Road ",
+    "lat": 29.73897,
+    "lon": -95.46312,
+    "url": "https://locations.thecheesecakefactory.com/tx/houston-13.html"
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "address": "600 Memorial City ",
+    "lat": 29.78158,
+    "lon": -95.54292,
+    "url": "https://locations.thecheesecakefactory.com/tx/houston-153.html"
+  },
+  {
+    "city": "Katy",
+    "state": "TX",
+    "address": "5000 Katy Mills Circle Suite 325",
+    "lat": 29.77654,
+    "lon": -95.81031,
+    "url": "https://locations.thecheesecakefactory.com/tx/katy-221.html"
+  },
+  {
+    "city": "Lubbock",
+    "state": "TX",
+    "address": "6014 Slide Road ",
+    "lat": 33.53889,
+    "lon": -101.92295,
+    "url": "https://locations.thecheesecakefactory.com/tx/lubbock-209.html"
+  },
+  {
+    "city": "San Antonio",
+    "state": "TX",
+    "address": "15900 La Cantera Parkway Suite 24100",
+    "lat": 29.59156,
+    "lon": -98.61472,
+    "url": "https://locations.thecheesecakefactory.com/tx/san-antonio-158.html"
+  },
+  {
+    "city": "San Antonio",
+    "state": "TX",
+    "address": "7400 San Pedro Suite 120",
+    "lat": 29.51837,
+    "lon": -98.49623,
+    "url": "https://locations.thecheesecakefactory.com/tx/san-antonio-51.html"
+  },
+  {
+    "city": "Southlake",
+    "state": "TX",
+    "address": "1440 Plaza Place ",
+    "lat": 32.94531,
+    "lon": -97.12874,
+    "url": "https://locations.thecheesecakefactory.com/tx/southlake-104.html"
+  },
+  {
+    "city": "Sugar Land",
+    "state": "TX",
+    "address": "16535 SW Freeway #2000",
+    "lat": 29.59294,
+    "lon": -95.62374,
+    "url": "https://locations.thecheesecakefactory.com/tx/sugar-land-64.html"
+  },
+  {
+    "city": "The Woodlands",
+    "state": "TX",
+    "address": "1201 Lake Woodlands Drive Suite 302",
+    "lat": 30.16265,
+    "lon": -95.4562,
+    "url": "https://locations.thecheesecakefactory.com/tx/the-woodlands-71.html"
+  },
+  {
+    "city": "Murray",
+    "state": "UT",
+    "address": "6223 S. State Street Unit 2001",
+    "lat": 40.63512,
+    "lon": -111.88919,
+    "url": "https://locations.thecheesecakefactory.com/ut/murray-135.html"
+  },
+  {
+    "city": "Orem",
+    "state": "UT",
+    "address": "575 E University Pkwy ",
+    "lat": 40.27508,
+    "lon": -111.68139,
+    "url": "https://locations.thecheesecakefactory.com/ut/orem-227.html"
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "address": "65 Regent Street ",
+    "lat": 40.76759,
+    "lon": -111.88951,
+    "url": "https://locations.thecheesecakefactory.com/ut/salt-lake-city-157.html"
+  },
+  {
+    "city": "Arlington",
+    "state": "VA",
+    "address": "2900 Clarendon Boulevard ",
+    "lat": 38.88808,
+    "lon": -77.09341,
+    "url": "https://locations.thecheesecakefactory.com/va/arlington-72.html"
+  },
+  {
+    "city": "Dulles",
+    "state": "VA",
+    "address": "21076 Dulles Town Circle ",
+    "lat": 39.03308,
+    "lon": -77.42273,
+    "url": "https://locations.thecheesecakefactory.com/va/dulles-118.html"
+  },
+  {
+    "city": "Fairfax",
+    "state": "VA",
+    "address": "11778 U Fair Oaks ",
+    "lat": 38.87356,
+    "lon": -77.38986,
+    "url": "https://locations.thecheesecakefactory.com/va/fairfax-114.html"
+  },
+  {
+    "city": "McLean",
+    "state": "VA",
+    "address": "1961 Chain Bridge Road ",
+    "lat": 38.92364,
+    "lon": -77.2246,
+    "url": "https://locations.thecheesecakefactory.com/va/mclean-229.html"
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "address": "11800 W Broad Street ",
+    "lat": 37.65598,
+    "lon": -77.62112,
+    "url": "https://locations.thecheesecakefactory.com/va/richmond-87.html"
+  },
+  {
+    "city": "Virginia Beach",
+    "state": "VA",
+    "address": "265 Central Park Avenue ",
+    "lat": 36.84319,
+    "lon": -76.13412,
+    "url": "https://locations.thecheesecakefactory.com/va/virginia-beach-82.html"
+  },
+  {
+    "city": "Woodbridge",
+    "state": "VA",
+    "address": "2708 Potomac Mills Circle ",
+    "lat": 38.64252,
+    "lon": -77.29479,
+    "url": "https://locations.thecheesecakefactory.com/va/woodbridge-161.html"
+  },
+  {
+    "city": "Bellevue",
+    "state": "WA",
+    "address": "401 Bellevue Square ",
+    "lat": 47.61593,
+    "lon": -122.20209,
+    "url": "https://locations.thecheesecakefactory.com/wa/bellevue-47.html"
+  },
+  {
+    "city": "Lynnwood",
+    "state": "WA",
+    "address": "3000 184th Street SW Suite 1140",
+    "lat": 47.82767,
+    "lon": -122.27414,
+    "url": "https://locations.thecheesecakefactory.com/wa/lynnwood-206.html"
+  },
+  {
+    "city": "Tacoma",
+    "state": "WA",
+    "address": "4502 S Steele Street Space 1300A",
+    "lat": 47.21812,
+    "lon": -122.46871,
+    "url": "https://locations.thecheesecakefactory.com/wa/tacoma-199.html"
+  },
+  {
+    "city": "Tukwila",
+    "state": "WA",
+    "address": "230 Strander Boulevard ",
+    "lat": 47.45633,
+    "lon": -122.26035,
+    "url": "https://locations.thecheesecakefactory.com/wa/tukwila-131.html"
+  },
+  {
+    "city": "Glendale",
+    "state": "WI",
+    "address": "5799 N Bayshore Drive #L100",
+    "lat": 43.12281,
+    "lon": -87.91475,
+    "url": "https://locations.thecheesecakefactory.com/wi/glendale-119.html"
+  },
+  {
+    "city": "Madison",
+    "state": "WI",
+    "address": "1 West Towne Mall ",
+    "lat": 43.05719,
+    "lon": -89.50547,
+    "url": "https://locations.thecheesecakefactory.com/wi/madison-190.html"
+  },
+  {
+    "city": "Wauwatosa",
+    "state": "WI",
+    "address": "2350 North Mayfair Road ",
+    "lat": 43.06164,
+    "lon": -88.04677,
+    "url": "https://locations.thecheesecakefactory.com/wi/wauwatosa-85.html"
+  },
+  {
+    "city": "San Juan",
+    "state": "PR",
+    "address": "525 F.D. Roosevelt Avenue ",
+    "lat": 18.42207,
+    "lon": -66.07423,
+    "url": "https://locations.thecheesecakefactory.com/san-juan/san-juan-165.html"
+  }
+]

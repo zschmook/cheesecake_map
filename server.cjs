@@ -1,0 +1,14 @@
+const http=require('node:http'),fs=require('node:fs'),path=require('node:path');
+const root=path.join(__dirname,'public'),cacheFile=path.join(__dirname,'data','cache.json');
+const interval=300000;let busy=false,cache={senate:null,house:null,counties:{},refreshedAt:null,attemptedAt:null,errors:[]};
+try{cache={...cache,...JSON.parse(fs.readFileSync(cacheFile))};}catch{}
+async function getRace(id){const r=await fetch(`https://civicapi.org/api/v2/race/${id}`,{signal:AbortSignal.timeout(25000)});if(!r.ok)throw Error(`race ${id}: HTTP ${r.status}`);const data=await r.json();if(data.test_data||!data.region_results)throw Error(`race ${id}: invalid or test data`);return data;}
+async function refresh(){if(busy)return;busy=true;cache.attemptedAt=new Date().toISOString();const errors=[];let updated=false;
+ try{await Promise.all(['senate','house'].map(async office=>{try{cache[office]=await getRace(office==='senate'?87528:87524);updated=true;}catch(e){errors.push(`${office}: ${e.message}`);}}));
+ const pending=Object.values(cache.senate?.region_results||{}).filter(r=>r.election_id&&(r.candidates||[]).some(c=>Number(c.votes)>0));
+ let cursor=0;await Promise.all(Array.from({length:Math.min(4,pending.length)},async()=>{while(cursor<pending.length){const r=pending[cursor++];try{const data=await getRace(r.election_id);cache.counties[r.election_id]=data;}catch(e){errors.push(e.message);}}}));
+ if(updated)cache.refreshedAt=new Date().toISOString();cache.errors=errors;fs.writeFileSync(cacheFile,JSON.stringify(cache));console.log(JSON.stringify({refreshedAt:cache.refreshedAt,senateRaces:Object.keys(cache.senate?.region_results||{}).length,houseRaces:Object.keys(cache.house?.region_results||{}).length,countyFeeds:Object.keys(cache.counties).length,errors}));
+ }catch(e){cache.errors=[e.message];console.error(e);}finally{busy=false;}}
+const mime={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8'};
+http.createServer((req,res)=>{const url=new URL(req.url,'http://localhost');if(url.pathname==='/api/results'){res.writeHead(200,{'Content-Type':'application/json','Cache-Control':'no-store'});return res.end(JSON.stringify({...cache,refreshing:busy,refreshIntervalMs:interval}));}if(url.pathname==='/health'){res.writeHead(200,{'Content-Type':'application/json'});return res.end(JSON.stringify({ok:true,refreshedAt:cache.refreshedAt,refreshing:busy}));}const name=url.pathname==='/'?'index.html':url.pathname.slice(1);const file=path.resolve(root,name);if(!file.startsWith(root+path.sep)){res.writeHead(403);return res.end();}fs.readFile(file,(err,data)=>{if(err){res.writeHead(404);return res.end('Not found');}res.writeHead(200,{'Content-Type':mime[path.extname(file)]||'application/octet-stream','Cache-Control':'no-cache','X-Content-Type-Options':'nosniff'});res.end(data);});}).listen(8080,'0.0.0.0',()=>console.log('Map listening on :8080'));
+refresh();setInterval(refresh,interval);

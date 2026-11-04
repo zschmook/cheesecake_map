@@ -1,0 +1,12 @@
+services:
+  map:
+    build: .
+    image: cheesecake-election-map:local
+    container_name: cheesecake-election-map
+    ports:
+      - "8090:8080"
+    volumes:
+      - election-cache:/app/data
+    restart: unless-stopped
+volumes:
+  election-cache:
