@@ -1,0 +1,5897 @@
+[
+  {
+    "id": "97",
+    "city": "Athens",
+    "state": "AL",
+    "address": "1212 Kelli Drive",
+    "lat": 34.7813652,
+    "lon": -86.938076,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/athens/97"
+  },
+  {
+    "id": "301",
+    "city": "Bessemer",
+    "state": "AL",
+    "address": "5040 Academy Ln.",
+    "lat": 33.3654575,
+    "lon": -87.0035882,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/bessemer/301"
+  },
+  {
+    "id": "580",
+    "city": "Birmingham",
+    "state": "AL",
+    "address": "3415 Colonnade Pkwy.",
+    "lat": 33.4390344,
+    "lon": -86.728338,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/birmingham/580"
+  },
+  {
+    "id": "558",
+    "city": "Calera",
+    "state": "AL",
+    "address": "199 Supercenter Dr.",
+    "lat": 33.1441344,
+    "lon": -86.7500444,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/calera/558"
+  },
+  {
+    "id": "51",
+    "city": "Cullman",
+    "state": "AL",
+    "address": "6020 AL Highway 157",
+    "lat": 34.2079919,
+    "lon": -86.8755843,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/cullman/51"
+  },
+  {
+    "id": "475",
+    "city": "Decatur",
+    "state": "AL",
+    "address": "407 Beltline Rd. SW",
+    "lat": 34.5592154,
+    "lon": -86.991615,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/decatur/475"
+  },
+  {
+    "id": "384",
+    "city": "Dothan",
+    "state": "AL",
+    "address": "3431 Ross Clark Circle",
+    "lat": 31.2456073,
+    "lon": -85.429457,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/dothan/384"
+  },
+  {
+    "id": "476",
+    "city": "Florence",
+    "state": "AL",
+    "address": "150 Cox Creek Pkwy. S",
+    "lat": 34.8277123,
+    "lon": -87.6281731,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/florence/476"
+  },
+  {
+    "id": "477",
+    "city": "Foley",
+    "state": "AL",
+    "address": "3150 S McKenzie St",
+    "lat": 30.3678498,
+    "lon": -87.6844236,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/foley/477"
+  },
+  {
+    "id": "471",
+    "city": "Fort Payne",
+    "state": "AL",
+    "address": "201 Cracker Barrel Row SW",
+    "lat": 34.438928,
+    "lon": -85.749467,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/fort-payne/471"
+  },
+  {
+    "id": "396",
+    "city": "Gadsden",
+    "state": "AL",
+    "address": "101 Taylor Dr.",
+    "lat": 33.9979603,
+    "lon": -86.0901491,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/gadsden/396"
+  },
+  {
+    "id": "237",
+    "city": "Gardendale",
+    "state": "AL",
+    "address": "901 Fieldstown Rd.",
+    "lat": 33.6478301,
+    "lon": -86.8309392,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/gardendale/237"
+  },
+  {
+    "id": "326",
+    "city": "Greenville",
+    "state": "AL",
+    "address": "181 Interstate Dr.",
+    "lat": 31.8553155,
+    "lon": -86.6364278,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/greenville/326"
+  },
+  {
+    "id": "664",
+    "city": "Guntersville",
+    "state": "AL",
+    "address": "11635 US Hwy. 431",
+    "lat": 34.3003711,
+    "lon": -86.2756351,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/guntersville/664"
+  },
+  {
+    "id": "682",
+    "city": "Hartselle",
+    "state": "AL",
+    "address": "1909 Uncle Herschel Way S.E.",
+    "lat": 34.4484395,
+    "lon": -86.8990477,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/hartselle/682"
+  },
+  {
+    "id": "612",
+    "city": "Huntsville",
+    "state": "AL",
+    "address": "2001 Drake Ave. SW",
+    "lat": 34.7047206,
+    "lon": -86.5891578,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/huntsville/612"
+  },
+  {
+    "id": "712",
+    "city": "Jasper",
+    "state": "AL",
+    "address": "240 Carl Cannon Blvd.",
+    "lat": 33.7936526,
+    "lon": -87.2427464,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/jasper/712"
+  },
+  {
+    "id": "123",
+    "city": "Leeds",
+    "state": "AL",
+    "address": "2003 Village Dr.",
+    "lat": 33.56748,
+    "lon": -86.519825,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/leeds/123"
+  },
+  {
+    "id": "217",
+    "city": "Madison",
+    "state": "AL",
+    "address": "120 Cleghorn Blvd.",
+    "lat": 34.6710126,
+    "lon": -86.7539009,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/madison/217"
+  },
+  {
+    "id": "94",
+    "city": "Mobile",
+    "state": "AL",
+    "address": "43 E I65 Service Rd. S",
+    "lat": 30.685872,
+    "lon": -88.125705,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/mobile/94"
+  },
+  {
+    "id": "439",
+    "city": "Mobile",
+    "state": "AL",
+    "address": "845-A Schillinger Rd. S.",
+    "lat": 30.6729706,
+    "lon": -88.2239041,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/mobile/439"
+  },
+  {
+    "id": "574",
+    "city": "Montgomery",
+    "state": "AL",
+    "address": "9191 Boyd-Cooper Pkwy.",
+    "lat": 32.3666857,
+    "lon": -86.1405539,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/montgomery/574"
+  },
+  {
+    "id": "231",
+    "city": "Opelika",
+    "state": "AL",
+    "address": "1051 Fox Run Ave.",
+    "lat": 32.6454007,
+    "lon": -85.3529874,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/opelika/231"
+  },
+  {
+    "id": "315",
+    "city": "Oxford",
+    "state": "AL",
+    "address": "220 Leon Smith Pkwy.",
+    "lat": 33.6127403,
+    "lon": -85.7872508,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/oxford/315"
+  },
+  {
+    "id": "70",
+    "city": "Pelham",
+    "state": "AL",
+    "address": "655 Cahaba Valley Rd.",
+    "lat": 33.3368071,
+    "lon": -86.7823585,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/pelham/70"
+  },
+  {
+    "id": "599",
+    "city": "Pell City",
+    "state": "AL",
+    "address": "260 Vaughan Ln.",
+    "lat": 33.6075017,
+    "lon": -86.2766012,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/pell-city/599"
+  },
+  {
+    "id": "273",
+    "city": "Prattville",
+    "state": "AL",
+    "address": "796 Business Park Dr.",
+    "lat": 32.4888152,
+    "lon": -86.411177,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/prattville/273"
+  },
+  {
+    "id": "761",
+    "city": "Saraland",
+    "state": "AL",
+    "address": "88 Shell St.",
+    "lat": 30.8063595,
+    "lon": -88.105072,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/saraland/761"
+  },
+  {
+    "id": "557",
+    "city": "Spanish Fort",
+    "state": "AL",
+    "address": "30227 Eastern Shore Ct.",
+    "lat": 30.6650786,
+    "lon": -87.8511656,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/spanish-fort/557"
+  },
+  {
+    "id": "368",
+    "city": "Trussville",
+    "state": "AL",
+    "address": "4710 Norrell Dr.",
+    "lat": 33.6406907,
+    "lon": -86.6153982,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/trussville/368"
+  },
+  {
+    "id": "272",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "address": "4800 Doris Pate Dr.",
+    "lat": 33.1759626,
+    "lon": -87.474404,
+    "url": "https://www.crackerbarrel.com/Locations/States/al/tuscaloosa/272"
+  },
+  {
+    "id": "332",
+    "city": "Alma",
+    "state": "AR",
+    "address": "431 Hwy. 71 North",
+    "lat": 35.4899478,
+    "lon": -94.2279323,
+    "url": "https://www.crackerbarrel.com/Locations/States/ar/alma/332"
+  },
+  {
+    "id": "414",
+    "city": "Arkadelphia",
+    "state": "AR",
+    "address": "173 Valley St.",
+    "lat": 34.1879489,
+    "lon": -93.072412,
+    "url": "https://www.crackerbarrel.com/Locations/States/ar/arkadelphia/414"
+  },
+  {
+    "id": "720",
+    "city": "Bentonville",
+    "state": "AR",
+    "address": "2307 SE Walton Blvd.",
+    "lat": 36.3357085,
+    "lon": -94.1858573,
+    "url": "https://www.crackerbarrel.com/Locations/States/ar/bentonville/720"
+  },
+  {
+    "id": "275",
+    "city": "Bryant",
+    "state": "AR",
+    "address": "218 W Commerce St.",
+    "lat": 34.6214651,
+    "lon": -92.4997476,
+    "url": "https://www.crackerbarrel.com/Locations/States/ar/bryant/275"
+  },
+  {
+    "id": "276",
+    "city": "Conway",
+    "state": "AR",
+    "address": "525 Skyline Drive",
+    "lat": 35.1107489,
+    "lon": -92.4319122,
+    "url": "https://www.crackerbarrel.com/Locations/States/ar/conway/276"
+  },
+  {
+    "id": "467",
+    "city": "Hot Springs",
+    "state": "AR",
+    "address": "170 Pakis St.",
+    "lat": 34.4626764,
+    "lon": -93.0595763,
+    "url": "https://www.crackerbarrel.com/Locations/States/ar/hot-springs/467"
+  },
+  {
+    "id": "457",
+    "city": "Jonesboro",
+    "state": "AR",
+    "address": "2621 Phillips Dr.",
+    "lat": 35.8088129,
+    "lon": -90.6742656,
+    "url": "https://www.crackerbarrel.com/Locations/States/ar/jonesboro/457"
+  },
+  {
+    "id": "634",
+    "city": "Little Rock",
+    "state": "AR",
+    "address": "2618 S Shackleford Rd.",
+    "lat": 34.7336284,
+    "lon": -92.3954989,
+    "url": "https://www.crackerbarrel.com/Locations/States/ar/little-rock/634"
+  },
+  {
+    "id": "468",
+    "city": "North Little Rock",
+    "state": "AR",
+    "address": "3101 Springhill Dr.",
+    "lat": 34.7811401,
+    "lon": -92.2180559,
+    "url": "https://www.crackerbarrel.com/Locations/States/ar/north-little-rock/468"
+  },
+  {
+    "id": "347",
+    "city": "Russellville",
+    "state": "AR",
+    "address": "211 East Harrell Dr.",
+    "lat": 35.3033123,
+    "lon": -93.1334673,
+    "url": "https://www.crackerbarrel.com/Locations/States/ar/russellville/347"
+  },
+  {
+    "id": "426",
+    "city": "Springdale",
+    "state": "AR",
+    "address": "1022 South 48th St.",
+    "lat": 36.1773491,
+    "lon": -94.1867776,
+    "url": "https://www.crackerbarrel.com/Locations/States/ar/springdale/426"
+  },
+  {
+    "id": "372",
+    "city": "West Memphis",
+    "state": "AR",
+    "address": "1600 N 6th St.",
+    "lat": 35.1645173,
+    "lon": -90.1771615,
+    "url": "https://www.crackerbarrel.com/Locations/States/ar/west-memphis/372"
+  },
+  {
+    "id": "615",
+    "city": "Buckeye",
+    "state": "AZ",
+    "address": "606 S. Watson Rd.",
+    "lat": 33.4414469,
+    "lon": -112.5569628,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/buckeye/615"
+  },
+  {
+    "id": "388",
+    "city": "Casa Grande",
+    "state": "AZ",
+    "address": "2281 E Florence Blvd.",
+    "lat": 32.8790125,
+    "lon": -111.6889428,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/casa-grande/388"
+  },
+  {
+    "id": "335",
+    "city": "Chandler",
+    "state": "AZ",
+    "address": "5022 E. Chandler Blvd.",
+    "lat": 33.3060605,
+    "lon": -111.974932,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/chandler/335"
+  },
+  {
+    "id": "297",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "address": "2560 E. Lucky Ln.",
+    "lat": 35.1963427,
+    "lon": -111.6177928,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/flagstaff/297"
+  },
+  {
+    "id": "763",
+    "city": "Gilbert",
+    "state": "AZ",
+    "address": "1799 N. Higley Rd.",
+    "lat": 33.3823911,
+    "lon": -111.7198817,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/gilbert/763"
+  },
+  {
+    "id": "619",
+    "city": "Glendale",
+    "state": "AZ",
+    "address": "9312 W. Glendale Ave.",
+    "lat": 33.5381597,
+    "lon": -112.2599175,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/glendale/619"
+  },
+  {
+    "id": "277",
+    "city": "Goodyear",
+    "state": "AZ",
+    "address": "1209 N Litchfield Rd.",
+    "lat": 33.4596216,
+    "lon": -112.3572939,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/goodyear/277"
+  },
+  {
+    "id": "416",
+    "city": "Kingman",
+    "state": "AZ",
+    "address": "3520 Stockton Hill Rd.",
+    "lat": 35.2256222,
+    "lon": -114.0353279,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/kingman/416"
+  },
+  {
+    "id": "618",
+    "city": "Mesa",
+    "state": "AZ",
+    "address": "1007 N. Dobson Rd.",
+    "lat": 33.4346626,
+    "lon": -111.8677578,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/mesa/618"
+  },
+  {
+    "id": "331",
+    "city": "Peoria",
+    "state": "AZ",
+    "address": "16845 N. 84th Ave.",
+    "lat": 33.6368538,
+    "lon": -112.2412425,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/peoria/331"
+  },
+  {
+    "id": "334",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "21611 N. 26th Ave.",
+    "lat": 33.6817103,
+    "lon": -112.114006,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/phoenix/334"
+  },
+  {
+    "id": "655",
+    "city": "Prescott Valley",
+    "state": "AZ",
+    "address": "5707 E State Route 69",
+    "lat": 34.5764865,
+    "lon": -112.3642791,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/prescott-valley/655"
+  },
+  {
+    "id": "344",
+    "city": "Tucson",
+    "state": "AZ",
+    "address": "8400 N Cracker Barrel Rd",
+    "lat": 32.359897,
+    "lon": -111.0926572,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/tucson/344"
+  },
+  {
+    "id": "305",
+    "city": "Yuma",
+    "state": "AZ",
+    "address": "1780 S Sunridge Dr.",
+    "lat": 32.695398,
+    "lon": -114.6037477,
+    "url": "https://www.crackerbarrel.com/Locations/States/az/yuma/305"
+  },
+  {
+    "id": "770",
+    "city": "Bakersfield",
+    "state": "CA",
+    "address": "3310 California Ave",
+    "lat": 35.3690611,
+    "lon": -119.0410376,
+    "url": "https://www.crackerbarrel.com/Locations/States/ca/bakersfield/770"
+  },
+  {
+    "id": "764",
+    "city": "Camarillo",
+    "state": "CA",
+    "address": "560 E. Ventura Blvd.",
+    "lat": 34.2157248,
+    "lon": -119.0680385,
+    "url": "https://www.crackerbarrel.com/Locations/States/ca/camarillo/764"
+  },
+  {
+    "id": "765",
+    "city": "Rialto",
+    "state": "CA",
+    "address": "1080 W. Renaissance Pkwy.",
+    "lat": 34.1344332,
+    "lon": -117.3916672,
+    "url": "https://www.crackerbarrel.com/Locations/States/ca/rialto/765"
+  },
+  {
+    "id": "756",
+    "city": "Rocklin",
+    "state": "CA",
+    "address": "4630 Sierra College Blvd.",
+    "lat": 38.7995198,
+    "lon": -121.2085361,
+    "url": "https://www.crackerbarrel.com/Locations/States/ca/rocklin/756"
+  },
+  {
+    "id": "755",
+    "city": "Victorville",
+    "state": "CA",
+    "address": "11612 Amargosa Rd.",
+    "lat": 34.4619745,
+    "lon": -117.3538951,
+    "url": "https://www.crackerbarrel.com/Locations/States/ca/victorville/755"
+  },
+  {
+    "id": "227",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "address": "8355 Razorback Dr.",
+    "lat": 38.9512407,
+    "lon": -104.8030047,
+    "url": "https://www.crackerbarrel.com/Locations/States/co/colorado-springs/227"
+  },
+  {
+    "id": "780",
+    "city": "Denver",
+    "state": "CO",
+    "address": "9111 E. 40th Ave, Bldg 10",
+    "lat": 39.775186,
+    "lon": -104.879662,
+    "url": "https://www.crackerbarrel.com/Locations/States/co/central-park/780"
+  },
+  {
+    "id": "270",
+    "city": "Loveland",
+    "state": "CO",
+    "address": "5800 McWhinney Blvd.",
+    "lat": 40.4102821,
+    "lon": -104.9940619,
+    "url": "https://www.crackerbarrel.com/Locations/States/co/loveland/270"
+  },
+  {
+    "id": "226",
+    "city": "Northglenn",
+    "state": "CO",
+    "address": "350 W. 120th Ave.",
+    "lat": 39.9130686,
+    "lon": -104.9915514,
+    "url": "https://www.crackerbarrel.com/Locations/States/co/northglenn/226"
+  },
+  {
+    "id": "292",
+    "city": "Pueblo",
+    "state": "CO",
+    "address": "4735 Elizabeth St. N.",
+    "lat": 38.3228156,
+    "lon": -104.6166898,
+    "url": "https://www.crackerbarrel.com/Locations/States/co/pueblo/292"
+  },
+  {
+    "id": "436",
+    "city": "East Windsor",
+    "state": "CT",
+    "address": "145 Prospect Hill Rd.",
+    "lat": 41.9321563,
+    "lon": -72.6062926,
+    "url": "https://www.crackerbarrel.com/Locations/States/ct/east-windsor/436"
+  },
+  {
+    "id": "318",
+    "city": "Milford",
+    "state": "CT",
+    "address": "30 Research Dr.",
+    "lat": 41.2386057,
+    "lon": -73.0199779,
+    "url": "https://www.crackerbarrel.com/Locations/States/ct/milford/318"
+  },
+  {
+    "id": "485",
+    "city": "Rehoboth Beach",
+    "state": "DE",
+    "address": "19550 Coastal Hwy.",
+    "lat": 38.719275,
+    "lon": -75.117595,
+    "url": "https://www.crackerbarrel.com/Locations/States/de/rehoboth-beach/485"
+  },
+  {
+    "id": "503",
+    "city": "Altamonte Springs",
+    "state": "FL",
+    "address": "285 Douglas Ave.",
+    "lat": 28.6658845,
+    "lon": -81.3893868,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/altamonte-springs/503"
+  },
+  {
+    "id": "287",
+    "city": "Boynton Beach",
+    "state": "FL",
+    "address": "1475 Southwest 8th St.",
+    "lat": 26.5159281,
+    "lon": -80.0780249,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/boynton-beach/287"
+  },
+  {
+    "id": "506",
+    "city": "Bradenton",
+    "state": "FL",
+    "address": "2203 Cortez Rd. W.",
+    "lat": 27.4615939,
+    "lon": -82.5838514,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/bradenton/506"
+  },
+  {
+    "id": "73",
+    "city": "Bradenton",
+    "state": "FL",
+    "address": "636 67th St. Cir. E.",
+    "lat": 27.4942413,
+    "lon": -82.4748103,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/bradenton/73"
+  },
+  {
+    "id": "357",
+    "city": "Brooksville",
+    "state": "FL",
+    "address": "30405 Cracker Crossing",
+    "lat": 28.5210544,
+    "lon": -82.2358765,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/brooksville/357"
+  },
+  {
+    "id": "535",
+    "city": "Clearwater",
+    "state": "FL",
+    "address": "4011 Ulmerton Rd.",
+    "lat": 27.8945887,
+    "lon": -82.6886329,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/clearwater/535"
+  },
+  {
+    "id": "489",
+    "city": "Clermont",
+    "state": "FL",
+    "address": "1520 E. Hwy 50",
+    "lat": 28.5473936,
+    "lon": -81.7270408,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/clermont/489"
+  },
+  {
+    "id": "265",
+    "city": "Crestview",
+    "state": "FL",
+    "address": "201 Cracker Barrel Rd.",
+    "lat": 30.7242329,
+    "lon": -86.5711045,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/crestview/265"
+  },
+  {
+    "id": "532",
+    "city": "Davenport",
+    "state": "FL",
+    "address": "111 Dunson Ln.",
+    "lat": 28.2436012,
+    "lon": -81.6552611,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/davenport/532"
+  },
+  {
+    "id": "158",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "address": "2325 W. International Speedway",
+    "lat": 29.182874,
+    "lon": -81.0776216,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/daytona-beach/158"
+  },
+  {
+    "id": "380",
+    "city": "Deerfield Beach",
+    "state": "FL",
+    "address": "1250 SW 11th Way",
+    "lat": 26.3012558,
+    "lon": -80.1187369,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/deerfield-beach/380"
+  },
+  {
+    "id": "479",
+    "city": "Destin",
+    "state": "FL",
+    "address": "34930 Emerald Coast Pkwy",
+    "lat": 30.3883897,
+    "lon": -86.4249786,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/destin/479"
+  },
+  {
+    "id": "545",
+    "city": "Florida City",
+    "state": "FL",
+    "address": "155 N. Krome Ave.",
+    "lat": 25.4494129,
+    "lon": -80.4760611,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/florida-city/545"
+  },
+  {
+    "id": "527",
+    "city": "Fort Myers",
+    "state": "FL",
+    "address": "10090 Daniels Parkway",
+    "lat": 26.5462346,
+    "lon": -81.7909027,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/fort-myers/527"
+  },
+  {
+    "id": "119",
+    "city": "Fort Myers",
+    "state": "FL",
+    "address": "4260 Boatways Rd.",
+    "lat": 26.6836047,
+    "lon": -81.7968993,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/fort-myers/119"
+  },
+  {
+    "id": "91",
+    "city": "Fort Pierce",
+    "state": "FL",
+    "address": "2550 Peters Rd.",
+    "lat": 27.4188637,
+    "lon": -80.3903076,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/fort-pierce/91"
+  },
+  {
+    "id": "167",
+    "city": "Gainesville",
+    "state": "FL",
+    "address": "4001 S.W. 43rd St.",
+    "lat": 29.6175147,
+    "lon": -82.3884936,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/gainesville/167"
+  },
+  {
+    "id": "771",
+    "city": "Gibsonton",
+    "state": "FL",
+    "address": "9370 Theater Dr.",
+    "lat": 27.8494702,
+    "lon": -82.3495494,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/gibsonton/771"
+  },
+  {
+    "id": "589",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "13250 City Station Dr.",
+    "lat": 30.4791341,
+    "lon": -81.6422306,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/jacksonville/589"
+  },
+  {
+    "id": "511",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "438 Commerce Ctr. Dr.",
+    "lat": 30.3319029,
+    "lon": -81.5515153,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/jacksonville/511"
+  },
+  {
+    "id": "341",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "4680 Lenoir Ave.",
+    "lat": 30.2484756,
+    "lon": -81.5970886,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/jacksonville/341"
+  },
+  {
+    "id": "577",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "502 Chaffee Point Rd.",
+    "lat": 30.3085882,
+    "lon": -81.844763,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/jacksonville/577"
+  },
+  {
+    "id": "500",
+    "city": "Jensen Beach",
+    "state": "FL",
+    "address": "4101 Federal Hwy.",
+    "lat": 27.2556257,
+    "lon": -80.2777343,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/jensen-beach/500"
+  },
+  {
+    "id": "151",
+    "city": "Kissimmee",
+    "state": "FL",
+    "address": "5400 W. Irlo Bronson Memorial",
+    "lat": 28.331831,
+    "lon": -81.4992027,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/kissimmee/151"
+  },
+  {
+    "id": "529",
+    "city": "Kissimmee",
+    "state": "FL",
+    "address": "7878 W. Irlo Bronson Memorial",
+    "lat": 28.342437,
+    "lon": -81.6007226,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/kissimmee/529"
+  },
+  {
+    "id": "524",
+    "city": "Lady Lake",
+    "state": "FL",
+    "address": "13637 N. US Hwy. 27",
+    "lat": 28.9558621,
+    "lon": -81.9598316,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/lady-lake/524"
+  },
+  {
+    "id": "56",
+    "city": "Lake City",
+    "state": "FL",
+    "address": "240 Southwest Commerce Dr.",
+    "lat": 30.178153,
+    "lon": -82.6862711,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/lake-city/56"
+  },
+  {
+    "id": "189",
+    "city": "Lakeland",
+    "state": "FL",
+    "address": "4343 Lakeland Park Dr.",
+    "lat": 28.097889,
+    "lon": -81.9529234,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/lakeland/189"
+  },
+  {
+    "id": "488",
+    "city": "Leesburg",
+    "state": "FL",
+    "address": "9450 Hwy 441",
+    "lat": 28.8263246,
+    "lon": -81.8005076,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/leesburg/488"
+  },
+  {
+    "id": "519",
+    "city": "Melbourne",
+    "state": "FL",
+    "address": "1175 Palm Bay Rd.",
+    "lat": 28.0358079,
+    "lon": -80.6393252,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/melbourne/519"
+  },
+  {
+    "id": "67",
+    "city": "Melbourne",
+    "state": "FL",
+    "address": "7225 George T. Edwards Dr.",
+    "lat": 28.2315451,
+    "lon": -80.7204889,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/melbourne/67"
+  },
+  {
+    "id": "117",
+    "city": "Naples",
+    "state": "FL",
+    "address": "3845 Tollgate Blvd.",
+    "lat": 26.1568818,
+    "lon": -81.6854381,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/naples/117"
+  },
+  {
+    "id": "626",
+    "city": "New Port Richey",
+    "state": "FL",
+    "address": "5341 US Highway 19",
+    "lat": 28.2370567,
+    "lon": -82.728578,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/new-port-richey/626"
+  },
+  {
+    "id": "603",
+    "city": "Ocala",
+    "state": "FL",
+    "address": "13561 SW 17th Ct.",
+    "lat": 29.0248794,
+    "lon": -82.1536426,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/ocala/603"
+  },
+  {
+    "id": "63",
+    "city": "Ocala",
+    "state": "FL",
+    "address": "3801 SW College Rd.",
+    "lat": 29.149819,
+    "lon": -82.186461,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/ocala/63"
+  },
+  {
+    "id": "157",
+    "city": "Orange Park",
+    "state": "FL",
+    "address": "4272 Eldridge Loop",
+    "lat": 30.1907493,
+    "lon": -81.701891,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/orange-park/157"
+  },
+  {
+    "id": "499",
+    "city": "Orlando",
+    "state": "FL",
+    "address": "13300 S. Orange Blossom Trail",
+    "lat": 28.4501582,
+    "lon": -81.4007641,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/orlando/499"
+  },
+  {
+    "id": "520",
+    "city": "Orlando",
+    "state": "FL",
+    "address": "6699 S. Semoran Blvd",
+    "lat": 28.4663987,
+    "lon": -81.308952,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/orlando/520"
+  },
+  {
+    "id": "364",
+    "city": "Ormond Beach",
+    "state": "FL",
+    "address": "125 Interchange Blvd.",
+    "lat": 29.255332,
+    "lon": -81.1168063,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/ormond-beach/364"
+  },
+  {
+    "id": "118",
+    "city": "Palm Coast",
+    "state": "FL",
+    "address": "4 Kingswood Dr.",
+    "lat": 29.5537142,
+    "lon": -81.2134243,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/palm-coast/118"
+  },
+  {
+    "id": "749",
+    "city": "Panama City",
+    "state": "FL",
+    "address": "520 East 23rd St.",
+    "lat": 30.1890784,
+    "lon": -85.6523727,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/panama-city/749"
+  },
+  {
+    "id": "268",
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "address": "1960 NW 150th Ave.",
+    "lat": 26.0253824,
+    "lon": -80.3483767,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/pembroke-pines/268"
+  },
+  {
+    "id": "201",
+    "city": "Pensacola",
+    "state": "FL",
+    "address": "8050 Lavelle Way",
+    "lat": 30.5219394,
+    "lon": -87.3164057,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/pensacola/201"
+  },
+  {
+    "id": "225",
+    "city": "Port Charlotte",
+    "state": "FL",
+    "address": "800 Kings Hwy.",
+    "lat": 27.0179346,
+    "lon": -82.0493119,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/port-charlotte/225"
+  },
+  {
+    "id": "190",
+    "city": "Sanford",
+    "state": "FL",
+    "address": "200 Hickman Dr.",
+    "lat": 28.8141885,
+    "lon": -81.3355151,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/sanford/190"
+  },
+  {
+    "id": "251",
+    "city": "Seffner",
+    "state": "FL",
+    "address": "6150 Lazy Days Blvd.",
+    "lat": 28.0066983,
+    "lon": -82.3053624,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/seffner/251"
+  },
+  {
+    "id": "649",
+    "city": "Spring Hill",
+    "state": "FL",
+    "address": "1371 Commercial Way",
+    "lat": 28.4540917,
+    "lon": -82.6309979,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/spring-hill/649"
+  },
+  {
+    "id": "289",
+    "city": "St. Augustine",
+    "state": "FL",
+    "address": "2441 State Rd. 16",
+    "lat": 29.9151623,
+    "lon": -81.4130104,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/st-augustine/289"
+  },
+  {
+    "id": "481",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "address": "2151 54th Ave. N.",
+    "lat": 27.8217731,
+    "lon": -82.6626549,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/st-petersburg/481"
+  },
+  {
+    "id": "241",
+    "city": "Stuart",
+    "state": "FL",
+    "address": "7461 SW Lost River Rd.",
+    "lat": 27.1111801,
+    "lon": -80.2597277,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/stuart/241"
+  },
+  {
+    "id": "44",
+    "city": "Tallahassee",
+    "state": "FL",
+    "address": "2920 Hospitality Rd.",
+    "lat": 30.4804731,
+    "lon": -84.3065767,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/tallahassee/44"
+  },
+  {
+    "id": "547",
+    "city": "Tampa",
+    "state": "FL",
+    "address": "13833 W. Hillsborough Ave.",
+    "lat": 28.0335547,
+    "lon": -82.646192,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/tampa/547"
+  },
+  {
+    "id": "498",
+    "city": "Tampa",
+    "state": "FL",
+    "address": "3125 Cove Bend Dr.",
+    "lat": 28.0811784,
+    "lon": -82.42504,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/tampa/498"
+  },
+  {
+    "id": "267",
+    "city": "Titusville",
+    "state": "FL",
+    "address": "4745 Helen Hauser Blvd.",
+    "lat": 28.5519714,
+    "lon": -80.8532605,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/titusville/267"
+  },
+  {
+    "id": "534",
+    "city": "Valrico",
+    "state": "FL",
+    "address": "1880 State Rd. 60 E.",
+    "lat": 27.9386098,
+    "lon": -82.2567606,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/valrico/534"
+  },
+  {
+    "id": "282",
+    "city": "Venice",
+    "state": "FL",
+    "address": "445 Commercial Court",
+    "lat": 27.1104865,
+    "lon": -82.3873134,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/venice/282"
+  },
+  {
+    "id": "250",
+    "city": "Vero Beach",
+    "state": "FL",
+    "address": "9380 19th Ln.",
+    "lat": 27.6384825,
+    "lon": -80.5194041,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/vero-beach/250"
+  },
+  {
+    "id": "82",
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "address": "5636 Oakley Blvd.",
+    "lat": 28.2388865,
+    "lon": -82.354126,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/wesley-chapel/82"
+  },
+  {
+    "id": "240",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "address": "2411 Metrocentre Blvd.",
+    "lat": 26.7578619,
+    "lon": -80.0928196,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/west-palm-beach/240"
+  },
+  {
+    "id": "647",
+    "city": "Winter Garden",
+    "state": "FL",
+    "address": "3316 Daniels Rd.",
+    "lat": 28.5207353,
+    "lon": -81.5877885,
+    "url": "https://www.crackerbarrel.com/Locations/States/fl/winter-garden/647"
+  },
+  {
+    "id": "584",
+    "city": "Adairsville",
+    "state": "GA",
+    "address": "941 Hwy. 140",
+    "lat": 34.378456,
+    "lon": -84.9092091,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/adairsville/584"
+  },
+  {
+    "id": "455",
+    "city": "Albany",
+    "state": "GA",
+    "address": "1114 N. Westover Blvd.",
+    "lat": 31.6162056,
+    "lon": -84.2116171,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/albany/455"
+  },
+  {
+    "id": "505",
+    "city": "Athens",
+    "state": "GA",
+    "address": "1913 Epps Bridge Pkwy.",
+    "lat": 33.9177953,
+    "lon": -83.4440958,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/athens/505"
+  },
+  {
+    "id": "588",
+    "city": "Braselton",
+    "state": "GA",
+    "address": "301 Exchange Way",
+    "lat": 34.1187445,
+    "lon": -83.7634424,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/braselton/588"
+  },
+  {
+    "id": "613",
+    "city": "Bremen",
+    "state": "GA",
+    "address": "106 Price Creek Rd",
+    "lat": 33.6874775,
+    "lon": -85.1540128,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/bremen/613"
+  },
+  {
+    "id": "54",
+    "city": "Brunswick",
+    "state": "GA",
+    "address": "I-95 & U.S. 341",
+    "lat": 31.2180671,
+    "lon": -81.5232221,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/brunswick/54"
+  },
+  {
+    "id": "641",
+    "city": "Buford",
+    "state": "GA",
+    "address": "4758 Lanier Islands Pkwy.",
+    "lat": 34.1404951,
+    "lon": -83.952168,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/buford/641"
+  },
+  {
+    "id": "424",
+    "city": "Calhoun",
+    "state": "GA",
+    "address": "100 Cracker Barrel Dr.",
+    "lat": 34.4704377,
+    "lon": -84.9160132,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/calhoun/424"
+  },
+  {
+    "id": "425",
+    "city": "Canton",
+    "state": "GA",
+    "address": "715 Transit Ave.",
+    "lat": 34.2539648,
+    "lon": -84.4697253,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/canton/425"
+  },
+  {
+    "id": "59",
+    "city": "Cartersville",
+    "state": "GA",
+    "address": "5631 Hwy 20 NE",
+    "lat": 34.2062801,
+    "lon": -84.7637886,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/cartersville/59"
+  },
+  {
+    "id": "523",
+    "city": "Columbus",
+    "state": "GA",
+    "address": "1500 Bradley Park Dr.",
+    "lat": 32.53111,
+    "lon": -84.9711061,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/columbus/523"
+  },
+  {
+    "id": "339",
+    "city": "Commerce",
+    "state": "GA",
+    "address": "138 Eisenhower Dr.",
+    "lat": 34.2566683,
+    "lon": -83.4623128,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/commerce/339"
+  },
+  {
+    "id": "32",
+    "city": "Conyers",
+    "state": "GA",
+    "address": "1182 Dogwood Dr SE",
+    "lat": 33.6551911,
+    "lon": -84.0065792,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/conyers/32"
+  },
+  {
+    "id": "456",
+    "city": "Cordele",
+    "state": "GA",
+    "address": "1905 Central Ave.",
+    "lat": 31.9590263,
+    "lon": -83.7532372,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/cordele/456"
+  },
+  {
+    "id": "697",
+    "city": "Cumming",
+    "state": "GA",
+    "address": "675 Buford Hwy.",
+    "lat": 34.185792,
+    "lon": -84.139434,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/cumming/697"
+  },
+  {
+    "id": "5",
+    "city": "Dalton",
+    "state": "GA",
+    "address": "938 Market St.",
+    "lat": 34.7581291,
+    "lon": -85.0008885,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/dalton/5"
+  },
+  {
+    "id": "40",
+    "city": "Douglasville",
+    "state": "GA",
+    "address": "7060 Concourse Pkwy.",
+    "lat": 33.7294797,
+    "lon": -84.7597504,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/douglasville/40"
+  },
+  {
+    "id": "401",
+    "city": "Dublin",
+    "state": "GA",
+    "address": "104 Travel Center Blvd.",
+    "lat": 32.4872764,
+    "lon": -82.937892,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/dublin/401"
+  },
+  {
+    "id": "657",
+    "city": "Evans",
+    "state": "GA",
+    "address": "544 N Belair Rd.",
+    "lat": 33.5362922,
+    "lon": -82.1294981,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/evans/657"
+  },
+  {
+    "id": "171",
+    "city": "Grovetown",
+    "state": "GA",
+    "address": "460 Parkwest Dr.",
+    "lat": 33.4806462,
+    "lon": -82.1324992,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/grovetown/171"
+  },
+  {
+    "id": "20",
+    "city": "Kennesaw",
+    "state": "GA",
+    "address": "3389 Busbee Dr. NW",
+    "lat": 34.0327138,
+    "lon": -84.5750745,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/kennesaw/20"
+  },
+  {
+    "id": "361",
+    "city": "Kingsland",
+    "state": "GA",
+    "address": "1200 Boone Ave.",
+    "lat": 30.790533,
+    "lon": -81.6616899,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/kingsland/361"
+  },
+  {
+    "id": "561",
+    "city": "LaGrange",
+    "state": "GA",
+    "address": "105 Hoffman Dr.",
+    "lat": 33.0409039,
+    "lon": -84.9727329,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/lagrange/561"
+  },
+  {
+    "id": "89",
+    "city": "Lake Park",
+    "state": "GA",
+    "address": "4914 Timber Dr.",
+    "lat": 30.6809262,
+    "lon": -83.225463,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/lake-park/89"
+  },
+  {
+    "id": "750",
+    "city": "Lavonia",
+    "state": "GA",
+    "address": "725 Ross Place",
+    "lat": 34.444933,
+    "lon": -83.1243957,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/lavonia/750"
+  },
+  {
+    "id": "543",
+    "city": "Lithia Springs",
+    "state": "GA",
+    "address": "970 W. Pointe Ct.",
+    "lat": 33.7745722,
+    "lon": -84.6058404,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/lithia-springs/543"
+  },
+  {
+    "id": "46",
+    "city": "Macon",
+    "state": "GA",
+    "address": "3950 Riverside Dr.",
+    "lat": 32.9038498,
+    "lon": -83.6897284,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/macon/46"
+  },
+  {
+    "id": "22",
+    "city": "Macon",
+    "state": "GA",
+    "address": "5000 Eisenhower Pkwy.",
+    "lat": 32.813196,
+    "lon": -83.7211174,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/macon/22"
+  },
+  {
+    "id": "593",
+    "city": "Madison",
+    "state": "GA",
+    "address": "2003 Eatonton Rd",
+    "lat": 33.5568426,
+    "lon": -83.4763993,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/madison/593"
+  },
+  {
+    "id": "30",
+    "city": "Marietta",
+    "state": "GA",
+    "address": "2150 Delk Rd.",
+    "lat": 33.9218634,
+    "lon": -84.4915316,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/marietta/30"
+  },
+  {
+    "id": "515",
+    "city": "McDonough",
+    "state": "GA",
+    "address": "1124 Hwy. 20 W.",
+    "lat": 33.4299035,
+    "lon": -84.1822082,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/mcdonough/515"
+  },
+  {
+    "id": "38",
+    "city": "Morrow",
+    "state": "GA",
+    "address": "1458 Southlake Plaza Dr.",
+    "lat": 33.5789489,
+    "lon": -84.342661,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/morrow/38"
+  },
+  {
+    "id": "212",
+    "city": "Newnan",
+    "state": "GA",
+    "address": "527 Bullsboro Dr.",
+    "lat": 33.3951469,
+    "lon": -84.7597096,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/newnan/212"
+  },
+  {
+    "id": "28",
+    "city": "Norcross",
+    "state": "GA",
+    "address": "6175 McDonough Dr.",
+    "lat": 33.9103894,
+    "lon": -84.208817,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/norcross/28"
+  },
+  {
+    "id": "98",
+    "city": "Perry",
+    "state": "GA",
+    "address": "101 Lect Dr.",
+    "lat": 32.4475194,
+    "lon": -83.7528638,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/perry/98"
+  },
+  {
+    "id": "192",
+    "city": "Pooler",
+    "state": "GA",
+    "address": "1000 Hwy. 80 E.",
+    "lat": 32.1129193,
+    "lon": -81.2359976,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/pooler/192"
+  },
+  {
+    "id": "562",
+    "city": "Ringgold",
+    "state": "GA",
+    "address": "50 Biscuit Way",
+    "lat": 34.9116462,
+    "lon": -85.1290144,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/ringgold/562"
+  },
+  {
+    "id": "52",
+    "city": "Savannah",
+    "state": "GA",
+    "address": "17017 Abercorn St.",
+    "lat": 32.004495,
+    "lon": -81.2777451,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/savannah/52"
+  },
+  {
+    "id": "746",
+    "city": "Snellville",
+    "state": "GA",
+    "address": "1740 Scenic Hwy.",
+    "lat": 33.8806956,
+    "lon": -84.0108347,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/snellville/746"
+  },
+  {
+    "id": "685",
+    "city": "Statesboro",
+    "state": "GA",
+    "address": "216 Henry Blvd.",
+    "lat": 32.4285921,
+    "lon": -81.7575945,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/statesboro/685"
+  },
+  {
+    "id": "146",
+    "city": "Suwanee",
+    "state": "GA",
+    "address": "75 Celebration Dr.",
+    "lat": 34.0282993,
+    "lon": -84.0482686,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/suwanee/146"
+  },
+  {
+    "id": "80",
+    "city": "Tifton",
+    "state": "GA",
+    "address": "708 US Hwy. 319 S.",
+    "lat": 31.4489412,
+    "lon": -83.528925,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/tifton/80"
+  },
+  {
+    "id": "35",
+    "city": "Valdosta",
+    "state": "GA",
+    "address": "1195 St. Augustine Rd.",
+    "lat": 30.8420359,
+    "lon": -83.3233655,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/valdosta/35"
+  },
+  {
+    "id": "516",
+    "city": "Warner Robins",
+    "state": "GA",
+    "address": "2700 Watson Blvd.",
+    "lat": 32.6188717,
+    "lon": -83.6698739,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/warner-robins/516"
+  },
+  {
+    "id": "744",
+    "city": "Waycross",
+    "state": "GA",
+    "address": "2501 Memorial Dr.",
+    "lat": 31.1939691,
+    "lon": -82.3187779,
+    "url": "https://www.crackerbarrel.com/Locations/States/ga/waycross/744"
+  },
+  {
+    "id": "144",
+    "city": "Clive",
+    "state": "IA",
+    "address": "11701 University Ave.",
+    "lat": 41.6010155,
+    "lon": -93.7802592,
+    "url": "https://www.crackerbarrel.com/Locations/States/ia/clive/144"
+  },
+  {
+    "id": "219",
+    "city": "Council Bluffs",
+    "state": "IA",
+    "address": "530 30th Ave.",
+    "lat": 41.2313274,
+    "lon": -95.8491799,
+    "url": "https://www.crackerbarrel.com/Locations/States/ia/council-bluffs/219"
+  },
+  {
+    "id": "161",
+    "city": "Davenport",
+    "state": "IA",
+    "address": "300 Jason Way Ct.",
+    "lat": 41.593153,
+    "lon": -90.5684138,
+    "url": "https://www.crackerbarrel.com/Locations/States/ia/davenport/161"
+  },
+  {
+    "id": "359",
+    "city": "Boise",
+    "state": "ID",
+    "address": "1733 South Cole Rd.",
+    "lat": 43.5884692,
+    "lon": -116.2749638,
+    "url": "https://www.crackerbarrel.com/Locations/States/id/boise/359"
+  },
+  {
+    "id": "729",
+    "city": "Coeur d'Alene",
+    "state": "ID",
+    "address": "1675 W Lee Ct",
+    "lat": 47.7013429,
+    "lon": -116.806583,
+    "url": "https://www.crackerbarrel.com/Locations/States/id/coeur-d-alene/729"
+  },
+  {
+    "id": "683",
+    "city": "Nampa",
+    "state": "ID",
+    "address": "16853 N. Marketplace Blvd.",
+    "lat": 43.6126641,
+    "lon": -116.5948296,
+    "url": "https://www.crackerbarrel.com/Locations/States/id/nampa/683"
+  },
+  {
+    "id": "125",
+    "city": "Bloomington",
+    "state": "IL",
+    "address": "502 Brock Dr.",
+    "lat": 40.482955,
+    "lon": -89.0257725,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/bloomington/125"
+  },
+  {
+    "id": "221",
+    "city": "Bourbonnais",
+    "state": "IL",
+    "address": "50 Ken Hayes Dr.",
+    "lat": 41.1708109,
+    "lon": -87.8489132,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/bourbonnais/221"
+  },
+  {
+    "id": "111",
+    "city": "Caseyville",
+    "state": "IL",
+    "address": "2421 Old Country Inn Dr.",
+    "lat": 38.6122939,
+    "lon": -90.0478648,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/caseyville/111"
+  },
+  {
+    "id": "246",
+    "city": "Decatur",
+    "state": "IL",
+    "address": "5120 Hickory Point Frontage Rd.",
+    "lat": 39.9107576,
+    "lon": -88.9525709,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/decatur/246"
+  },
+  {
+    "id": "101",
+    "city": "Effingham",
+    "state": "IL",
+    "address": "1101 Ave. of Mid-America",
+    "lat": 39.1393967,
+    "lon": -88.5588718,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/effingham/101"
+  },
+  {
+    "id": "122",
+    "city": "Gurnee",
+    "state": "IL",
+    "address": "5706 Northridge Dr.",
+    "lat": 42.3772353,
+    "lon": -87.9441261,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/gurnee/122"
+  },
+  {
+    "id": "235",
+    "city": "Joliet",
+    "state": "IL",
+    "address": "1511 Riverboat Center",
+    "lat": 41.4940028,
+    "lon": -88.1677857,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/joliet/235"
+  },
+  {
+    "id": "391",
+    "city": "Lincoln",
+    "state": "IL",
+    "address": "1013 Heitmann Dr.",
+    "lat": 40.1590795,
+    "lon": -89.4137262,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/lincoln/391"
+  },
+  {
+    "id": "78",
+    "city": "Marion",
+    "state": "IL",
+    "address": "2602 West Main St.",
+    "lat": 37.7304247,
+    "lon": -88.9615087,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/marion/78"
+  },
+  {
+    "id": "404",
+    "city": "Mattoon",
+    "state": "IL",
+    "address": "1101 Charleston Ave. E.",
+    "lat": 39.4836605,
+    "lon": -88.3320537,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/mattoon/404"
+  },
+  {
+    "id": "209",
+    "city": "Morton",
+    "state": "IL",
+    "address": "150 E Ashland St.",
+    "lat": 40.6227584,
+    "lon": -89.4602216,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/morton/209"
+  },
+  {
+    "id": "93",
+    "city": "Mount Vernon",
+    "state": "IL",
+    "address": "4425 Fairfax Dr.",
+    "lat": 38.3138323,
+    "lon": -88.9552263,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/mount-vernon/93"
+  },
+  {
+    "id": "196",
+    "city": "Naperville",
+    "state": "IL",
+    "address": "1855 West Diehl Rd.",
+    "lat": 41.8021396,
+    "lon": -88.2087584,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/naperville/196"
+  },
+  {
+    "id": "437",
+    "city": "Ottawa",
+    "state": "IL",
+    "address": "4119 Columbus",
+    "lat": 41.3808581,
+    "lon": -88.8367284,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/ottawa/437"
+  },
+  {
+    "id": "244",
+    "city": "Rockford",
+    "state": "IL",
+    "address": "730 North Lyford Rd.",
+    "lat": 42.2746166,
+    "lon": -88.96106,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/rockford/244"
+  },
+  {
+    "id": "307",
+    "city": "Romeoville",
+    "state": "IL",
+    "address": "1295 Lakeview Dr.",
+    "lat": 41.6578506,
+    "lon": -88.1238764,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/romeoville/307"
+  },
+  {
+    "id": "569",
+    "city": "Shiloh",
+    "state": "IL",
+    "address": "3160 Green Mount Crossing Dr.",
+    "lat": 38.5741873,
+    "lon": -89.9268839,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/shiloh/569"
+  },
+  {
+    "id": "147",
+    "city": "Springfield",
+    "state": "IL",
+    "address": "5975 S 6th Street Rd.",
+    "lat": 39.7151796,
+    "lon": -89.6411246,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/springfield/147"
+  },
+  {
+    "id": "176",
+    "city": "Tinley Park",
+    "state": "IL",
+    "address": "18531 North Creek Dr.",
+    "lat": 41.5542518,
+    "lon": -87.7946621,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/tinley-park/176"
+  },
+  {
+    "id": "232",
+    "city": "Troy",
+    "state": "IL",
+    "address": "2001 Formosa Rd.",
+    "lat": 38.7339139,
+    "lon": -89.9148951,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/troy/232"
+  },
+  {
+    "id": "129",
+    "city": "Urbana",
+    "state": "IL",
+    "address": "2101 North Kenyon Rd.",
+    "lat": 40.1334488,
+    "lon": -88.1995086,
+    "url": "https://www.crackerbarrel.com/Locations/States/il/urbana/129"
+  },
+  {
+    "id": "74",
+    "city": "Anderson",
+    "state": "IN",
+    "address": "2012 East 59th St.",
+    "lat": 40.0557991,
+    "lon": -85.6511137,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/anderson/74"
+  },
+  {
+    "id": "541",
+    "city": "Auburn",
+    "state": "IN",
+    "address": "1410 Shook Dr.",
+    "lat": 41.3660863,
+    "lon": -85.0839321,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/auburn/541"
+  },
+  {
+    "id": "487",
+    "city": "Bloomington",
+    "state": "IN",
+    "address": "380 N. Jacob Dr.",
+    "lat": 39.1712685,
+    "lon": -86.5709073,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/bloomington/487"
+  },
+  {
+    "id": "443",
+    "city": "Corydon",
+    "state": "IN",
+    "address": "2393 Pacer Court NW",
+    "lat": 38.2371343,
+    "lon": -86.1279872,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/corydon/443"
+  },
+  {
+    "id": "705",
+    "city": "Crawfordsville",
+    "state": "IN",
+    "address": "1005 Candle View Ln.",
+    "lat": 40.0768506,
+    "lon": -86.9059397,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/crawfordsville/705"
+  },
+  {
+    "id": "256",
+    "city": "Edinburgh",
+    "state": "IN",
+    "address": "11701 North US Highway 31",
+    "lat": 39.317569,
+    "lon": -85.9685014,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/edinburgh/256"
+  },
+  {
+    "id": "113",
+    "city": "Elkhart",
+    "state": "IN",
+    "address": "110 Northpointe Blvd.",
+    "lat": 41.7352012,
+    "lon": -85.9752315,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/elkhart/113"
+  },
+  {
+    "id": "216",
+    "city": "Evansville",
+    "state": "IN",
+    "address": "8215 Eagel Lake Dr.",
+    "lat": 37.9749139,
+    "lon": -87.4535949,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/evansville/216"
+  },
+  {
+    "id": "88",
+    "city": "Fishers",
+    "state": "IN",
+    "address": "9700 N By Northeast Blvd.",
+    "lat": 39.9284836,
+    "lon": -86.0269442,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/fishers/88"
+  },
+  {
+    "id": "526",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "address": "10427 E. Maysville Rd.",
+    "lat": 41.1317246,
+    "lon": -85.0100513,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/fort-wayne/526"
+  },
+  {
+    "id": "62",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "address": "1609 W. Washington Ctr. Rd.",
+    "lat": 41.1318639,
+    "lon": -85.1610431,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/fort-wayne/62"
+  },
+  {
+    "id": "393",
+    "city": "Gas City",
+    "state": "IN",
+    "address": "4984 Kay Bee Dr.",
+    "lat": 40.4810806,
+    "lon": -85.5472569,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/gas-city/393"
+  },
+  {
+    "id": "554",
+    "city": "Greenfield",
+    "state": "IN",
+    "address": "2265 N State St.",
+    "lat": 39.8190684,
+    "lon": -85.7688929,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/greenfield/554"
+  },
+  {
+    "id": "369",
+    "city": "Hammond",
+    "state": "IN",
+    "address": "7750 Corinne Dr.",
+    "lat": 41.571765,
+    "lon": -87.4629123,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/hammond/369"
+  },
+  {
+    "id": "116",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "2340 Post Dr.",
+    "lat": 39.8015735,
+    "lon": -86.0122221,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/indianapolis/116"
+  },
+  {
+    "id": "49",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "3840 Eagle View Dr.",
+    "lat": 39.82466,
+    "lon": -86.2789013,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/indianapolis/49"
+  },
+  {
+    "id": "45",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "4350 East Southport Rd.",
+    "lat": 39.6666387,
+    "lon": -86.0940098,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/indianapolis/45"
+  },
+  {
+    "id": "440",
+    "city": "Kokomo",
+    "state": "IN",
+    "address": "404 Kentucky Dr.",
+    "lat": 40.4356904,
+    "lon": -86.126436,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/kokomo/440"
+  },
+  {
+    "id": "37",
+    "city": "Lafayette",
+    "state": "IN",
+    "address": "40 Frontage Rd.",
+    "lat": 40.4184054,
+    "lon": -86.8177193,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/lafayette/37"
+  },
+  {
+    "id": "84",
+    "city": "Merrillville",
+    "state": "IN",
+    "address": "6200 Opportunity Ln.",
+    "lat": 41.5042516,
+    "lon": -87.3184631,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/merrillville/84"
+  },
+  {
+    "id": "132",
+    "city": "Plainfield",
+    "state": "IN",
+    "address": "6256 Cambridge Way",
+    "lat": 39.6712218,
+    "lon": -86.3690821,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/plainfield/132"
+  },
+  {
+    "id": "95",
+    "city": "Richmond",
+    "state": "IN",
+    "address": "6050 National Rd. E.",
+    "lat": 39.83436,
+    "lon": -84.8196556,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/richmond/95"
+  },
+  {
+    "id": "542",
+    "city": "Scottsburg",
+    "state": "IN",
+    "address": "1265 Allen St.",
+    "lat": 38.683125,
+    "lon": -85.7859652,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/scottsburg/542"
+  },
+  {
+    "id": "303",
+    "city": "Sellersburg",
+    "state": "IN",
+    "address": "350 Triangle Rd.",
+    "lat": 38.3946822,
+    "lon": -85.7597354,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/sellersburg/303"
+  },
+  {
+    "id": "64",
+    "city": "Seymour",
+    "state": "IN",
+    "address": "211 N Sandy Creek Dr.",
+    "lat": 38.9598767,
+    "lon": -85.8461043,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/seymour/64"
+  },
+  {
+    "id": "400",
+    "city": "Shelbyville",
+    "state": "IN",
+    "address": "1898 N. Morristown Rd.",
+    "lat": 39.5532208,
+    "lon": -85.7749142,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/shelbyville/400"
+  },
+  {
+    "id": "156",
+    "city": "Terre Haute",
+    "state": "IN",
+    "address": "429 E Margaret Dr.",
+    "lat": 39.4318882,
+    "lon": -87.4107965,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/terre-haute/156"
+  },
+  {
+    "id": "694",
+    "city": "Whitestown",
+    "state": "IN",
+    "address": "6398 Crane Dr.",
+    "lat": 39.9473509,
+    "lon": -86.3518542,
+    "url": "https://www.crackerbarrel.com/Locations/States/in/whitestown/694"
+  },
+  {
+    "id": "392",
+    "city": "Junction City",
+    "state": "KS",
+    "address": "115 N East St",
+    "lat": 39.0227534,
+    "lon": -96.815577,
+    "url": "https://www.crackerbarrel.com/Locations/States/ks/junction-city/392"
+  },
+  {
+    "id": "243",
+    "city": "Olathe",
+    "state": "KS",
+    "address": "12101 S Strangline Rd.",
+    "lat": 38.9091731,
+    "lon": -94.7732847,
+    "url": "https://www.crackerbarrel.com/Locations/States/ks/olathe/243"
+  },
+  {
+    "id": "177",
+    "city": "Topeka",
+    "state": "KS",
+    "address": "1421 South West Ashworth Place",
+    "lat": 39.0408926,
+    "lon": -95.758414,
+    "url": "https://www.crackerbarrel.com/Locations/States/ks/topeka/177"
+  },
+  {
+    "id": "767",
+    "city": "Wichita",
+    "state": "KS",
+    "address": "619 S. Ridge Rd.",
+    "lat": 37.6747031,
+    "lon": -97.4264256,
+    "url": "https://www.crackerbarrel.com/Locations/States/ks/wichita/767"
+  },
+  {
+    "id": "213",
+    "city": "Wichita",
+    "state": "KS",
+    "address": "995 E. 61st N.",
+    "lat": 37.7951604,
+    "lon": -97.3269313,
+    "url": "https://www.crackerbarrel.com/Locations/States/ks/wichita/213"
+  },
+  {
+    "id": "691",
+    "city": "Bardstown",
+    "state": "KY",
+    "address": "10 Old Filiatreau Ln.",
+    "lat": 37.7986093,
+    "lon": -85.4323815,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/bardstown/691"
+  },
+  {
+    "id": "549",
+    "city": "Berea",
+    "state": "KY",
+    "address": "101 McKinney Dr.",
+    "lat": 37.567876,
+    "lon": -84.310126,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/berea/549"
+  },
+  {
+    "id": "86",
+    "city": "Bowling Green",
+    "state": "KY",
+    "address": "1960 Mel Browning St.",
+    "lat": 36.9314321,
+    "lon": -86.4183353,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/bowling-green/86"
+  },
+  {
+    "id": "394",
+    "city": "Cadiz",
+    "state": "KY",
+    "address": "74 Hospitality Ln.",
+    "lat": 36.8798283,
+    "lon": -87.7355375,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/cadiz/394"
+  },
+  {
+    "id": "531",
+    "city": "Calvert City",
+    "state": "KY",
+    "address": "314 Kennedy Ave.",
+    "lat": 37.0052428,
+    "lon": -88.3252595,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/calvert-city/531"
+  },
+  {
+    "id": "428",
+    "city": "Cave City",
+    "state": "KY",
+    "address": "800 Happy Valley St.",
+    "lat": 37.134625,
+    "lon": -85.9726421,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/cave-city/428"
+  },
+  {
+    "id": "751",
+    "city": "Cold Spring",
+    "state": "KY",
+    "address": "4210 Alexandria Pike",
+    "lat": 39.0193116,
+    "lon": -84.4378209,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/cold-spring/751"
+  },
+  {
+    "id": "8",
+    "city": "Corbin",
+    "state": "KY",
+    "address": "84 Adams Rd.",
+    "lat": 36.9782292,
+    "lon": -84.1127532,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/corbin/8"
+  },
+  {
+    "id": "483",
+    "city": "Danville",
+    "state": "KY",
+    "address": "40 Cassidy Ave.",
+    "lat": 37.61542,
+    "lon": -84.775433,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/danville/483"
+  },
+  {
+    "id": "493",
+    "city": "Dry Ridge",
+    "state": "KY",
+    "address": "1131 Fashion Ridge Rd.",
+    "lat": 38.6865588,
+    "lon": -84.6030181,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/dry-ridge/493"
+  },
+  {
+    "id": "48",
+    "city": "Elizabethtown",
+    "state": "KY",
+    "address": "1047 Executive Dr.",
+    "lat": 37.7111431,
+    "lon": -85.831106,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/elizabethtown/48"
+  },
+  {
+    "id": "55",
+    "city": "Florence",
+    "state": "KY",
+    "address": "7399 Turfway Rd.",
+    "lat": 39.015675,
+    "lon": -84.6343824,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/florence/55"
+  },
+  {
+    "id": "358",
+    "city": "Frankfort",
+    "state": "KY",
+    "address": "161 Bizzack Blvd.",
+    "lat": 38.1717958,
+    "lon": -84.8116956,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/frankfort/358"
+  },
+  {
+    "id": "7",
+    "city": "Franklin",
+    "state": "KY",
+    "address": "155 Steele Rd.",
+    "lat": 36.6664501,
+    "lon": -86.5576588,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/franklin/7"
+  },
+  {
+    "id": "71",
+    "city": "Georgetown",
+    "state": "KY",
+    "address": "1454 Cherry Blossom Way",
+    "lat": 38.2207236,
+    "lon": -84.5398291,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/georgetown/71"
+  },
+  {
+    "id": "632",
+    "city": "Henderson",
+    "state": "KY",
+    "address": "2130 US Highway 60 E",
+    "lat": 37.859628,
+    "lon": -87.5666593,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/henderson/632"
+  },
+  {
+    "id": "153",
+    "city": "Jeffersontown",
+    "state": "KY",
+    "address": "1401 Kentucky Mills Dr.",
+    "lat": 38.2221133,
+    "lon": -85.5395607,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/jeffersontown/153"
+  },
+  {
+    "id": "290",
+    "city": "Lagrange",
+    "state": "KY",
+    "address": "1414 East Crystal Dr.",
+    "lat": 38.4018914,
+    "lon": -85.3764136,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/lagrange/290"
+  },
+  {
+    "id": "19",
+    "city": "Lexington",
+    "state": "KY",
+    "address": "1927 Stanton Way",
+    "lat": 38.1011235,
+    "lon": -84.4808344,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/lexington/19"
+  },
+  {
+    "id": "77",
+    "city": "Lexington",
+    "state": "KY",
+    "address": "2220 Elkhorn Rd.",
+    "lat": 38.0448023,
+    "lon": -84.4221083,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/lexington/77"
+  },
+  {
+    "id": "556",
+    "city": "London",
+    "state": "KY",
+    "address": "80 Alamo Dr.",
+    "lat": 37.1510242,
+    "lon": -84.1140317,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/london/556"
+  },
+  {
+    "id": "522",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "10150 Brookridge Village Blvd.",
+    "lat": 38.1443844,
+    "lon": -85.5836398,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/louisville/522"
+  },
+  {
+    "id": "650",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "11000 Dixie Hwy.",
+    "lat": 38.0954721,
+    "lon": -85.874889,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/louisville/650"
+  },
+  {
+    "id": "417",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "2701 Crittenden Dr",
+    "lat": 38.2052,
+    "lon": -85.7501195,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/louisville/417"
+  },
+  {
+    "id": "453",
+    "city": "Madisonville",
+    "state": "KY",
+    "address": "1780 E. Center St.",
+    "lat": 37.3260504,
+    "lon": -87.4715797,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/madisonville/453"
+  },
+  {
+    "id": "745",
+    "city": "Mayfield",
+    "state": "KY",
+    "address": "33 Brien Dr.",
+    "lat": 36.7690849,
+    "lon": -88.6426949,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/mayfield/745"
+  },
+  {
+    "id": "706",
+    "city": "Middlesboro",
+    "state": "KY",
+    "address": "1049 N.12th St.",
+    "lat": 36.614289,
+    "lon": -83.7017957,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/middlesboro/706"
+  },
+  {
+    "id": "698",
+    "city": "Morehead",
+    "state": "KY",
+    "address": "1698 Flemingsburg Rd",
+    "lat": 38.1906184,
+    "lon": -83.476816,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/morehead/698"
+  },
+  {
+    "id": "355",
+    "city": "Mount Sterling",
+    "state": "KY",
+    "address": "110 Stone Trace Dr.",
+    "lat": 38.0789756,
+    "lon": -83.9509826,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/mount-sterling/355"
+  },
+  {
+    "id": "460",
+    "city": "Murray",
+    "state": "KY",
+    "address": "650 N. 12th St.",
+    "lat": 36.6208825,
+    "lon": -88.3144398,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/murray/460"
+  },
+  {
+    "id": "651",
+    "city": "Nicholasville",
+    "state": "KY",
+    "address": "4089 Lexington Rd.",
+    "lat": 37.9563478,
+    "lon": -84.5406235,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/nicholasville/651"
+  },
+  {
+    "id": "420",
+    "city": "Owensboro",
+    "state": "KY",
+    "address": "5311 Frederica St.",
+    "lat": 37.7141725,
+    "lon": -87.1250647,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/owensboro/420"
+  },
+  {
+    "id": "24",
+    "city": "Paducah",
+    "state": "KY",
+    "address": "5035 Hinkleville Rd.",
+    "lat": 37.0773116,
+    "lon": -88.6867386,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/paducah/24"
+  },
+  {
+    "id": "10",
+    "city": "Richmond",
+    "state": "KY",
+    "address": "1797 Lexington Rd.",
+    "lat": 37.770542,
+    "lon": -84.3138117,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/richmond/10"
+  },
+  {
+    "id": "415",
+    "city": "Shelbyville",
+    "state": "KY",
+    "address": "1565 Mt. Eden Rd.",
+    "lat": 38.1890963,
+    "lon": -85.2108552,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/shelbyville/415"
+  },
+  {
+    "id": "223",
+    "city": "Shepherdsville",
+    "state": "KY",
+    "address": "275 Brenton Way",
+    "lat": 38.0654609,
+    "lon": -85.6976931,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/shepherdsville/223"
+  },
+  {
+    "id": "454",
+    "city": "Somerset",
+    "state": "KY",
+    "address": "1899 S. Hwy 27",
+    "lat": 37.0675035,
+    "lon": -84.6200159,
+    "url": "https://www.crackerbarrel.com/Locations/States/ky/somerset/454"
+  },
+  {
+    "id": "433",
+    "city": "Alexandria",
+    "state": "LA",
+    "address": "6108 West Calhoun Dr.",
+    "lat": 31.34635,
+    "lon": -92.5209924,
+    "url": "https://www.crackerbarrel.com/Locations/States/la/alexandria/433"
+  },
+  {
+    "id": "152",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "address": "10250 Plaza Americana Dr.",
+    "lat": 30.4262121,
+    "lon": -91.0735796,
+    "url": "https://www.crackerbarrel.com/Locations/States/la/baton-rouge/152"
+  },
+  {
+    "id": "686",
+    "city": "Covington",
+    "state": "LA",
+    "address": "8001 Pinnacle Pkwy.",
+    "lat": 30.4442876,
+    "lon": -90.1283972,
+    "url": "https://www.crackerbarrel.com/Locations/States/la/covington/686"
+  },
+  {
+    "id": "353",
+    "city": "Gonzales",
+    "state": "LA",
+    "address": "2313 South Tanger Blvd.",
+    "lat": 30.2134862,
+    "lon": -90.9515327,
+    "url": "https://www.crackerbarrel.com/Locations/States/la/gonzales/353"
+  },
+  {
+    "id": "352",
+    "city": "Hammond",
+    "state": "LA",
+    "address": "201 Westin Oaks Dr.",
+    "lat": 30.50276,
+    "lon": -90.5022075,
+    "url": "https://www.crackerbarrel.com/Locations/States/la/hammond/352"
+  },
+  {
+    "id": "182",
+    "city": "Lafayette",
+    "state": "LA",
+    "address": "116 Alcide Dominique Dr.",
+    "lat": 30.2491601,
+    "lon": -92.0373839,
+    "url": "https://www.crackerbarrel.com/Locations/States/la/lafayette/182"
+  },
+  {
+    "id": "229",
+    "city": "Shreveport",
+    "state": "LA",
+    "address": "6251 Westport Ave.",
+    "lat": 32.4489704,
+    "lon": -93.8687958,
+    "url": "https://www.crackerbarrel.com/Locations/States/la/shreveport/229"
+  },
+  {
+    "id": "138",
+    "city": "Slidell",
+    "state": "LA",
+    "address": "790 E I 10 Service Rd.",
+    "lat": 30.2809935,
+    "lon": -89.7505412,
+    "url": "https://www.crackerbarrel.com/Locations/States/la/slidell/138"
+  },
+  {
+    "id": "320",
+    "city": "Sulphur",
+    "state": "LA",
+    "address": "1100 Pintail Rd.",
+    "lat": 30.2132907,
+    "lon": -93.3266937,
+    "url": "https://www.crackerbarrel.com/Locations/States/la/sulphur/320"
+  },
+  {
+    "id": "278",
+    "city": "West Monroe",
+    "state": "LA",
+    "address": "309 Constitution Dr.",
+    "lat": 32.5070796,
+    "lon": -92.161333,
+    "url": "https://www.crackerbarrel.com/Locations/States/la/west-monroe/278"
+  },
+  {
+    "id": "294",
+    "city": "Holyoke",
+    "state": "MA",
+    "address": "227 Whiting Farms Rd.",
+    "lat": 42.1771241,
+    "lon": -72.6421884,
+    "url": "https://www.crackerbarrel.com/Locations/States/ma/holyoke/294"
+  },
+  {
+    "id": "462",
+    "city": "Sturbridge",
+    "state": "MA",
+    "address": "215 Charlton Rd.",
+    "lat": 42.1163011,
+    "lon": -72.0671855,
+    "url": "https://www.crackerbarrel.com/Locations/States/ma/sturbridge/462"
+  },
+  {
+    "id": "373",
+    "city": "Tewksbury",
+    "state": "MA",
+    "address": "1795 Andover St.",
+    "lat": 42.6422271,
+    "lon": -71.2354022,
+    "url": "https://www.crackerbarrel.com/Locations/States/ma/tewksbury/373"
+  },
+  {
+    "id": "497",
+    "city": "Wrentham",
+    "state": "MA",
+    "address": "1048 South Street Suite 40",
+    "lat": 42.0370383,
+    "lon": -71.34834,
+    "url": "https://www.crackerbarrel.com/Locations/States/ma/wrentham/497"
+  },
+  {
+    "id": "782",
+    "city": "Annapolis",
+    "state": "MD",
+    "address": "175 Jennifer Rd",
+    "lat": 38.9861,
+    "lon": -76.54409,
+    "url": "https://www.crackerbarrel.com/Locations/States/md/annapolis/782"
+  },
+  {
+    "id": "333",
+    "city": "Bel Air",
+    "state": "MD",
+    "address": "1440 Handlir Dr.",
+    "lat": 39.4822129,
+    "lon": -76.2513065,
+    "url": "https://www.crackerbarrel.com/Locations/States/md/bel-air/333"
+  },
+  {
+    "id": "572",
+    "city": "California",
+    "state": "MD",
+    "address": "45315 Abell House Ln",
+    "lat": 38.2990915,
+    "lon": -76.5091241,
+    "url": "https://www.crackerbarrel.com/Locations/States/md/california/572"
+  },
+  {
+    "id": "472",
+    "city": "Elkton",
+    "state": "MD",
+    "address": "300 Belle Hill Rd.",
+    "lat": 39.6369011,
+    "lon": -75.8043201,
+    "url": "https://www.crackerbarrel.com/Locations/States/md/elkton/472"
+  },
+  {
+    "id": "262",
+    "city": "Frederick",
+    "state": "MD",
+    "address": "7408 Shockley Dr.",
+    "lat": 39.3766667,
+    "lon": -77.4069903,
+    "url": "https://www.crackerbarrel.com/Locations/States/md/frederick/262"
+  },
+  {
+    "id": "434",
+    "city": "Hagerstown",
+    "state": "MD",
+    "address": "18214 Col. Henry K. Douglas Dr.",
+    "lat": 39.6008566,
+    "lon": -77.7307671,
+    "url": "https://www.crackerbarrel.com/Locations/States/md/hagerstown/434"
+  },
+  {
+    "id": "731",
+    "city": "LaVale",
+    "state": "MD",
+    "address": "13 Campground Rd.",
+    "lat": 39.6375262,
+    "lon": -78.8303452,
+    "url": "https://www.crackerbarrel.com/Locations/States/md/lavale/731"
+  },
+  {
+    "id": "718",
+    "city": "Linthicum Heights",
+    "state": "MD",
+    "address": "1520 W. Nursery Rd",
+    "lat": 39.2091724,
+    "lon": -76.679982,
+    "url": "https://www.crackerbarrel.com/Locations/States/md/linthicum-heights/718"
+  },
+  {
+    "id": "608",
+    "city": "Stevensville",
+    "state": "MD",
+    "address": "115 Blue Jay Ct",
+    "lat": 38.9754696,
+    "lon": -76.3091693,
+    "url": "https://www.crackerbarrel.com/Locations/States/md/stevensville/608"
+  },
+  {
+    "id": "687",
+    "city": "Waldorf",
+    "state": "MD",
+    "address": "3742 Crain Hwy.",
+    "lat": 38.6086847,
+    "lon": -76.927319,
+    "url": "https://www.crackerbarrel.com/Locations/States/md/waldorf/687"
+  },
+  {
+    "id": "66",
+    "city": "Battle Creek",
+    "state": "MI",
+    "address": "4765 Beckley Rd.",
+    "lat": 42.2613962,
+    "lon": -85.2029235,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/battle-creek/66"
+  },
+  {
+    "id": "538",
+    "city": "Bay City",
+    "state": "MI",
+    "address": "2854 E. Wilder Rd",
+    "lat": 43.6233923,
+    "lon": -83.9404053,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/bay-city/538"
+  },
+  {
+    "id": "115",
+    "city": "Belleville",
+    "state": "MI",
+    "address": "45525 N I94 Service Dr.",
+    "lat": 42.2209847,
+    "lon": -83.4874829,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/belleville/115"
+  },
+  {
+    "id": "236",
+    "city": "Bridgeport",
+    "state": "MI",
+    "address": "6450 Dixie Hwy.",
+    "lat": 43.3498754,
+    "lon": -83.8666279,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/bridgeport/236"
+  },
+  {
+    "id": "234",
+    "city": "Brighton",
+    "state": "MI",
+    "address": "7925 Conference Center Dr.",
+    "lat": 42.5519817,
+    "lon": -83.7946697,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/brighton/234"
+  },
+  {
+    "id": "180",
+    "city": "Flint",
+    "state": "MI",
+    "address": "4140 Pier North Blvd.",
+    "lat": 43.0642755,
+    "lon": -83.7639816,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/flint/180"
+  },
+  {
+    "id": "338",
+    "city": "Grandville",
+    "state": "MI",
+    "address": "4340 Kenowa Ave.",
+    "lat": 42.8864472,
+    "lon": -85.7813209,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/grandville/338"
+  },
+  {
+    "id": "136",
+    "city": "Jackson",
+    "state": "MI",
+    "address": "2494 Airport Rd.",
+    "lat": 42.2677415,
+    "lon": -84.4543904,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/jackson/136"
+  },
+  {
+    "id": "195",
+    "city": "Lansing",
+    "state": "MI",
+    "address": "608 Commercial Dr.",
+    "lat": 42.7401941,
+    "lon": -84.6721849,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/lansing/195"
+  },
+  {
+    "id": "222",
+    "city": "Monroe",
+    "state": "MI",
+    "address": "1101 Ternes Dr.",
+    "lat": 41.924179,
+    "lon": -83.3643718,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/monroe/222"
+  },
+  {
+    "id": "517",
+    "city": "Okemos",
+    "state": "MI",
+    "address": "2285 Woodlake Dr.",
+    "lat": 42.6807272,
+    "lon": -84.4335957,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/okemos/517"
+  },
+  {
+    "id": "218",
+    "city": "Port Huron",
+    "state": "MI",
+    "address": "2303 Water St.",
+    "lat": 42.9919964,
+    "lon": -82.4547118,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/port-huron/218"
+  },
+  {
+    "id": "208",
+    "city": "Roseville",
+    "state": "MI",
+    "address": "30750 Little Mack Rd.",
+    "lat": 42.5216976,
+    "lon": -82.9078796,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/roseville/208"
+  },
+  {
+    "id": "220",
+    "city": "Stevensville",
+    "state": "MI",
+    "address": "2525 West Marquette Woods Rd.",
+    "lat": 42.0326299,
+    "lon": -86.5165894,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/stevensville/220"
+  },
+  {
+    "id": "464",
+    "city": "Traverse City",
+    "state": "MI",
+    "address": "3620 North Country Dr.",
+    "lat": 44.7188639,
+    "lon": -85.6487857,
+    "url": "https://www.crackerbarrel.com/Locations/States/mi/traverse-city/464"
+  },
+  {
+    "id": "191",
+    "city": "Lakeville",
+    "state": "MN",
+    "address": "17189 Kenyon Ave.",
+    "lat": 44.7003898,
+    "lon": -93.2883096,
+    "url": "https://www.crackerbarrel.com/Locations/States/mn/lakeville/191"
+  },
+  {
+    "id": "762",
+    "city": "Belton",
+    "state": "MO",
+    "address": "6751 E. 163rd St.",
+    "lat": 38.8256925,
+    "lon": -94.5189789,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/belton/762"
+  },
+  {
+    "id": "140",
+    "city": "Branson",
+    "state": "MO",
+    "address": "3765 West Hwy.76",
+    "lat": 36.65032,
+    "lon": -93.2883289,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/branson/140"
+  },
+  {
+    "id": "148",
+    "city": "Cape Girardeau",
+    "state": "MO",
+    "address": "3261 Williams St.",
+    "lat": 37.299711,
+    "lon": -89.5770981,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/cape-girardeau/148"
+  },
+  {
+    "id": "145",
+    "city": "Columbia",
+    "state": "MO",
+    "address": "3304 Clark Ln.",
+    "lat": 38.9631223,
+    "lon": -92.2883573,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/columbia/145"
+  },
+  {
+    "id": "150",
+    "city": "Fenton",
+    "state": "MO",
+    "address": "1050 South Hwy. Dr.",
+    "lat": 38.5419472,
+    "lon": -90.4657915,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/fenton/150"
+  },
+  {
+    "id": "567",
+    "city": "Herculaneum",
+    "state": "MO",
+    "address": "1193 Scenic Dr.",
+    "lat": 38.2563317,
+    "lon": -90.4009592,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/herculaneum/567"
+  },
+  {
+    "id": "179",
+    "city": "Independence",
+    "state": "MO",
+    "address": "4110 S. Lee's Summit",
+    "lat": 39.0436947,
+    "lon": -94.3887579,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/independence/179"
+  },
+  {
+    "id": "188",
+    "city": "Joplin",
+    "state": "MO",
+    "address": "4010 Richard Joseph Rd.",
+    "lat": 37.0445862,
+    "lon": -94.4808612,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/joplin/188"
+  },
+  {
+    "id": "366",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "7920 NW Tiffany Springs Pkwy.",
+    "lat": 39.2729124,
+    "lon": -94.6725668,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/kansas-city/366"
+  },
+  {
+    "id": "163",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "8225 North Church Rd.",
+    "lat": 39.2413929,
+    "lon": -94.4597813,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/kansas-city/163"
+  },
+  {
+    "id": "533",
+    "city": "O'Fallon",
+    "state": "MO",
+    "address": "120 Progress Point Ct",
+    "lat": 38.7164721,
+    "lon": -90.7019961,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/ofallon/533"
+  },
+  {
+    "id": "279",
+    "city": "Saint Charles",
+    "state": "MO",
+    "address": "901 Veterans Memorial Pkwy.",
+    "lat": 38.7690433,
+    "lon": -90.5003139,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/saint-charles/279"
+  },
+  {
+    "id": "319",
+    "city": "Saint Joseph",
+    "state": "MO",
+    "address": "915 N. Woodbine Rd.",
+    "lat": 39.7739475,
+    "lon": -94.7946888,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/saint-joseph/319"
+  },
+  {
+    "id": "389",
+    "city": "Saint Robert",
+    "state": "MO",
+    "address": "128 St. Robert Blvd.",
+    "lat": 37.8253864,
+    "lon": -92.1452547,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/saint-robert/389"
+  },
+  {
+    "id": "127",
+    "city": "Springfield",
+    "state": "MO",
+    "address": "2858 North Glenstone",
+    "lat": 37.2489181,
+    "lon": -93.2590698,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/springfield/127"
+  },
+  {
+    "id": "99",
+    "city": "St. Louis",
+    "state": "MO",
+    "address": "6233 Heimos Industrial Park Dr.",
+    "lat": 38.4627991,
+    "lon": -90.3722608,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/st-louis/99"
+  },
+  {
+    "id": "590",
+    "city": "Sullivan",
+    "state": "MO",
+    "address": "701 W. Springfield Rd",
+    "lat": 38.2105129,
+    "lon": -91.171111,
+    "url": "https://www.crackerbarrel.com/Locations/States/mo/sullivan/590"
+  },
+  {
+    "id": "308",
+    "city": "Batesville",
+    "state": "MS",
+    "address": "225 Lakewood Dr.",
+    "lat": 34.3111873,
+    "lon": -89.9225128,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/batesville/308"
+  },
+  {
+    "id": "395",
+    "city": "Brookhaven",
+    "state": "MS",
+    "address": "1207 Hampton Dr.",
+    "lat": 31.5777804,
+    "lon": -90.4730181,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/brookhaven/395"
+  },
+  {
+    "id": "730",
+    "city": "Columbus",
+    "state": "MS",
+    "address": "592 18th Ave. N.",
+    "lat": 33.5136441,
+    "lon": -88.4268708,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/columbus/730"
+  },
+  {
+    "id": "722",
+    "city": "Corinth",
+    "state": "MS",
+    "address": "U.S. 45 & U.S. 72",
+    "lat": 34.9316787,
+    "lon": -88.5453567,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/corinth/722"
+  },
+  {
+    "id": "438",
+    "city": "Gulfport",
+    "state": "MS",
+    "address": "15255 Crossroads Pkwy.",
+    "lat": 30.4368508,
+    "lon": -89.0937222,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/gulfport/438"
+  },
+  {
+    "id": "316",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "address": "6659 Hwy 49",
+    "lat": 31.3537198,
+    "lon": -89.3477791,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/hattiesburg/316"
+  },
+  {
+    "id": "168",
+    "city": "Horn Lake",
+    "state": "MS",
+    "address": "706 Desoto Cove",
+    "lat": 34.964537,
+    "lon": -90.001433,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/horn-lake/168"
+  },
+  {
+    "id": "109",
+    "city": "Meridian",
+    "state": "MS",
+    "address": "118 Hwy 11 & 80",
+    "lat": 32.3703765,
+    "lon": -88.6707153,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/meridian/109"
+  },
+  {
+    "id": "264",
+    "city": "Moss Point",
+    "state": "MS",
+    "address": "6805 Hwy 63 N.",
+    "lat": 30.4395853,
+    "lon": -88.5304296,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/moss-point/264"
+  },
+  {
+    "id": "724",
+    "city": "New Albany",
+    "state": "MS",
+    "address": "319 Coulter Cove",
+    "lat": 34.4994117,
+    "lon": -89.0317132,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/new-albany/724"
+  },
+  {
+    "id": "274",
+    "city": "Pearl",
+    "state": "MS",
+    "address": "410 Riverwind Dr.",
+    "lat": 32.2670422,
+    "lon": -90.1376155,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/pearl/274"
+  },
+  {
+    "id": "427",
+    "city": "Saltillo",
+    "state": "MS",
+    "address": "1270 Cross Creek Dr.",
+    "lat": 34.3166356,
+    "lon": -88.6973141,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/saltillo/427"
+  },
+  {
+    "id": "304",
+    "city": "Vicksburg",
+    "state": "MS",
+    "address": "4001 S. Frontage Rd.",
+    "lat": 32.3413004,
+    "lon": -90.8420138,
+    "url": "https://www.crackerbarrel.com/Locations/States/ms/vicksburg/304"
+  },
+  {
+    "id": "346",
+    "city": "Billings",
+    "state": "MT",
+    "address": "5620 South Frontage Rd.",
+    "lat": 45.7472304,
+    "lon": -108.5590944,
+    "url": "https://www.crackerbarrel.com/Locations/States/mt/billings/346"
+  },
+  {
+    "id": "407",
+    "city": "Missoula",
+    "state": "MT",
+    "address": "2929 Expo Pkwy.",
+    "lat": 46.9151127,
+    "lon": -114.0354522,
+    "url": "https://www.crackerbarrel.com/Locations/States/mt/missoula/407"
+  },
+  {
+    "id": "628",
+    "city": "Arden",
+    "state": "NC",
+    "address": "344 Rockwood Rd",
+    "lat": 35.4451399,
+    "lon": -82.5398432,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/arden/628"
+  },
+  {
+    "id": "141",
+    "city": "Asheville",
+    "state": "NC",
+    "address": "5 Crowell Rd.",
+    "lat": 35.5620724,
+    "lon": -82.6363054,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/asheville/141"
+  },
+  {
+    "id": "695",
+    "city": "Boone",
+    "state": "NC",
+    "address": "1601 Blowing Rock Rd.",
+    "lat": 36.2010458,
+    "lon": -81.6604389,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/boone/695"
+  },
+  {
+    "id": "100",
+    "city": "Burlington",
+    "state": "NC",
+    "address": "850 Huffman Mill Rd.",
+    "lat": 36.0689527,
+    "lon": -79.4954338,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/burlington/100"
+  },
+  {
+    "id": "39",
+    "city": "Charlotte",
+    "state": "NC",
+    "address": "3203 Queen City Dr.",
+    "lat": 35.2397877,
+    "lon": -80.9181382,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/charlotte/39"
+  },
+  {
+    "id": "247",
+    "city": "Clemmons",
+    "state": "NC",
+    "address": "6420 Sessions Court",
+    "lat": 36.0324065,
+    "lon": -80.3861014,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/clemmons/247"
+  },
+  {
+    "id": "249",
+    "city": "Concord",
+    "state": "NC",
+    "address": "1175 Copperfield Blvd.- NE",
+    "lat": 35.4628062,
+    "lon": -80.5871524,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/concord/249"
+  },
+  {
+    "id": "578",
+    "city": "Concord",
+    "state": "NC",
+    "address": "7809 Lyles Ln.",
+    "lat": 35.3659836,
+    "lon": -80.7128223,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/concord/578"
+  },
+  {
+    "id": "539",
+    "city": "Dunn",
+    "state": "NC",
+    "address": "1102 E. Cumberland Rd",
+    "lat": 35.2966186,
+    "lon": -78.5982856,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/dunn/539"
+  },
+  {
+    "id": "345",
+    "city": "Durham",
+    "state": "NC",
+    "address": "3703 Hillsborough Rd.",
+    "lat": 36.0245723,
+    "lon": -78.9553483,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/durham/345"
+  },
+  {
+    "id": "717",
+    "city": "Fayetteville",
+    "state": "NC",
+    "address": "1470 Skibo Rd.",
+    "lat": 35.0832677,
+    "lon": -78.9544999,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/fayetteville/717"
+  },
+  {
+    "id": "271",
+    "city": "Fayetteville",
+    "state": "NC",
+    "address": "1625 Jim Johnson Rd",
+    "lat": 35.0095719,
+    "lon": -78.8216733,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/fayetteville/271"
+  },
+  {
+    "id": "283",
+    "city": "Flat Rock",
+    "state": "NC",
+    "address": "105 Commercial Blvd.",
+    "lat": 35.2961463,
+    "lon": -82.4085266,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/flat-rock/283"
+  },
+  {
+    "id": "363",
+    "city": "Garner",
+    "state": "NC",
+    "address": "5199 NC Highway 42 W.",
+    "lat": 35.6077716,
+    "lon": -78.5615932,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/garner/363"
+  },
+  {
+    "id": "41",
+    "city": "Gastonia",
+    "state": "NC",
+    "address": "1821 Remount Rd.",
+    "lat": 35.2691831,
+    "lon": -81.147399,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/gastonia/41"
+  },
+  {
+    "id": "564",
+    "city": "Greensboro",
+    "state": "NC",
+    "address": "3701 Elmsley Ct",
+    "lat": 36.0040707,
+    "lon": -79.7931204,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/greensboro/564"
+  },
+  {
+    "id": "107",
+    "city": "Greensboro",
+    "state": "NC",
+    "address": "4402 Landview Dr.",
+    "lat": 36.057246,
+    "lon": -79.8964424,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/greensboro/107"
+  },
+  {
+    "id": "495",
+    "city": "Greenville",
+    "state": "NC",
+    "address": "710 SW Greenville Blvd.",
+    "lat": 35.5720163,
+    "lon": -77.4004205,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/greenville/495"
+  },
+  {
+    "id": "343",
+    "city": "Henderson",
+    "state": "NC",
+    "address": "1002 Ruin Creek Rd.",
+    "lat": 36.322214,
+    "lon": -78.4514821,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/henderson/343"
+  },
+  {
+    "id": "269",
+    "city": "Hickory",
+    "state": "NC",
+    "address": "1250 11th Street Court SE",
+    "lat": 35.7128623,
+    "lon": -81.3164319,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/hickory/269"
+  },
+  {
+    "id": "478",
+    "city": "Jacksonville",
+    "state": "NC",
+    "address": "1260 Western Blvd.",
+    "lat": 34.7852327,
+    "lon": -77.3992776,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/jacksonville/478"
+  },
+  {
+    "id": "340",
+    "city": "Jonesville",
+    "state": "NC",
+    "address": "1717 Nc Highway 67",
+    "lat": 36.2399165,
+    "lon": -80.8153728,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/jonesville/340"
+  },
+  {
+    "id": "604",
+    "city": "Kernersville",
+    "state": "NC",
+    "address": "1750 Pecan Lane",
+    "lat": 36.0769392,
+    "lon": -80.1100782,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/kernersville/604"
+  },
+  {
+    "id": "112",
+    "city": "Lexington",
+    "state": "NC",
+    "address": "12 Plaza Pkwy.",
+    "lat": 35.7827783,
+    "lon": -80.2587034,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/lexington/112"
+  },
+  {
+    "id": "76",
+    "city": "Lumberton",
+    "state": "NC",
+    "address": "3375 Lackey St.",
+    "lat": 34.6418583,
+    "lon": -79.0172243,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/lumberton/76"
+  },
+  {
+    "id": "663",
+    "city": "Matthews",
+    "state": "NC",
+    "address": "9330 E Independence Blvd.",
+    "lat": 35.1380647,
+    "lon": -80.7176177,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/matthews/663"
+  },
+  {
+    "id": "551",
+    "city": "Mebane",
+    "state": "NC",
+    "address": "135 Spring Forrest Dr.",
+    "lat": 36.0673692,
+    "lon": -79.2966416,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/mebane/551"
+  },
+  {
+    "id": "330",
+    "city": "Mooresville",
+    "state": "NC",
+    "address": "118 Regency Center Dr.",
+    "lat": 35.595115,
+    "lon": -80.8614325,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/mooresville/330"
+  },
+  {
+    "id": "693",
+    "city": "Morganton",
+    "state": "NC",
+    "address": "135 Bush Dr.",
+    "lat": 35.7239824,
+    "lon": -81.6533782,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/morganton/693"
+  },
+  {
+    "id": "461",
+    "city": "Morrisville",
+    "state": "NC",
+    "address": "955 Airport Blvd.",
+    "lat": 35.8584529,
+    "lon": -78.8231334,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/morrisville/461"
+  },
+  {
+    "id": "672",
+    "city": "Mount Airy",
+    "state": "NC",
+    "address": "1948 Rockford St.",
+    "lat": 36.4829858,
+    "lon": -80.6143922,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/mount-airy/672"
+  },
+  {
+    "id": "81",
+    "city": "Roanoke Rapids",
+    "state": "NC",
+    "address": "1918 Julian Allsbrook Hwy.",
+    "lat": 36.4322261,
+    "lon": -77.6309703,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/roanoke-rapids/81"
+  },
+  {
+    "id": "606",
+    "city": "Rocky Mount",
+    "state": "NC",
+    "address": "238 Enterprise Dr.",
+    "lat": 35.975,
+    "lon": -77.8445449,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/rocky-mount/606"
+  },
+  {
+    "id": "625",
+    "city": "Salisbury",
+    "state": "NC",
+    "address": "1070 Free Land Dr.",
+    "lat": 35.6572212,
+    "lon": -80.4626802,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/salisbury/625"
+  },
+  {
+    "id": "675",
+    "city": "Sanford",
+    "state": "NC",
+    "address": "3212 NC 87 HWY SOUTH",
+    "lat": 35.4467584,
+    "lon": -79.1307307,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/sanford/675"
+  },
+  {
+    "id": "108",
+    "city": "Smithfield",
+    "state": "NC",
+    "address": "1109 Outlet Center Dr.",
+    "lat": 35.509564,
+    "lon": -78.31228,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/smithfield/108"
+  },
+  {
+    "id": "688",
+    "city": "Southern Pines",
+    "state": "NC",
+    "address": "10975 US Hwy. 15-501",
+    "lat": 35.16114,
+    "lon": -79.41949,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/southern-pines/688"
+  },
+  {
+    "id": "142",
+    "city": "Statesville",
+    "state": "NC",
+    "address": "1043 Glenway Dr.",
+    "lat": 35.8087934,
+    "lon": -80.8719309,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/statesville/142"
+  },
+  {
+    "id": "459",
+    "city": "Wilmington",
+    "state": "NC",
+    "address": "21 Van Campen Blvd.",
+    "lat": 34.2440842,
+    "lon": -77.8727701,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/wilmington/459"
+  },
+  {
+    "id": "309",
+    "city": "Wilson",
+    "state": "NC",
+    "address": "5006 Hayes Place West",
+    "lat": 35.7642943,
+    "lon": -78.006026,
+    "url": "https://www.crackerbarrel.com/Locations/States/nc/wilson/309"
+  },
+  {
+    "id": "447",
+    "city": "Bismarck",
+    "state": "ND",
+    "address": "1685 N Grandview Ln",
+    "lat": 46.8286716,
+    "lon": -100.8186142,
+    "url": "https://www.crackerbarrel.com/Locations/States/nd/bismarck/447"
+  },
+  {
+    "id": "365",
+    "city": "Lincoln",
+    "state": "NE",
+    "address": "6700 North 27th St.",
+    "lat": 40.8792475,
+    "lon": -96.6812335,
+    "url": "https://www.crackerbarrel.com/Locations/States/ne/lincoln/365"
+  },
+  {
+    "id": "296",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "9409 S 142nd St.",
+    "lat": 41.1651101,
+    "lon": -96.1358598,
+    "url": "https://www.crackerbarrel.com/Locations/States/ne/omaha/296"
+  },
+  {
+    "id": "412",
+    "city": "Londonderry",
+    "state": "NH",
+    "address": "16 Nashua Rd",
+    "lat": 42.8737058,
+    "lon": -71.3392933,
+    "url": "https://www.crackerbarrel.com/Locations/States/nh/londonderry/412"
+  },
+  {
+    "id": "386",
+    "city": "Clinton",
+    "state": "NJ",
+    "address": "14 Frontage Rd.",
+    "lat": 40.6288002,
+    "lon": -74.9187307,
+    "url": "https://www.crackerbarrel.com/Locations/States/nj/clinton/386"
+  },
+  {
+    "id": "504",
+    "city": "Hamilton Township",
+    "state": "NJ",
+    "address": "825 Market Place Blvd.",
+    "lat": 40.1979334,
+    "lon": -74.6379388,
+    "url": "https://www.crackerbarrel.com/Locations/States/nj/hamilton-township/504"
+  },
+  {
+    "id": "406",
+    "city": "Mount Arlington",
+    "state": "NJ",
+    "address": "172 Howard Blvd.",
+    "lat": 40.902333,
+    "lon": -74.6331811,
+    "url": "https://www.crackerbarrel.com/Locations/States/nj/mount-arlington/406"
+  },
+  {
+    "id": "411",
+    "city": "Mount Holly",
+    "state": "NJ",
+    "address": "110 Hancock Ln.",
+    "lat": 40.028441,
+    "lon": -74.8150308,
+    "url": "https://www.crackerbarrel.com/Locations/States/nj/mount-holly/411"
+  },
+  {
+    "id": "484",
+    "city": "Mount Laurel",
+    "state": "NJ",
+    "address": "1240 Route 73",
+    "lat": 39.9194614,
+    "lon": -74.947455,
+    "url": "https://www.crackerbarrel.com/Locations/States/nj/mount-laurel/484"
+  },
+  {
+    "id": "342",
+    "city": "Pennsville",
+    "state": "NJ",
+    "address": "427 North Broadway",
+    "lat": 39.6786487,
+    "lon": -75.4946844,
+    "url": "https://www.crackerbarrel.com/Locations/States/nj/pennsville/342"
+  },
+  {
+    "id": "245",
+    "city": "Albuquerque",
+    "state": "NM",
+    "address": "5200 San Antonio Dr.",
+    "lat": 35.1591071,
+    "lon": -106.5858004,
+    "url": "https://www.crackerbarrel.com/Locations/States/nm/albuquerque/245"
+  },
+  {
+    "id": "617",
+    "city": "Albuquerque",
+    "state": "NM",
+    "address": "5700 Redlands Rd. NW",
+    "lat": 35.1179406,
+    "lon": -106.7023662,
+    "url": "https://www.crackerbarrel.com/Locations/States/nm/albuquerque/617"
+  },
+  {
+    "id": "362",
+    "city": "Gallup",
+    "state": "NM",
+    "address": "1480 West Maloney",
+    "lat": 35.5286078,
+    "lon": -108.7640409,
+    "url": "https://www.crackerbarrel.com/Locations/States/nm/gallup/362"
+  },
+  {
+    "id": "253",
+    "city": "Las Cruces",
+    "state": "NM",
+    "address": "1490 Hickory Dr.",
+    "lat": 32.2898052,
+    "lon": -106.788131,
+    "url": "https://www.crackerbarrel.com/Locations/States/nm/las-cruces/253"
+  },
+  {
+    "id": "741",
+    "city": "Las Vegas",
+    "state": "NV",
+    "address": "8350 Dean Martin Dr.",
+    "lat": 36.0379427,
+    "lon": -115.1818294,
+    "url": "https://www.crackerbarrel.com/Locations/States/nv/las-vegas/741"
+  },
+  {
+    "id": "742",
+    "city": "N. Las Vegas",
+    "state": "NV",
+    "address": "2815 E. Craig Rd.",
+    "lat": 36.2396499,
+    "lon": -115.1107699,
+    "url": "https://www.crackerbarrel.com/Locations/States/nv/n-las-vegas/742"
+  },
+  {
+    "id": "779",
+    "city": "Reno",
+    "state": "NV",
+    "address": "935 West 5th Street",
+    "lat": 39.5291105,
+    "lon": -119.828255,
+    "url": "https://www.crackerbarrel.com/Locations/States/nv/Reno/779"
+  },
+  {
+    "id": "410",
+    "city": "Binghamton",
+    "state": "NY",
+    "address": "876 Front St.",
+    "lat": 42.1313338,
+    "lon": -75.9049576,
+    "url": "https://www.crackerbarrel.com/Locations/States/ny/binghamton/410"
+  },
+  {
+    "id": "306",
+    "city": "Cicero",
+    "state": "NY",
+    "address": "8400 Pardee Rd.",
+    "lat": 43.1790843,
+    "lon": -76.1154148,
+    "url": "https://www.crackerbarrel.com/Locations/States/ny/cicero/306"
+  },
+  {
+    "id": "293",
+    "city": "Clifton Park",
+    "state": "NY",
+    "address": "4 Tower Way",
+    "lat": 42.8617156,
+    "lon": -73.7697169,
+    "url": "https://www.crackerbarrel.com/Locations/States/ny/clifton-park/293"
+  },
+  {
+    "id": "317",
+    "city": "East Greenbush",
+    "state": "NY",
+    "address": "122 Troy Rd.",
+    "lat": 42.6247822,
+    "lon": -73.699539,
+    "url": "https://www.crackerbarrel.com/Locations/States/ny/east-greenbush/317"
+  },
+  {
+    "id": "350",
+    "city": "Fishkill",
+    "state": "NY",
+    "address": "4 Merritt Blvd.",
+    "lat": 41.5295698,
+    "lon": -73.8922063,
+    "url": "https://www.crackerbarrel.com/Locations/States/ny/fishkill/350"
+  },
+  {
+    "id": "699",
+    "city": "Horseheads",
+    "state": "NY",
+    "address": "1740 County Route 64",
+    "lat": 42.1595766,
+    "lon": -76.8594203,
+    "url": "https://www.crackerbarrel.com/Locations/States/ny/horseheads/699"
+  },
+  {
+    "id": "387",
+    "city": "Rochester",
+    "state": "NY",
+    "address": "2075 Hylan Dr.",
+    "lat": 43.0728573,
+    "lon": -77.6259313,
+    "url": "https://www.crackerbarrel.com/Locations/States/ny/rochester/387"
+  },
+  {
+    "id": "302",
+    "city": "Watertown",
+    "state": "NY",
+    "address": "1289 Coffeen St.",
+    "lat": 43.9875874,
+    "lon": -75.9431941,
+    "url": "https://www.crackerbarrel.com/Locations/States/ny/watertown/302"
+  },
+  {
+    "id": "298",
+    "city": "Williamsville",
+    "state": "NY",
+    "address": "6643 Transit Rd.",
+    "lat": 42.9509304,
+    "lon": -78.6959045,
+    "url": "https://www.crackerbarrel.com/Locations/States/ny/williamsville/298"
+  },
+  {
+    "id": "185",
+    "city": "Austintown",
+    "state": "OH",
+    "address": "5600 Interstate Blvd.",
+    "lat": 41.1227585,
+    "lon": -80.7729658,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/austintown/185"
+  },
+  {
+    "id": "508",
+    "city": "Brooklyn",
+    "state": "OH",
+    "address": "5100 Tiedeman Rd",
+    "lat": 41.4225258,
+    "lon": -81.7606713,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/brooklyn/508"
+  },
+  {
+    "id": "105",
+    "city": "Cambridge",
+    "state": "OH",
+    "address": "2329 Southgate Pkwy.",
+    "lat": 40.0005162,
+    "lon": -81.5761369,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/cambridge/105"
+  },
+  {
+    "id": "492",
+    "city": "Centerville",
+    "state": "OH",
+    "address": "5770 Wilmington Pike",
+    "lat": 39.6598017,
+    "lon": -84.1086605,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/centerville/492"
+  },
+  {
+    "id": "131",
+    "city": "Cincinnati",
+    "state": "OH",
+    "address": "4902 Fields Ertel Rd.",
+    "lat": 39.2945026,
+    "lon": -84.3128663,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/cincinnati/131"
+  },
+  {
+    "id": "183",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "1313 Hilliard Rome Rd",
+    "lat": 39.9772294,
+    "lon": -83.1504891,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/columbus/183"
+  },
+  {
+    "id": "114",
+    "city": "Copley",
+    "state": "OH",
+    "address": "76 Rothrock Loop",
+    "lat": 41.1333553,
+    "lon": -81.6489523,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/copley/114"
+  },
+  {
+    "id": "61",
+    "city": "Dayton",
+    "state": "OH",
+    "address": "7171 Miller Ln.",
+    "lat": 39.8512622,
+    "lon": -84.1928377,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/dayton/61"
+  },
+  {
+    "id": "68",
+    "city": "Findlay",
+    "state": "OH",
+    "address": "1031 Interstate Ct.",
+    "lat": 41.0591614,
+    "lon": -83.6701647,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/findlay/68"
+  },
+  {
+    "id": "285",
+    "city": "Forest Park",
+    "state": "OH",
+    "address": "11993 Chase Plz.",
+    "lat": 39.2967815,
+    "lon": -84.5261106,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/forest-park/285"
+  },
+  {
+    "id": "85",
+    "city": "Grove City",
+    "state": "OH",
+    "address": "4210 Marlane Dr.",
+    "lat": 39.8761166,
+    "lon": -83.0524565,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/grove-city/85"
+  },
+  {
+    "id": "382",
+    "city": "Harrison",
+    "state": "OH",
+    "address": "615 Ring Rd.",
+    "lat": 39.2598306,
+    "lon": -84.7979149,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/harrison/382"
+  },
+  {
+    "id": "133",
+    "city": "Lima",
+    "state": "OH",
+    "address": "1930 Roschman Dr.",
+    "lat": 40.7269052,
+    "lon": -84.0739297,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/lima/133"
+  },
+  {
+    "id": "224",
+    "city": "Mansfield",
+    "state": "OH",
+    "address": "100 Stander Ave.",
+    "lat": 40.6930612,
+    "lon": -82.5105669,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/mansfield/224"
+  },
+  {
+    "id": "528",
+    "city": "Maumee",
+    "state": "OH",
+    "address": "1395 Ford St.",
+    "lat": 41.5794287,
+    "lon": -83.6816295,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/maumee/528"
+  },
+  {
+    "id": "169",
+    "city": "Middletown",
+    "state": "OH",
+    "address": "3280 Towne Blvd.",
+    "lat": 39.4920969,
+    "lon": -84.3291186,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/middletown/169"
+  },
+  {
+    "id": "507",
+    "city": "Milford",
+    "state": "OH",
+    "address": "475 River's Edge Dr.",
+    "lat": 39.1620907,
+    "lon": -84.2696241,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/milford/507"
+  },
+  {
+    "id": "215",
+    "city": "North Canton",
+    "state": "OH",
+    "address": "6940 Sunset Strip Ave. N.W.",
+    "lat": 40.8817316,
+    "lon": -81.4331348,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/north-canton/215"
+  },
+  {
+    "id": "104",
+    "city": "Perrysburg",
+    "state": "OH",
+    "address": "27491 Helen Dr.",
+    "lat": 41.5518514,
+    "lon": -83.5990022,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/perrysburg/104"
+  },
+  {
+    "id": "121",
+    "city": "Pickerington",
+    "state": "OH",
+    "address": "1860 Winderly Ln.",
+    "lat": 39.9320667,
+    "lon": -82.7904082,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/pickerington/121"
+  },
+  {
+    "id": "295",
+    "city": "Piqua",
+    "state": "OH",
+    "address": "980 E. Ash St.",
+    "lat": 40.1516404,
+    "lon": -84.225201,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/piqua/295"
+  },
+  {
+    "id": "418",
+    "city": "Rootstown",
+    "state": "OH",
+    "address": "4367 SR 44",
+    "lat": 41.1084386,
+    "lon": -81.2433645,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/rootstown/418"
+  },
+  {
+    "id": "474",
+    "city": "Saint Clairsville",
+    "state": "OH",
+    "address": "67781 Mall Rd.",
+    "lat": 40.0698629,
+    "lon": -80.8625999,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/saint-clairsville/474"
+  },
+  {
+    "id": "490",
+    "city": "Sandusky",
+    "state": "OH",
+    "address": "4216 Milan Rd",
+    "lat": 41.4173151,
+    "lon": -82.6722268,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/sandusky/490"
+  },
+  {
+    "id": "553",
+    "city": "Sharonville",
+    "state": "OH",
+    "address": "2255 Sharon Rd",
+    "lat": 39.2685229,
+    "lon": -84.4387239,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/sharonville/553"
+  },
+  {
+    "id": "385",
+    "city": "Sheffield Lake",
+    "state": "OH",
+    "address": "5205 Detroit Rd.",
+    "lat": 41.4258406,
+    "lon": -82.0809292,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/sheffield-lake/385"
+  },
+  {
+    "id": "310",
+    "city": "Springfield",
+    "state": "OH",
+    "address": "105 West Leffel Ln.",
+    "lat": 39.8936775,
+    "lon": -83.8142705,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/springfield/310"
+  },
+  {
+    "id": "466",
+    "city": "Sunbury",
+    "state": "OH",
+    "address": "60 Fourwinds Dr.",
+    "lat": 40.2661578,
+    "lon": -82.9356185,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/sunbury/466"
+  },
+  {
+    "id": "383",
+    "city": "Twinsburg",
+    "state": "OH",
+    "address": "2371 East Aurora Rd.",
+    "lat": 41.3120423,
+    "lon": -81.4534332,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/twinsburg/383"
+  },
+  {
+    "id": "525",
+    "city": "Willoughby",
+    "state": "OH",
+    "address": "6055 SOM Center Rd",
+    "lat": 41.605108,
+    "lon": -81.4388088,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/willoughby/525"
+  },
+  {
+    "id": "370",
+    "city": "Zanesville",
+    "state": "OH",
+    "address": "225 Scenic Crest Dr.",
+    "lat": 39.9436449,
+    "lon": -81.9999219,
+    "url": "https://www.crackerbarrel.com/Locations/States/oh/zanesville/370"
+  },
+  {
+    "id": "351",
+    "city": "Edmond",
+    "state": "OK",
+    "address": "4901 N.E. 122nd S.",
+    "lat": 35.5956205,
+    "lon": -97.4341638,
+    "url": "https://www.crackerbarrel.com/Locations/States/ok/edmond/351"
+  },
+  {
+    "id": "377",
+    "city": "Lawton",
+    "state": "OK",
+    "address": "601 E. Gore Blvd.",
+    "lat": 34.6083446,
+    "lon": -98.3805226,
+    "url": "https://www.crackerbarrel.com/Locations/States/ok/lawton/377"
+  },
+  {
+    "id": "181",
+    "city": "Norman",
+    "state": "OK",
+    "address": "800 North Interstate Dr.",
+    "lat": 35.2284954,
+    "lon": -97.4867731,
+    "url": "https://www.crackerbarrel.com/Locations/States/ok/norman/181"
+  },
+  {
+    "id": "174",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "700 Cornell Pkwy.",
+    "lat": 35.4581232,
+    "lon": -97.59592,
+    "url": "https://www.crackerbarrel.com/Locations/States/ok/oklahoma-city/174"
+  },
+  {
+    "id": "636",
+    "city": "Owasso",
+    "state": "OK",
+    "address": "9475 N. Owasso Expressway",
+    "lat": 36.2911582,
+    "lon": -95.8350953,
+    "url": "https://www.crackerbarrel.com/Locations/States/ok/owasso/636"
+  },
+  {
+    "id": "458",
+    "city": "Shawnee",
+    "state": "OK",
+    "address": "27 W. Interstate Pkwy.",
+    "lat": 35.3829619,
+    "lon": -96.9251903,
+    "url": "https://www.crackerbarrel.com/Locations/States/ok/shawnee/458"
+  },
+  {
+    "id": "661",
+    "city": "South Tulsa",
+    "state": "OK",
+    "address": "7128 S Olympia Ave",
+    "lat": 36.0597615,
+    "lon": -96.0047243,
+    "url": "https://www.crackerbarrel.com/Locations/States/ok/south-tulsa/661"
+  },
+  {
+    "id": "325",
+    "city": "Tulsa",
+    "state": "OK",
+    "address": "8008 E. 31st St.",
+    "lat": 36.1182373,
+    "lon": -95.8879068,
+    "url": "https://www.crackerbarrel.com/Locations/States/ok/tulsa/325"
+  },
+  {
+    "id": "482",
+    "city": "Altoona",
+    "state": "PA",
+    "address": "100 Charlotte Dr.",
+    "lat": 40.4666484,
+    "lon": -78.4095057,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/altoona/482"
+  },
+  {
+    "id": "435",
+    "city": "Bloomsburg",
+    "state": "PA",
+    "address": "228 Mall Blvd",
+    "lat": 41.017896,
+    "lon": -76.4916418,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/bloomsburg/435"
+  },
+  {
+    "id": "431",
+    "city": "Carlisle",
+    "state": "PA",
+    "address": "3 E. Garland Dr.",
+    "lat": 40.186866,
+    "lon": -77.1900774,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/carlisle/431"
+  },
+  {
+    "id": "258",
+    "city": "Chambersburg",
+    "state": "PA",
+    "address": "1162 Wayne Ave",
+    "lat": 39.9078216,
+    "lon": -77.6489144,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/chambersburg/258"
+  },
+  {
+    "id": "747",
+    "city": "Cranberry Township",
+    "state": "PA",
+    "address": "1740 Route 228",
+    "lat": 40.6843781,
+    "lon": -80.0863873,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/cranberry-township/747"
+  },
+  {
+    "id": "261",
+    "city": "Erie",
+    "state": "PA",
+    "address": "7810 Interstate Dr.",
+    "lat": 42.0491226,
+    "lon": -80.0855316,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/erie/261"
+  },
+  {
+    "id": "291",
+    "city": "Fogelsville",
+    "state": "PA",
+    "address": "7720 Main St. Suite 19",
+    "lat": 40.5834994,
+    "lon": -75.6268553,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/fogelsville/291"
+  },
+  {
+    "id": "299",
+    "city": "Frackville",
+    "state": "PA",
+    "address": "956 Schuylkill Mall",
+    "lat": 40.7697591,
+    "lon": -76.2211873,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/frackville/299"
+  },
+  {
+    "id": "312",
+    "city": "Hamburg",
+    "state": "PA",
+    "address": "21 Industrial Dr.",
+    "lat": 40.5591678,
+    "lon": -75.9967399,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/hamburg/312"
+  },
+  {
+    "id": "374",
+    "city": "Harrisburg",
+    "state": "PA",
+    "address": "2525 Brindle Dr.",
+    "lat": 40.3027918,
+    "lon": -76.8460144,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/harrisburg/374"
+  },
+  {
+    "id": "442",
+    "city": "Lancaster",
+    "state": "PA",
+    "address": "35 S. Willowdale Dr Suite 1822",
+    "lat": 40.0211734,
+    "lon": -76.1945845,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/lancaster/442"
+  },
+  {
+    "id": "371",
+    "city": "Meadville",
+    "state": "PA",
+    "address": "11311 Pennsylvania Ave.",
+    "lat": 41.6222983,
+    "lon": -80.1743848,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/meadville/371"
+  },
+  {
+    "id": "550",
+    "city": "Mechanicsburg",
+    "state": "PA",
+    "address": "395 Cumberland Pkwy",
+    "lat": 40.194929,
+    "lon": -76.9769525,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/mechanicsburg/550"
+  },
+  {
+    "id": "696",
+    "city": "Muncy",
+    "state": "PA",
+    "address": "260 S Lycoming Mall Rd",
+    "lat": 41.2427424,
+    "lon": -76.8335562,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/muncy/696"
+  },
+  {
+    "id": "555",
+    "city": "New Freedom",
+    "state": "PA",
+    "address": "13600 Wolfe Rd",
+    "lat": 39.7725153,
+    "lon": -76.6642825,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/new-freedom/555"
+  },
+  {
+    "id": "300",
+    "city": "New Stanton",
+    "state": "PA",
+    "address": "154 W Pennsylvania Ave.",
+    "lat": 40.2162677,
+    "lon": -79.6118621,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/new-stanton/300"
+  },
+  {
+    "id": "480",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "address": "200 Davis Blvd.",
+    "lat": 40.4499057,
+    "lon": -80.1734693,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/pittsburgh/480"
+  },
+  {
+    "id": "449",
+    "city": "Plymouth Meeting",
+    "state": "PA",
+    "address": "2095 Gallagher Rd.",
+    "lat": 40.1006305,
+    "lon": -75.2953436,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/plymouth-meeting/449"
+  },
+  {
+    "id": "743",
+    "city": "Ridley Park",
+    "state": "PA",
+    "address": "125 S. Stewart Ave.",
+    "lat": 39.8702736,
+    "lon": -75.3205374,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/ridley-park/743"
+  },
+  {
+    "id": "681",
+    "city": "State College",
+    "state": "PA",
+    "address": "215 Colonnade Blvd",
+    "lat": 40.8165398,
+    "lon": -77.9004522,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/state-college/681"
+  },
+  {
+    "id": "598",
+    "city": "Trevose",
+    "state": "PA",
+    "address": "3611 Horizon Blvd",
+    "lat": 40.1368037,
+    "lon": -74.9635274,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/trevose/598"
+  },
+  {
+    "id": "441",
+    "city": "Washington",
+    "state": "PA",
+    "address": "1008 Trinity Circle",
+    "lat": 40.185043,
+    "lon": -80.2250731,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/washington/441"
+  },
+  {
+    "id": "512",
+    "city": "Wilkes Barre",
+    "state": "PA",
+    "address": "2320 Wilkes Barre Township Mar",
+    "lat": 41.2364754,
+    "lon": -75.8579168,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/wilkes-barre/512"
+  },
+  {
+    "id": "199",
+    "city": "York",
+    "state": "PA",
+    "address": "236 Pauline Dr.",
+    "lat": 39.9340341,
+    "lon": -76.6852489,
+    "url": "https://www.crackerbarrel.com/Locations/States/pa/york/199"
+  },
+  {
+    "id": "452",
+    "city": "Coventry",
+    "state": "RI",
+    "address": "825 Centre of New England Blvd",
+    "lat": 41.66109,
+    "lon": -71.546451,
+    "url": "https://www.crackerbarrel.com/Locations/States/ri/coventry/452"
+  },
+  {
+    "id": "689",
+    "city": "Aiken",
+    "state": "SC",
+    "address": "2352 Whiskey Rd.",
+    "lat": 33.511091,
+    "lon": -81.712278,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/aiken/689"
+  },
+  {
+    "id": "124",
+    "city": "Anderson",
+    "state": "SC",
+    "address": "126 Interstate Blvd.",
+    "lat": 34.5747627,
+    "lon": -82.7083257,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/anderson/124"
+  },
+  {
+    "id": "42",
+    "city": "Columbia",
+    "state": "SC",
+    "address": "2208 Bush River Rd.",
+    "lat": 34.0318549,
+    "lon": -81.1234848,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/columbia/42"
+  },
+  {
+    "id": "448",
+    "city": "Columbia",
+    "state": "SC",
+    "address": "2300 LeGrand Rd.",
+    "lat": 34.1005895,
+    "lon": -80.9589699,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/columbia/448"
+  },
+  {
+    "id": "667",
+    "city": "Duncan",
+    "state": "SC",
+    "address": "1525 E Main St.",
+    "lat": 34.9103154,
+    "lon": -82.1027935,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/duncan/667"
+  },
+  {
+    "id": "69",
+    "city": "Florence",
+    "state": "SC",
+    "address": "1824 West Lucas St.",
+    "lat": 34.2261975,
+    "lon": -79.7969719,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/florence/69"
+  },
+  {
+    "id": "607",
+    "city": "Fort Mill",
+    "state": "SC",
+    "address": "295 Carowinds Blvd.",
+    "lat": 35.0954257,
+    "lon": -80.9386582,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/fort-mill/607"
+  },
+  {
+    "id": "356",
+    "city": "Gaffney",
+    "state": "SC",
+    "address": "8 Factory Shops Blvd.",
+    "lat": 35.082377,
+    "lon": -81.7085042,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/gaffney/356"
+  },
+  {
+    "id": "25",
+    "city": "Greenville",
+    "state": "SC",
+    "address": "1134 Woodruff Rd.",
+    "lat": 34.8277506,
+    "lon": -82.3021545,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/greenville/25"
+  },
+  {
+    "id": "473",
+    "city": "Greenwood",
+    "state": "SC",
+    "address": "101 Commons Dr.",
+    "lat": 34.2056314,
+    "lon": -82.1905237,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/greenwood/473"
+  },
+  {
+    "id": "635",
+    "city": "Irmo",
+    "state": "SC",
+    "address": "1140 Kinley Rd.",
+    "lat": 34.0911688,
+    "lon": -81.1624087,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/irmo/635"
+  },
+  {
+    "id": "313",
+    "city": "Murrells Inlet",
+    "state": "SC",
+    "address": "1303 Tadlock Dr.",
+    "lat": 33.5756646,
+    "lon": -79.0283956,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/murrells-inlet/313"
+  },
+  {
+    "id": "566",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "address": "1208 N. Retail Court",
+    "lat": 33.7054741,
+    "lon": -78.9218849,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/myrtle-beach/566"
+  },
+  {
+    "id": "58",
+    "city": "North Charleston",
+    "state": "SC",
+    "address": "7351 Mazyck Rd.",
+    "lat": 32.9334719,
+    "lon": -80.0484715,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/north-charleston/58"
+  },
+  {
+    "id": "194",
+    "city": "North Myrtle Beach",
+    "state": "SC",
+    "address": "4835 Hwy 17 S.",
+    "lat": 33.7966111,
+    "lon": -78.7435684,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/north-myrtle-beach/194"
+  },
+  {
+    "id": "680",
+    "city": "Okatie",
+    "state": "SC",
+    "address": "157 Okatie Center Blvd. N",
+    "lat": 32.2992364,
+    "lon": -80.9447051,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/okatie/680"
+  },
+  {
+    "id": "446",
+    "city": "Orangeburg",
+    "state": "SC",
+    "address": "699 Citadel Rd",
+    "lat": 33.5554523,
+    "lon": -80.8231161,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/orangeburg/446"
+  },
+  {
+    "id": "579",
+    "city": "Piedmont",
+    "state": "SC",
+    "address": "591 Hwy 153",
+    "lat": 34.7757469,
+    "lon": -82.4659008,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/piedmont/579"
+  },
+  {
+    "id": "160",
+    "city": "Rock Hill",
+    "state": "SC",
+    "address": "2140 Manna Ct.",
+    "lat": 34.9387982,
+    "lon": -80.9700542,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/rock-hill/160"
+  },
+  {
+    "id": "328",
+    "city": "Santee",
+    "state": "SC",
+    "address": "250 Britain St.",
+    "lat": 33.483322,
+    "lon": -80.4735415,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/santee/328"
+  },
+  {
+    "id": "491",
+    "city": "Simpsonville",
+    "state": "SC",
+    "address": "3954 Grandview Dr.",
+    "lat": 34.710978,
+    "lon": -82.2481014,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/simpsonville/491"
+  },
+  {
+    "id": "47",
+    "city": "Spartanburg",
+    "state": "SC",
+    "address": "9021 Fairforest Rd.",
+    "lat": 34.9672239,
+    "lon": -82.0007312,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/spartanburg/47"
+  },
+  {
+    "id": "678",
+    "city": "Summerville",
+    "state": "SC",
+    "address": "1370 N Main St.",
+    "lat": 33.0376524,
+    "lon": -80.1532701,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/summerville/678"
+  },
+  {
+    "id": "419",
+    "city": "Walterboro",
+    "state": "SC",
+    "address": "59 Cane Branch Rd.",
+    "lat": 32.878271,
+    "lon": -80.7187564,
+    "url": "https://www.crackerbarrel.com/Locations/States/sc/walterboro/419"
+  },
+  {
+    "id": "445",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "address": "2409 S.Shirley Ave.",
+    "lat": 43.5250901,
+    "lon": -96.7759594,
+    "url": "https://www.crackerbarrel.com/Locations/States/sd/sioux-falls/445"
+  },
+  {
+    "id": "494",
+    "city": "Alcoa",
+    "state": "TN",
+    "address": "771 Louisville Rd.",
+    "lat": 35.7716164,
+    "lon": -83.9876945,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/alcoa/494"
+  },
+  {
+    "id": "9",
+    "city": "Athens",
+    "state": "TN",
+    "address": "110 Burkett L. Witt Blvd.",
+    "lat": 35.4682235,
+    "lon": -84.6500785,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/athens/9"
+  },
+  {
+    "id": "530",
+    "city": "Brentwood",
+    "state": "TN",
+    "address": "1735 Mallory Ln.",
+    "lat": 35.9603808,
+    "lon": -86.8165032,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/brentwood/530"
+  },
+  {
+    "id": "102",
+    "city": "Chattanooga",
+    "state": "TN",
+    "address": "2346 Shallowford Village Rd.",
+    "lat": 35.0449673,
+    "lon": -85.1549444,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/chattanooga/102"
+  },
+  {
+    "id": "200",
+    "city": "Chattanooga",
+    "state": "TN",
+    "address": "50 Birmingham Hwy",
+    "lat": 35.016175,
+    "lon": -85.3837333,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/chattanooga/200"
+  },
+  {
+    "id": "17",
+    "city": "Clarksville",
+    "state": "TN",
+    "address": "200 Cracker Barrel Dr",
+    "lat": 36.6024011,
+    "lon": -87.2811911,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/clarksville/17"
+  },
+  {
+    "id": "21",
+    "city": "Cleveland",
+    "state": "TN",
+    "address": "1650 Clingan Ridge Dr. NW",
+    "lat": 35.1923613,
+    "lon": -84.883053,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/cleveland/21"
+  },
+  {
+    "id": "544",
+    "city": "Columbia",
+    "state": "TN",
+    "address": "1534 Bear Creek Pike",
+    "lat": 35.6421589,
+    "lon": -86.9004967,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/columbia/544"
+  },
+  {
+    "id": "15",
+    "city": "Cookeville",
+    "state": "TN",
+    "address": "1295 S Walnut Ave.",
+    "lat": 36.1365271,
+    "lon": -85.5041284,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/cookeville/15"
+  },
+  {
+    "id": "79",
+    "city": "Crossville",
+    "state": "TN",
+    "address": "23 Executive Dr.",
+    "lat": 35.9992255,
+    "lon": -85.0445363,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/crossville/79"
+  },
+  {
+    "id": "92",
+    "city": "Dickson",
+    "state": "TN",
+    "address": "115 Gumbranch Rd.",
+    "lat": 36.0217447,
+    "lon": -87.3369366,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/dickson/92"
+  },
+  {
+    "id": "716",
+    "city": "Dyersburg",
+    "state": "TN",
+    "address": "3055 Lake Rd.",
+    "lat": 36.0708718,
+    "lon": -89.3980567,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/dyersburg/716"
+  },
+  {
+    "id": "29",
+    "city": "East Ridge",
+    "state": "TN",
+    "address": "1460 North Mack Smith Rd.",
+    "lat": 34.9907104,
+    "lon": -85.2082654,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/east-ridge/29"
+  },
+  {
+    "id": "134",
+    "city": "Franklin",
+    "state": "TN",
+    "address": "4210 Franklin Commons Ct.",
+    "lat": 35.9123546,
+    "lon": -86.8229329,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/franklin/134"
+  },
+  {
+    "id": "470",
+    "city": "Gallatin",
+    "state": "TN",
+    "address": "1005 Village Green Crossing",
+    "lat": 36.3779967,
+    "lon": -86.4709111,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/gallatin/470"
+  },
+  {
+    "id": "33",
+    "city": "Goodlettsville",
+    "state": "TN",
+    "address": "235 Long Hollow Pike",
+    "lat": 36.3240807,
+    "lon": -86.702781,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/goodlettsville/33"
+  },
+  {
+    "id": "6",
+    "city": "Harriman",
+    "state": "TN",
+    "address": "1839 South Roane St.",
+    "lat": 35.9057887,
+    "lon": -84.5923414,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/harriman/6"
+  },
+  {
+    "id": "630",
+    "city": "Hendersonville",
+    "state": "TN",
+    "address": "213 Indian Lake Blvd.",
+    "lat": 36.3206869,
+    "lon": -86.6003799,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/hendersonville/630"
+  },
+  {
+    "id": "284",
+    "city": "Jackson",
+    "state": "TN",
+    "address": "188 Vann Dr.",
+    "lat": 35.6707673,
+    "lon": -88.8345905,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/jackson/284"
+  },
+  {
+    "id": "311",
+    "city": "Johnson City",
+    "state": "TN",
+    "address": "2692 Boones Creek Rd.",
+    "lat": 36.3745258,
+    "lon": -82.4259714,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/johnson-city/311"
+  },
+  {
+    "id": "565",
+    "city": "Kimball",
+    "state": "TN",
+    "address": "550 Kimball Crossing Dr.",
+    "lat": 35.0392378,
+    "lon": -85.6844577,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/kimball/565"
+  },
+  {
+    "id": "83",
+    "city": "Kingsport",
+    "state": "TN",
+    "address": "10132 Airport Pkwy.",
+    "lat": 36.5052054,
+    "lon": -82.4327025,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/kingsport/83"
+  },
+  {
+    "id": "170",
+    "city": "Knoxville",
+    "state": "TN",
+    "address": "1510 Cracker Barrel Ln.",
+    "lat": 36.0016806,
+    "lon": -83.7785709,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/knoxville/170"
+  },
+  {
+    "id": "546",
+    "city": "Knoxville",
+    "state": "TN",
+    "address": "2920 South Mall Rd",
+    "lat": 36.0288883,
+    "lon": -83.8736005,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/knoxville/546"
+  },
+  {
+    "id": "12",
+    "city": "Knoxville",
+    "state": "TN",
+    "address": "5001 Central Ave. Pike",
+    "lat": 36.0092035,
+    "lon": -83.9687373,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/knoxville/12"
+  },
+  {
+    "id": "75",
+    "city": "Knoxville",
+    "state": "TN",
+    "address": "716 N Campbell Station Rd.",
+    "lat": 35.8972604,
+    "lon": -84.1746086,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/knoxville/75"
+  },
+  {
+    "id": "16",
+    "city": "Knoxville",
+    "state": "TN",
+    "address": "9214 Park West Blvd.",
+    "lat": 35.9185231,
+    "lon": -84.0927506,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/knoxville/16"
+  },
+  {
+    "id": "586",
+    "city": "Kodak",
+    "state": "TN",
+    "address": "154 Stadium Dr.",
+    "lat": 35.9859479,
+    "lon": -83.6051784,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/kodak/586"
+  },
+  {
+    "id": "513",
+    "city": "Lakeland",
+    "state": "TN",
+    "address": "9649 East Davies Plantation Rd.",
+    "lat": 35.2220318,
+    "lon": -89.7407173,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/lakeland/513"
+  },
+  {
+    "id": "2",
+    "city": "Lebanon",
+    "state": "TN",
+    "address": "635 South Cumberland",
+    "lat": 36.1902853,
+    "lon": -86.2943645,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/lebanon/2"
+  },
+  {
+    "id": "573",
+    "city": "Lenoir City",
+    "state": "TN",
+    "address": "325 Ft Loudoun Medical Cent Dr",
+    "lat": 35.8248225,
+    "lon": -84.2721158,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/lenoir-city/573"
+  },
+  {
+    "id": "3",
+    "city": "Manchester",
+    "state": "TN",
+    "address": "103 Paradise St.",
+    "lat": 35.5017714,
+    "lon": -86.0882784,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/manchester/3"
+  },
+  {
+    "id": "465",
+    "city": "Memphis",
+    "state": "TN",
+    "address": "8000 Lowrance Rd.",
+    "lat": 35.036153,
+    "lon": -89.7969623,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/memphis/465"
+  },
+  {
+    "id": "423",
+    "city": "Morristown",
+    "state": "TN",
+    "address": "133 Cracker Rd.",
+    "lat": 36.139909,
+    "lon": -83.2771082,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/morristown/423"
+  },
+  {
+    "id": "87",
+    "city": "Mount Juliet",
+    "state": "TN",
+    "address": "350 S. Mt. Juliet Rd.",
+    "lat": 36.1695969,
+    "lon": -86.514537,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/mount-juliet/87"
+  },
+  {
+    "id": "90",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "address": "138 Chaffin Place",
+    "lat": 35.8449449,
+    "lon": -86.4311465,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/murfreesboro/90"
+  },
+  {
+    "id": "11",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "address": "2115 South Church",
+    "lat": 35.8144026,
+    "lon": -86.3942856,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/murfreesboro/11"
+  },
+  {
+    "id": "13",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "2406 Music Valley Dr.",
+    "lat": 36.21813,
+    "lon": -86.6967377,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/nashville/13"
+  },
+  {
+    "id": "23",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "3454 Percy Priest Dr.",
+    "lat": 36.153814,
+    "lon": -86.6269042,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/nashville/23"
+  },
+  {
+    "id": "26",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "4323 Sidco Dr.",
+    "lat": 36.0829045,
+    "lon": -86.762339,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/nashville/26"
+  },
+  {
+    "id": "34",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "6941 Charlotte Pike",
+    "lat": 36.1290781,
+    "lon": -86.9013974,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/nashville/34"
+  },
+  {
+    "id": "18",
+    "city": "Newport",
+    "state": "TN",
+    "address": "1021 Cosby Hwy.",
+    "lat": 35.9464847,
+    "lon": -83.206551,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/newport/18"
+  },
+  {
+    "id": "610",
+    "city": "Ooltewah",
+    "state": "TN",
+    "address": "8852 Old Lee Hwy",
+    "lat": 35.0842624,
+    "lon": -85.0705058,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/ooltewah/610"
+  },
+  {
+    "id": "360",
+    "city": "Pigeon Forge",
+    "state": "TN",
+    "address": "2285 Parkway",
+    "lat": 35.8148808,
+    "lon": -83.5768722,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/pigeon-forge/360"
+  },
+  {
+    "id": "53",
+    "city": "Pigeon Forge",
+    "state": "TN",
+    "address": "3960 Parkway",
+    "lat": 35.7767585,
+    "lon": -83.5466099,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/pigeon-forge/53"
+  },
+  {
+    "id": "4",
+    "city": "Rocky Top",
+    "state": "TN",
+    "address": "111 Colonial Ln.",
+    "lat": 36.2315017,
+    "lon": -84.1607837,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/rocky-top/4"
+  },
+  {
+    "id": "514",
+    "city": "Sevierville",
+    "state": "TN",
+    "address": "690 Winfield Dunn Pkwy",
+    "lat": 35.8798445,
+    "lon": -83.5732059,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/sevierville/514"
+  },
+  {
+    "id": "429",
+    "city": "Smyrna",
+    "state": "TN",
+    "address": "2697 Highwood Blvd.",
+    "lat": 35.9725062,
+    "lon": -86.5741007,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/smyrna/429"
+  },
+  {
+    "id": "639",
+    "city": "Spring Hill",
+    "state": "TN",
+    "address": "2020 Crossings Cir.",
+    "lat": 35.7436616,
+    "lon": -86.9379346,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/spring-hill/639"
+  },
+  {
+    "id": "521",
+    "city": "White House",
+    "state": "TN",
+    "address": "370 Hester Dr.",
+    "lat": 36.46674,
+    "lon": -86.6799127,
+    "url": "https://www.crackerbarrel.com/Locations/States/tn/white-house/521"
+  },
+  {
+    "id": "594",
+    "city": "Abilene",
+    "state": "TX",
+    "address": "1602 Hwy 351",
+    "lat": 32.4784661,
+    "lon": -99.6991035,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/abilene/594"
+  },
+  {
+    "id": "714",
+    "city": "Allen",
+    "state": "TX",
+    "address": "1323 Central Expressway N.",
+    "lat": 33.1186192,
+    "lon": -96.6703913,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/allen/714"
+  },
+  {
+    "id": "210",
+    "city": "Amarillo",
+    "state": "TX",
+    "address": "2323 I-40 East",
+    "lat": 35.1940751,
+    "lon": -101.8111394,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/amarillo/210"
+  },
+  {
+    "id": "242",
+    "city": "Arlington",
+    "state": "TX",
+    "address": "1251 North Watson Rd.",
+    "lat": 32.7701989,
+    "lon": -97.0638743,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/arlington/242"
+  },
+  {
+    "id": "203",
+    "city": "Arlington",
+    "state": "TX",
+    "address": "4300 South Bowen Rd.",
+    "lat": 32.6759965,
+    "lon": -97.1502834,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/arlington/203"
+  },
+  {
+    "id": "172",
+    "city": "Baytown",
+    "state": "TX",
+    "address": "5173 Interstate 10 E",
+    "lat": 29.80862,
+    "lon": -94.97946,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/baytown/172"
+  },
+  {
+    "id": "451",
+    "city": "Beaumont",
+    "state": "TX",
+    "address": "5390 Walden Rd",
+    "lat": 30.0378426,
+    "lon": -94.1545356,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/beaumont/451"
+  },
+  {
+    "id": "322",
+    "city": "Benbrook",
+    "state": "TX",
+    "address": "8010 SW Loop 820",
+    "lat": 32.6841443,
+    "lon": -97.4200654,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/benbrook/322"
+  },
+  {
+    "id": "676",
+    "city": "Bryan",
+    "state": "TX",
+    "address": "3110 Briarcrest Dr.",
+    "lat": 30.6649427,
+    "lon": -96.3247257,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/bryan/676"
+  },
+  {
+    "id": "595",
+    "city": "Buda",
+    "state": "TX",
+    "address": "550 County Rd. 117",
+    "lat": 30.0849418,
+    "lon": -97.8225609,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/buda/595"
+  },
+  {
+    "id": "327",
+    "city": "Burleson",
+    "state": "TX",
+    "address": "13301 South Freeway",
+    "lat": 32.5654596,
+    "lon": -97.3176514,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/burleson/327"
+  },
+  {
+    "id": "288",
+    "city": "Conroe",
+    "state": "TX",
+    "address": "1301 League Line Rd.",
+    "lat": 30.3663315,
+    "lon": -95.4865473,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/conroe/288"
+  },
+  {
+    "id": "321",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "address": "4229 South Padre Island Dr.",
+    "lat": 27.7185918,
+    "lon": -97.3943296,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/corpus-christi/321"
+  },
+  {
+    "id": "710",
+    "city": "Cypress",
+    "state": "TX",
+    "address": "US 290 & Mueschke Rd.",
+    "lat": 29.9790791,
+    "lon": -95.7169835,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/cypress/710"
+  },
+  {
+    "id": "149",
+    "city": "Denton",
+    "state": "TX",
+    "address": "4008 N I-35",
+    "lat": 33.231192,
+    "lon": -97.173132,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/denton/149"
+  },
+  {
+    "id": "266",
+    "city": "Desoto",
+    "state": "TX",
+    "address": "1421 N. Beckley Ave.",
+    "lat": 32.6179177,
+    "lon": -96.8243915,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/desoto/266"
+  },
+  {
+    "id": "774",
+    "city": "El Paso",
+    "state": "TX",
+    "address": "13381 Gateway West",
+    "lat": 31.8369053,
+    "lon": -106.5680749,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/el-paso/774"
+  },
+  {
+    "id": "252",
+    "city": "El Paso",
+    "state": "TX",
+    "address": "7540 Remcon Circle",
+    "lat": 31.8369053,
+    "lon": -106.5680749,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/el-paso/252"
+  },
+  {
+    "id": "778",
+    "city": "Fort Worth",
+    "state": "TX",
+    "address": "15805 North Freeway",
+    "lat": 33.019434,
+    "lon": -97.280785,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/fort-worth/778"
+  },
+  {
+    "id": "205",
+    "city": "Fort Worth",
+    "state": "TX",
+    "address": "4691 Gemini Place",
+    "lat": 32.8272133,
+    "lon": -97.3142772,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/fort-worth/205"
+  },
+  {
+    "id": "600",
+    "city": "Gainesville",
+    "state": "TX",
+    "address": "4327 N I-35",
+    "lat": 33.680464,
+    "lon": -97.1572259,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/gainesville/600"
+  },
+  {
+    "id": "609",
+    "city": "Grapevine",
+    "state": "TX",
+    "address": "2700 Grapevine Mills Pkwy",
+    "lat": 32.9671302,
+    "lon": -97.0358562,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/grapevine/609"
+  },
+  {
+    "id": "381",
+    "city": "Greenville",
+    "state": "TX",
+    "address": "3401 West I-30",
+    "lat": 33.0937183,
+    "lon": -96.1134088,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/greenville/381"
+  },
+  {
+    "id": "653",
+    "city": "Harker Heights",
+    "state": "TX",
+    "address": "201 Central TX Expy.",
+    "lat": 31.073724,
+    "lon": -97.660408,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/harker-heights/653"
+  },
+  {
+    "id": "670",
+    "city": "Harlingen",
+    "state": "TX",
+    "address": "110 Bass Pro Dr.",
+    "lat": 26.1901949,
+    "lon": -97.720412,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/harlingen/670"
+  },
+  {
+    "id": "766",
+    "city": "Hewitt",
+    "state": "TX",
+    "address": "221 Enterprise Blvd.",
+    "lat": 31.4563865,
+    "lon": -97.1740995,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/hewitt/766"
+  },
+  {
+    "id": "379",
+    "city": "Houston",
+    "state": "TX",
+    "address": "14765 N. Freeway",
+    "lat": 29.9804844,
+    "lon": -95.4236569,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/houston/379"
+  },
+  {
+    "id": "206",
+    "city": "Houston",
+    "state": "TX",
+    "address": "18151 Katy Freeway",
+    "lat": 29.7835882,
+    "lon": -95.6920667,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/houston/206"
+  },
+  {
+    "id": "421",
+    "city": "Kerrville",
+    "state": "TX",
+    "address": "2110 Sidney Baker",
+    "lat": 30.0681152,
+    "lon": -99.1153098,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/kerrville/421"
+  },
+  {
+    "id": "679",
+    "city": "Kingwood",
+    "state": "TX",
+    "address": "24400 Eastex Freeway",
+    "lat": 30.0672491,
+    "lon": -95.2465056,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/kingwood/679"
+  },
+  {
+    "id": "166",
+    "city": "Lacy Lakeview",
+    "state": "TX",
+    "address": "4275 North I-35",
+    "lat": 31.6032847,
+    "lon": -97.108472,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/lacy-lakeview/166"
+  },
+  {
+    "id": "202",
+    "city": "League City",
+    "state": "TX",
+    "address": "231 Gulf Freeway S.",
+    "lat": 29.5008371,
+    "lon": -95.1140164,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/league-city/202"
+  },
+  {
+    "id": "198",
+    "city": "Lewisville",
+    "state": "TX",
+    "address": "889 South Stemmons",
+    "lat": 33.0362135,
+    "lon": -97.0014237,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/lewisville/198"
+  },
+  {
+    "id": "719",
+    "city": "Longview",
+    "state": "TX",
+    "address": "822 S. Access Rd.",
+    "lat": 32.4496918,
+    "lon": -94.7072636,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/longview/719"
+  },
+  {
+    "id": "633",
+    "city": "Lubbock",
+    "state": "TX",
+    "address": "5018 Milwaukee Ave",
+    "lat": 33.545217,
+    "lon": -101.9575931,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/lubbock/633"
+  },
+  {
+    "id": "622",
+    "city": "Lufkin",
+    "state": "TX",
+    "address": "US 59 & Whitehouse Dr, Exit 391",
+    "lat": 31.295842,
+    "lon": -94.719176,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/lufkin/622"
+  },
+  {
+    "id": "645",
+    "city": "McAllen",
+    "state": "TX",
+    "address": "3817 W Expressway 83",
+    "lat": 26.194103,
+    "lon": -98.2650214,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/mcallen/645"
+  },
+  {
+    "id": "197",
+    "city": "Mesquite",
+    "state": "TX",
+    "address": "5304 North Galloway Ave.",
+    "lat": 32.8353003,
+    "lon": -96.633869,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/mesquite/197"
+  },
+  {
+    "id": "637",
+    "city": "Midland",
+    "state": "TX",
+    "address": "3108 N Loop 250 West",
+    "lat": 32.009677,
+    "lon": -102.1566164,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/midland/637"
+  },
+  {
+    "id": "668",
+    "city": "Pearland",
+    "state": "TX",
+    "address": "11019 Shadow Creek Pkwy.",
+    "lat": 29.5834793,
+    "lon": -95.387534,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/pearland/668"
+  },
+  {
+    "id": "783",
+    "city": "Prosper",
+    "state": "TX",
+    "address": "3830 W University Dr",
+    "lat": 33.2198176,
+    "lon": -96.8633022,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/prosper/783"
+  },
+  {
+    "id": "769",
+    "city": "Rockwall",
+    "state": "TX",
+    "address": "845 East Interstate 30",
+    "lat": 32.8998626,
+    "lon": -96.4584247,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/rockwall/769"
+  },
+  {
+    "id": "673",
+    "city": "Rosenberg",
+    "state": "TX",
+    "address": "23801 SW Fwy.",
+    "lat": 29.5450148,
+    "lon": -95.747879,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/rosenberg/673"
+  },
+  {
+    "id": "173",
+    "city": "Round Rock",
+    "state": "TX",
+    "address": "2350 N IH35",
+    "lat": 30.5351727,
+    "lon": -97.6941982,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/round-rock/173"
+  },
+  {
+    "id": "154",
+    "city": "San Antonio",
+    "state": "TX",
+    "address": "11030 I H 10 W.",
+    "lat": 29.5450975,
+    "lon": -98.5814165,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/san-antonio/154"
+  },
+  {
+    "id": "576",
+    "city": "San Antonio",
+    "state": "TX",
+    "address": "123 SW Loop 410",
+    "lat": 29.4367095,
+    "lon": -98.6452345,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/san-antonio/576"
+  },
+  {
+    "id": "690",
+    "city": "San Antonio",
+    "state": "TX",
+    "address": "3327 SE Military Dr.",
+    "lat": 29.352263,
+    "lon": -98.4344445,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/san-antonio/690"
+  },
+  {
+    "id": "211",
+    "city": "San Antonio",
+    "state": "TX",
+    "address": "6330 N Interstate 35",
+    "lat": 29.4863372,
+    "lon": -98.4012045,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/san-antonio/211"
+  },
+  {
+    "id": "684",
+    "city": "San Antonio",
+    "state": "TX",
+    "address": "98 NE Hwy.410",
+    "lat": 29.519343,
+    "lon": -98.4844122,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/san-antonio/684"
+  },
+  {
+    "id": "228",
+    "city": "San Marcos",
+    "state": "TX",
+    "address": "4321 IH 35 S",
+    "lat": 29.743852,
+    "lon": -98.0611485,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/san-marcos/228"
+  },
+  {
+    "id": "623",
+    "city": "Sherman",
+    "state": "TX",
+    "address": "3501 N US Hwy 75",
+    "lat": 33.675,
+    "lon": -96.6102443,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/sherman/623"
+  },
+  {
+    "id": "692",
+    "city": "Temple",
+    "state": "TX",
+    "address": "3687 S General Bruce Dr.",
+    "lat": 31.0898145,
+    "lon": -97.3855506,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/temple/692"
+  },
+  {
+    "id": "375",
+    "city": "Texarkana",
+    "state": "TX",
+    "address": "3302 St. Michaels Dr.",
+    "lat": 33.4604476,
+    "lon": -94.081125,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/texarkana/375"
+  },
+  {
+    "id": "430",
+    "city": "Tyler",
+    "state": "TX",
+    "address": "13821 US Hwy 69 N",
+    "lat": 32.4665957,
+    "lon": -95.387534,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/tyler/430"
+  },
+  {
+    "id": "583",
+    "city": "Weatherford",
+    "state": "TX",
+    "address": "132 East I-20",
+    "lat": 32.729905,
+    "lon": -97.7846943,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/weatherford/583"
+  },
+  {
+    "id": "631",
+    "city": "Wichita Falls",
+    "state": "TX",
+    "address": "2400 Sierra Dr",
+    "lat": 33.9485641,
+    "lon": -98.5256304,
+    "url": "https://www.crackerbarrel.com/Locations/States/tx/wichita-falls/631"
+  },
+  {
+    "id": "314",
+    "city": "Layton",
+    "state": "UT",
+    "address": "1792 N. Heritage Park Blvd.",
+    "lat": 41.0865872,
+    "lon": -111.9865614,
+    "url": "https://www.crackerbarrel.com/Locations/States/ut/layton/314"
+  },
+  {
+    "id": "602",
+    "city": "Saint George",
+    "state": "UT",
+    "address": "1736 Convention Center Dr",
+    "lat": 37.0782119,
+    "lon": -113.5838774,
+    "url": "https://www.crackerbarrel.com/Locations/States/ut/saint-george/602"
+  },
+  {
+    "id": "337",
+    "city": "Springville",
+    "state": "UT",
+    "address": "460 South 2000 West",
+    "lat": 40.1601749,
+    "lon": -111.6502822,
+    "url": "https://www.crackerbarrel.com/Locations/States/ut/springville/337"
+  },
+  {
+    "id": "323",
+    "city": "West Valley",
+    "state": "UT",
+    "address": "2283 West City Center Court",
+    "lat": 40.6990631,
+    "lon": -111.9502929,
+    "url": "https://www.crackerbarrel.com/Locations/States/ut/west-valley/323"
+  },
+  {
+    "id": "96",
+    "city": "Abingdon",
+    "state": "VA",
+    "address": "909 Empire Dr.",
+    "lat": 36.7161332,
+    "lon": -81.9349823,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/abingdon/96"
+  },
+  {
+    "id": "248",
+    "city": "Ashland",
+    "state": "VA",
+    "address": "106 S Carter Rd.",
+    "lat": 37.7578975,
+    "lon": -77.460052,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/ashland/248"
+  },
+  {
+    "id": "614",
+    "city": "Bristol",
+    "state": "VA",
+    "address": "125 Village Cir.",
+    "lat": 36.630175,
+    "lon": -82.1186133,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/bristol/614"
+  },
+  {
+    "id": "629",
+    "city": "Chesapeake",
+    "state": "VA",
+    "address": "1440 Greenbrier Pkwy.",
+    "lat": 36.7792432,
+    "lon": -76.2322057,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/chesapeake/629"
+  },
+  {
+    "id": "658",
+    "city": "Chesapeake",
+    "state": "VA",
+    "address": "217 Hillcrest Pkwy",
+    "lat": 36.6564481,
+    "lon": -76.2321402,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/chesapeake/658"
+  },
+  {
+    "id": "652",
+    "city": "Chesapeake",
+    "state": "VA",
+    "address": "4700 PORTSMOUTH BLVD.",
+    "lat": 36.8183544,
+    "lon": -76.4380058,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/chesapeake/652"
+  },
+  {
+    "id": "329",
+    "city": "Chester",
+    "state": "VA",
+    "address": "12401 Red Water Creek Rd.",
+    "lat": 37.3562841,
+    "lon": -77.4071197,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/chester/329"
+  },
+  {
+    "id": "60",
+    "city": "Christiansburg",
+    "state": "VA",
+    "address": "30 Hampton Blvd.",
+    "lat": 37.138909,
+    "lon": -80.353641,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/christiansburg/60"
+  },
+  {
+    "id": "239",
+    "city": "Dumfries",
+    "state": "VA",
+    "address": "17115 Dumfries Rd.",
+    "lat": 38.5814844,
+    "lon": -77.3240966,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/dumfries/239"
+  },
+  {
+    "id": "560",
+    "city": "Emporia",
+    "state": "VA",
+    "address": "103 Sadler Ln.",
+    "lat": 36.700986,
+    "lon": -77.5429092,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/emporia/560"
+  },
+  {
+    "id": "537",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "address": "1971 Carl D. Silver Pkwy.",
+    "lat": 38.3090792,
+    "lon": -77.5126293,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/fredericksburg/537"
+  },
+  {
+    "id": "106",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "address": "5200 Southpoint Pkwy.",
+    "lat": 38.2323796,
+    "lon": -77.4991442,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/fredericksburg/106"
+  },
+  {
+    "id": "605",
+    "city": "Front Royal",
+    "state": "VA",
+    "address": "15 Riverton Commons Plaza",
+    "lat": 38.9620808,
+    "lon": -78.1898399,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/front-royal/605"
+  },
+  {
+    "id": "559",
+    "city": "Hampton",
+    "state": "VA",
+    "address": "106 Market place Dr",
+    "lat": 37.0380339,
+    "lon": -76.4016183,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/hampton/559"
+  },
+  {
+    "id": "263",
+    "city": "Harrisonburg",
+    "state": "VA",
+    "address": "121 Pleasant Valley Rd.",
+    "lat": 38.4044333,
+    "lon": -78.9067668,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/harrisonburg/263"
+  },
+  {
+    "id": "463",
+    "city": "Lynchburg",
+    "state": "VA",
+    "address": "3820 Wards Rd.",
+    "lat": 37.3549343,
+    "lon": -79.1837305,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/lynchburg/463"
+  },
+  {
+    "id": "238",
+    "city": "Manassas",
+    "state": "VA",
+    "address": "10801 Battleview Pkwy.",
+    "lat": 38.8046019,
+    "lon": -77.5197521,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/manassas/238"
+  },
+  {
+    "id": "207",
+    "city": "Mechanicsville",
+    "state": "VA",
+    "address": "7367 Bell Creek Rd. South",
+    "lat": 37.6059779,
+    "lon": -77.3564042,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/mechanicsville/207"
+  },
+  {
+    "id": "502",
+    "city": "Midlothian",
+    "state": "VA",
+    "address": "4720 Craig Rath Blvd.",
+    "lat": 37.4140376,
+    "lon": -77.6425652,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/midlothian/502"
+  },
+  {
+    "id": "184",
+    "city": "Newport News",
+    "state": "VA",
+    "address": "12357 Hornsby Ln.",
+    "lat": 37.1130718,
+    "lon": -76.5018789,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/newport-news/184"
+  },
+  {
+    "id": "592",
+    "city": "Richmond",
+    "state": "VA",
+    "address": "3620 Mayland Court",
+    "lat": 37.6393468,
+    "lon": -77.5704917,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/richmond/592"
+  },
+  {
+    "id": "659",
+    "city": "Richmond",
+    "state": "VA",
+    "address": "4435 S Laburnum Ave",
+    "lat": 37.5282706,
+    "lon": -77.3562204,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/richmond/659"
+  },
+  {
+    "id": "570",
+    "city": "South Hill",
+    "state": "VA",
+    "address": "1400 Country Ln.",
+    "lat": 36.7148302,
+    "lon": -78.1182239,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/south-hill/570"
+  },
+  {
+    "id": "128",
+    "city": "Staunton",
+    "state": "VA",
+    "address": "152 Rowe Rd.",
+    "lat": 38.1272428,
+    "lon": -79.03674,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/staunton/128"
+  },
+  {
+    "id": "704",
+    "city": "Sterling",
+    "state": "VA",
+    "address": "23030 Indian Creek Dr.",
+    "lat": 38.9799544,
+    "lon": -77.4327704,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/sterling/704"
+  },
+  {
+    "id": "281",
+    "city": "Troutville",
+    "state": "VA",
+    "address": "3153 Lee Hwy.",
+    "lat": 37.3923642,
+    "lon": -79.9008597,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/troutville/281"
+  },
+  {
+    "id": "677",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "address": "757 Lynnhaven Pkwy.",
+    "lat": 36.8159178,
+    "lon": -76.0673832,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/virginia-beach/677"
+  },
+  {
+    "id": "568",
+    "city": "Waynesboro",
+    "state": "VA",
+    "address": "101 Apple Tree Lane",
+    "lat": 38.0631963,
+    "lon": -78.9402708,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/waynesboro/568"
+  },
+  {
+    "id": "72",
+    "city": "Williamsburg",
+    "state": "VA",
+    "address": "200 Bypass Rd.",
+    "lat": 37.2841246,
+    "lon": -76.7167868,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/williamsburg/72"
+  },
+  {
+    "id": "164",
+    "city": "Winchester",
+    "state": "VA",
+    "address": "200 Front Royal Pike",
+    "lat": 39.1598192,
+    "lon": -78.1584473,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/winchester/164"
+  },
+  {
+    "id": "582",
+    "city": "Woodstock",
+    "state": "VA",
+    "address": "451 West Reservoir Rd",
+    "lat": 38.8717768,
+    "lon": -78.5303244,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/woodstock/582"
+  },
+  {
+    "id": "422",
+    "city": "Wytheville",
+    "state": "VA",
+    "address": "160 Lithia Rd.",
+    "lat": 36.949655,
+    "lon": -81.0567927,
+    "url": "https://www.crackerbarrel.com/Locations/States/va/wytheville/422"
+  },
+  {
+    "id": "444",
+    "city": "Baraboo",
+    "state": "WI",
+    "address": "1295 WI Dells Pkwy South",
+    "lat": 43.5728617,
+    "lon": -89.7771024,
+    "url": "https://www.crackerbarrel.com/Locations/States/wi/baraboo/444"
+  },
+  {
+    "id": "175",
+    "city": "Germantown",
+    "state": "WI",
+    "address": "W176n9778 Rivercrest Dr.",
+    "lat": 43.1950744,
+    "lon": -88.1273962,
+    "url": "https://www.crackerbarrel.com/Locations/States/wi/germantown/175"
+  },
+  {
+    "id": "143",
+    "city": "Janesville",
+    "state": "WI",
+    "address": "2430 Fulton St.",
+    "lat": 42.7280144,
+    "lon": -88.9929067,
+    "url": "https://www.crackerbarrel.com/Locations/States/wi/janesville/143"
+  },
+  {
+    "id": "120",
+    "city": "Kenosha",
+    "state": "WI",
+    "address": "7015 122nd Ave.",
+    "lat": 42.5720464,
+    "lon": -87.9543865,
+    "url": "https://www.crackerbarrel.com/Locations/States/wi/kenosha/120"
+  },
+  {
+    "id": "214",
+    "city": "Madison",
+    "state": "WI",
+    "address": "2147 East Springs Dr.",
+    "lat": 43.1296147,
+    "lon": -89.2934051,
+    "url": "https://www.crackerbarrel.com/Locations/States/wi/madison/214"
+  },
+  {
+    "id": "336",
+    "city": "Barboursville",
+    "state": "WV",
+    "address": "3 Cracker Barrel Dr.",
+    "lat": 38.4151064,
+    "lon": -82.2563785,
+    "url": "https://www.crackerbarrel.com/Locations/States/wv/barboursville/336"
+  },
+  {
+    "id": "348",
+    "city": "Beckley",
+    "state": "WV",
+    "address": "2112 Harper Rd.",
+    "lat": 37.7979576,
+    "lon": -81.2197824,
+    "url": "https://www.crackerbarrel.com/Locations/States/wv/beckley/348"
+  },
+  {
+    "id": "510",
+    "city": "Charleston",
+    "state": "WV",
+    "address": "5720 MacCorkle Ave SE",
+    "lat": 38.3134874,
+    "lon": -81.5669322,
+    "url": "https://www.crackerbarrel.com/Locations/States/wv/charleston/510"
+  },
+  {
+    "id": "193",
+    "city": "Cross Lanes",
+    "state": "WV",
+    "address": "11 Goff Xing",
+    "lat": 38.409333,
+    "lon": -81.7959272,
+    "url": "https://www.crackerbarrel.com/Locations/States/wv/cross-lanes/193"
+  },
+  {
+    "id": "376",
+    "city": "Fairmont",
+    "state": "WV",
+    "address": "2206 Pleasant Valley Rd.",
+    "lat": 39.4413686,
+    "lon": -80.1689786,
+    "url": "https://www.crackerbarrel.com/Locations/States/wv/fairmont/376"
+  },
+  {
+    "id": "280",
+    "city": "Martinsburg",
+    "state": "WV",
+    "address": "725 Foxcroft Ave.",
+    "lat": 39.4564796,
+    "lon": -77.9887672,
+    "url": "https://www.crackerbarrel.com/Locations/States/wv/martinsburg/280"
+  },
+  {
+    "id": "126",
+    "city": "Mineral Wells",
+    "state": "WV",
+    "address": "40 Old Nicholette Rd.",
+    "lat": 39.1906636,
+    "lon": -81.5306289,
+    "url": "https://www.crackerbarrel.com/Locations/States/wv/mineral-wells/126"
+  },
+  {
+    "id": "640",
+    "city": "Morgantown",
+    "state": "WV",
+    "address": "345 Lewis Dr.",
+    "lat": 39.654645,
+    "lon": -80.0066739,
+    "url": "https://www.crackerbarrel.com/Locations/States/wv/morgantown/640"
+  },
+  {
+    "id": "65",
+    "city": "Princeton",
+    "state": "WV",
+    "address": "294 Meadowfield Ln.",
+    "lat": 37.3617013,
+    "lon": -81.0530835,
+    "url": "https://www.crackerbarrel.com/Locations/States/wv/princeton/65"
+  }
+]
