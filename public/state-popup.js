@@ -29,6 +29,7 @@ function openStateResults(state){
  if(office!=='senate')return;
  selectedSenateState=state;tip.hidden=true;renderStateResults();
  if(!stateDialog.open)stateDialog.showModal();
+ if(stateDialog.style.left){const rect=stateDialog.getBoundingClientRect();constrainStateDialog(rect.left,rect.top);}
 }
 document.getElementById('close-state-results').addEventListener('click',()=>stateDialog.close());
 stateDialog.addEventListener('click',event=>{if(event.target!==stateDialog)return;const r=stateDialog.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)stateDialog.close();});
@@ -39,6 +40,9 @@ stateHeader.style.userSelect='none';
 let stateDrag=null;
 function constrainStateDialog(left,top){
  const rect=stateDialog.getBoundingClientRect();
+ stateDialog.style.position='fixed';
+ stateDialog.style.right='auto';
+ stateDialog.style.bottom='auto';
  stateDialog.style.margin='0';
  stateDialog.style.left=Math.max(8,Math.min(left,innerWidth-rect.width-8))+'px';
  stateDialog.style.top=Math.max(8,Math.min(top,innerHeight-rect.height-8))+'px';
@@ -49,10 +53,11 @@ stateHeader.addEventListener('pointerdown',event=>{
  stateDrag={id:event.pointerId,offsetX:event.clientX-rect.left,offsetY:event.clientY-rect.top};
  constrainStateDialog(rect.left,rect.top);
  stateHeader.setPointerCapture(event.pointerId);
+ event.stopPropagation();
  event.preventDefault();
 });
 stateHeader.addEventListener('pointermove',event=>{
- if(stateDrag?.id===event.pointerId)constrainStateDialog(event.clientX-stateDrag.offsetX,event.clientY-stateDrag.offsetY);
+ if(stateDrag?.id===event.pointerId){event.preventDefault();event.stopPropagation();constrainStateDialog(event.clientX-stateDrag.offsetX,event.clientY-stateDrag.offsetY);}
 });
 function endStateDrag(event){
  if(stateDrag?.id!==event.pointerId)return;
